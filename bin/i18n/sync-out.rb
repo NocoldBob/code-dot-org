@@ -242,7 +242,7 @@ def distribute_course_content(locale)
     type_data[locale] = Hash.new
     type_data[locale]["data"] = Hash.new
     type_data[locale]["data"][type] = translations.sort.to_h
-    sanitize_data_and_write(type_data, "dashboard/config/locales/#{type}.#{locale}.yml")
+    sanitize_data_and_write(type_data, "dashboard/config/locales/#{type}.#{locale}.json")
   end
 end
 

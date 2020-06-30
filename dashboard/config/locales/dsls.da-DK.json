@@ -1,0 +1,3715 @@
+{
+  "da-DK": {
+    "data": {
+      "dsls": {
+        "2-3 Algorithms Multi 1": {
+          "answers": [
+            {
+              "text": "Start med en firkant<br/>Sæt en trekant oven på firkanten<br/>Sæt en trekant under firkanten"
+            },
+            {
+              "correct": true
+            },
+            {
+              "text": "Start med et kvadrat <br/> sæt et parallelogram ovenover kvadratet <br/> sætte en trekant lige ved siden af parallelogrammet"
+            },
+            {
+              "text": "Start med et kvadrat <br/> sæt en trekant under kvadratet <br/> sæt et parallelogram ved siden af trekanten"
+            }
+          ],
+          "questions": [
+            {
+              "text": "Vælg en algoritme til billeet."
+            }
+          ],
+          "title": "Vælg et svar"
+        },
+        "2-3 Algorithms Multi 2": {
+          "answers": [
+            {
+            },
+            {
+              "correct": true
+            },
+            {
+            },
+            {
+            }
+          ],
+          "content1": "Start med en trekant<br/>Sæt en firkant under trekanten<br/>Sæt en anden trekant under firkanten",
+          "questions": [
+            {
+              "text": "Hvilket billede følger <em>ikke</em> denne algoritme?"
+            }
+          ],
+          "title": "Vælg et svar"
+        },
+        "2-3 Big Event Match 1": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+            }
+          ],
+          "content2": "Match knapkombinationen til dansebevægelserne.",
+          "questions": [
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+            }
+          ],
+          "title": "Matching"
+        },
+        "2-3 Binary Match 1": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+            }
+          ],
+          "content2": "Brug nøglen til at matche hver kode med dets bogstav",
+          "questions": [
+            {
+              "text": "<strong>N</strong>"
+            },
+            {
+              "text": "<strong>O</strong>"
+            },
+            {
+              "text": "<strong>P</strong>"
+            },
+            {
+              "text": "<strong>Q</strong>"
+            }
+          ],
+          "title": "Matching"
+        },
+        "2-3 Conditionals Multi 1": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+              "correct": true
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+              "text": "Efter reglerne i spillet, hvilket sæt af kort er scorer korrekt?"
+            }
+          ],
+          "title": "Vælg et svar"
+        },
+        "2-3 Getting Loopy Multi 1": {
+          "answers": [
+            {
+              "correct": true
+            },
+            {
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+              "text": "Hvordan kan du forenkle denne sekvens ved hjælp af løkker?"
+            }
+          ],
+          "title": "Vælg et svar"
+        },
+        "2-3 Graph Paper Match 1": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+            }
+          ],
+          "content1": "Match gitteret til programmet.",
+          "questions": [
+            {
+            },
+            {
+            },
+            {
+            }
+          ],
+          "title": "Matching"
+        },
+        "2-3 Graph Paper Multi 1": {
+          "answers": [
+            {
+            },
+            {
+              "correct": true
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+              "text": "Hvilket program tegner dette billede?"
+            }
+          ],
+          "title": "Vælg et svar"
+        },
+        "2-3 Maze Match 2": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+            }
+          ],
+          "content1": "Par opgaverne med blokkene",
+          "questions": [
+            {
+            },
+            {
+            },
+            {
+            }
+          ],
+          "title": "Match Match"
+        },
+        "2-3 Maze Multi 2": {
+          "answers": [
+            {
+            },
+            {
+              "correct": true
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ],
+          "title": "Labyrint - Vælg et svar"
+        },
+        "2-3 Relay Programming Multi 1": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+              "correct": true
+            }
+          ],
+          "questions": [
+            {
+            }
+          ],
+          "title": "Vælg et svar"
+        },
+        "2-3 Relay Programming Multi 2": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+              "correct": true
+            }
+          ],
+          "questions": [
+            {
+              "text": "Hvilke billed-program indeholder ikke fejl?"
+            }
+          ],
+          "title": "Vælg et svar"
+        },
+        "2-3 artist debug multi 1": {
+          "answers": [
+            {
+            },
+            {
+              "correct": true
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "2-3 artist functions multi 1": {
+          "answers": [
+            {
+              "correct": true
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+              "text": "Væld de rigtige blokke for at tegne billedet med de givne funktioner"
+            }
+          ],
+          "title": "Kunstner Funktioner Multiple Choice 1"
+        },
+        "2-3 artist loops match 1": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+            }
+          ],
+          "content2": "Match løkken til figuren",
+          "questions": [
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+            }
+          ]
+        },
+        "2-3 artist loops multi 1": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+              "correct": true
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+              "text": "Hvilken figur er tegnet af denne løkke?"
+            }
+          ],
+          "title": "Kunstner Løkker Multiple Choice"
+        },
+        "2-3 artist loops multi 2": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+              "correct": true
+            }
+          ],
+          "questions": [
+            {
+              "text": "Hvilken figur er tegnet af dette progrem?"
+            }
+          ],
+          "title": "Kunstner Løkker Multiple Choice"
+        },
+        "2-3 artist match 1": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+            }
+          ],
+          "content1": "Match figuren med de blokke der tegner den færdig.",
+          "questions": [
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+            }
+          ],
+          "title": "Kunstner match"
+        },
+        "2-3 bee conditionals multi 1": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+              "correct": true
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+              "text": "Hvilken sammenligning er sand?"
+            }
+          ]
+        },
+        "2-3 bee conditionals multi 3": {
+          "answers": [
+            {
+            },
+            {
+              "correct": true
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+              "text": "Vælg de bedste blokke."
+            }
+          ]
+        },
+        "2-3 bee loops multi 1": {
+          "answers": [
+            {
+              "correct": true
+            },
+            {
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+              "text": "Hvilke blokke indsamler al nektaren?"
+            }
+          ],
+          "title": "Bi Løkker Multiple Choice 1"
+        },
+        "2-3 maze match 1": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+            }
+          ],
+          "content1": "Par opgaverne med blokkene",
+          "questions": [
+            {
+            },
+            {
+            },
+            {
+            }
+          ],
+          "title": "Labyrint Match 1"
+        },
+        "2-3 maze multi 1": {
+          "answers": [
+            {
+            },
+            {
+              "correct": true
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+              "text": "Hvilket sæt af blokke er det korrekte svar?"
+            }
+          ],
+          "title": "Labyrint Multiple Choice 1"
+        },
+        "4-5 Algorithms Match 1": {
+          "answers": [
+            {
+              "text": "<h4>Sæt spiller 1 score til 0</h4>"
+            },
+            {
+              "text": "<h4>Spiller 1 kaster død</h4>"
+            },
+            {
+              "text": "<h4>Tilføj spiller 1's kast til total score</h4>"
+            },
+            {
+              "text": "<h4>Sammenlign spillernes scores for at se, hvem der vinder</h4>"
+            }
+          ],
+          "content1": "Lav trinnene i \"Terning Race spillet\" i den rækkefølge, de skal vises i algoritmen.",
+          "questions": [
+            {
+              "text": "<h4>1)</h4>"
+            },
+            {
+              "text": "<h4>2)</h4>"
+            },
+            {
+              "text": "<h4>3)</h4>"
+            },
+            {
+              "text": "<h4>4)</h4>"
+            }
+          ],
+          "title": "Matching"
+        },
+        "4-5 Algorithms Multi 1": {
+          "answers": [
+            {
+              "text": "Børste tænder"
+            },
+            {
+              "text": "Bage småkager"
+            },
+            {
+              "text": "Indkøb fra en indkøbsliste"
+            },
+            {
+              "text": "Banan",
+              "correct": true
+            }
+          ],
+          "questions": [
+            {
+              "text": "Hvilken en af disse elementer er sværest at beskrive en algoritme til?"
+            }
+          ],
+          "title": "Vælg et svar"
+        },
+        "4-5 Computational Thinking Match 1": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+            }
+          ],
+          "content1": "Hver af disse køretøjer er blevet nedbrudt i mindre stykker. Sammenlign hvert køretøj med sin nedbrudte liste.",
+          "questions": [
+            {
+              "text": "<h3>Hjul/side: 2 <br/>Vindue/side: 0</h3>"
+            },
+            {
+              "text": "<h3>Hjul/side: 2 <br/>Vindue/side: 1</h3>"
+            },
+            {
+              "text": "<h3>Hjul/side: 2 <br/>Vindue/side: 6</h3>"
+            },
+            {
+              "text": "<h3>Hjul/side: 3<br/>Vindue/side: 2</h3>"
+            }
+          ],
+          "title": "Matching"
+        },
+        "4-5 Computational Thinking Multi 1": {
+          "answers": [
+            {
+              "text": "Seattle _____ en _____ _____."
+            },
+            {
+              "text": "_____ er en _____ by.",
+              "correct": true
+            },
+            {
+              "text": "_____ er _____ en _____."
+            },
+            {
+              "text": "Eugene er en _____ by."
+            }
+          ],
+          "questions": [
+            {
+              "text": "Seattle er en storby.<br/>Eugene er en mellemstor by<br/>Hillview er en lille by."
+            }
+          ],
+          "title": "Vælg et svar"
+        },
+        "4-5 Crowdsourcing Multi 1": {
+          "answers": [
+            {
+            },
+            {
+              "correct": true
+            }
+          ],
+          "questions": [
+            {
+              "text": "Hvilket af disse billeder repræsenterer bedst crowdsourcing?"
+            }
+          ],
+          "title": "Vælg et svar"
+        },
+        "4-5 Crowdsourcing Multi 2": {
+          "answers": [
+            {
+              "text": "Rydde op på dit værelse",
+              "correct": true
+            },
+            {
+              "text": "Spise dessert"
+            },
+            {
+              "text": "Børste dit hår"
+            },
+            {
+              "text": "Vaske dit ansigt"
+            }
+          ],
+          "questions": [
+            {
+              "text": "Hvilken en af disse aktiviteter vil være bedst for lave crowdsourcing?"
+            }
+          ],
+          "title": "Vælg et svar"
+        },
+        "4-5 Digital Footprint Multi 1": {
+          "answers": [
+            {
+              "text": "Din fødselsdato"
+            },
+            {
+              "text": "Din livret",
+              "correct": true
+            },
+            {
+              "text": "Din adresse"
+            },
+            {
+              "text": "Dine forældres kreditkortnummer"
+            }
+          ],
+          "questions": [
+            {
+              "text": "Hvilken del af nedenstående oplysninger er i orden at dele på internettet?"
+            }
+          ],
+          "title": "Vælg et svar"
+        },
+        "4-5 Internet Multi 1": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+              "correct": true
+            }
+          ],
+          "questions": [
+            {
+              "text": "Når du forsøger at logge på code.org, hvilken IP-adresse vil din DNS højst sandsynligt til at tage dig til?"
+            }
+          ],
+          "title": "Vælg et svar"
+        },
+        "4-5 Internet Multi 2": {
+          "answers": [
+            {
+            },
+            {
+              "correct": true
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+              "text": "Hvis din DNS har sendt dig til siden på IP-adressen 100.42.50.110, hvilken hjemmeside er du på?"
+            }
+          ],
+          "title": "Vælg et svar"
+        },
+        "4-5 Songwriting Multi 1": {
+          "answers": [
+            {
+              "text": "Lou, Lou, springe til min Lou"
+            },
+            {
+              "text": "Lou, Lou, springe til min Lou <br/> Lou, Lou, springe til min Lou <br/> Lou, Lou, springe til min Lou <br/> Spring til min Lou, min ulv.",
+              "correct": true
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ],
+          "title": "Vælg et svar"
+        },
+        "4-5 Suncatchers Match 1": {
+          "answers": [
+            {
+              "text": "<h4>STACK</h4>"
+            },
+            {
+              "text": "<h4>STAMP</h4>"
+            },
+            {
+              "text": "<h4>STAR</h4>"
+            },
+            {
+              "text": "<h4>RAMP</h4>"
+            }
+          ],
+          "content1": "Sammenlign hvert program med det ord som laves, ved hjælp af den angivne gruppe af færdigheder.",
+          "questions": [
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+            }
+          ],
+          "title": "Matching"
+        },
+        "4-5 Suncatchers Multi 1": {
+          "answers": [
+            {
+            },
+            {
+              "correct": true
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+              "text": "Hvilke af programmer nedenfor <em>udgør ikke</em> den nøjagtige samme rækkefølge som Program 1?"
+            }
+          ],
+          "title": "Vælg et svar"
+        },
+        "4-5 artist loops multi 1": {
+          "answers": [
+            {
+            },
+            {
+              "correct": true
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+              "text": "Hvilke blokke vil lave dette design?"
+            }
+          ],
+          "title": "Kunstner Løkker Multiple Choice"
+        },
+        "4-5 artist multi 1": {
+          "answers": [
+            {
+            },
+            {
+              "correct": true
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+              "text": "Hvilke blokke tegner et rektangel med en omkreds på 100?"
+            }
+          ],
+          "title": "Kunstner Multiple Choice"
+        },
+        "4-5 artist multi 2": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+              "correct": true
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+              "text": "Hvilken tegning er symmetrisk?"
+            }
+          ],
+          "title": "Kunstner Multiple Choice"
+        },
+        "4-5 bee conditionals multi 1": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+              "correct": true
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+              "text": "Vælg de bedste blokke."
+            }
+          ],
+          "title": "Bi Betingelser Multiple Choice"
+        },
+        "4-5 bee debug multi 1": {
+          "answers": [
+            {
+            },
+            {
+              "correct": true
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+              "text": "Hvilken udgave af funktionen vil virke?"
+            }
+          ],
+          "title": "Bi Fejlfinding Multiple Choice"
+        },
+        "4-5 bee loops multi 1": {
+          "answers": [
+            {
+              "correct": true
+            },
+            {
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+              "text": "Hvilke blokke løser opgaven?"
+            }
+          ],
+          "title": "Bi Løkker Multiple Choice"
+        },
+        "4-5 maze conditionals multi 1": {
+          "answers": [
+            {
+              "correct": true
+            },
+            {
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+              "text": "Hvilke blokke løser opgaven?"
+            }
+          ],
+          "title": "Labyrint betingelser multiple choice"
+        },
+        "4-5 maze match 1": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+            }
+          ],
+          "content1": "Par opgaverne med blokkene",
+          "questions": [
+            {
+            },
+            {
+            },
+            {
+            }
+          ],
+          "title": "Match Match"
+        },
+        "4-5 maze multi 1": {
+          "answers": [
+            {
+              "correct": true
+            },
+            {
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+              "text": "Hvilke blokke løser opgaven?"
+            }
+          ],
+          "title": "Labyrint - Vælg et svar"
+        },
+        "Begin planning your project": {
+          "content1": "Beskrivelse her"
+        },
+        "Begin planning your project_2018": {
+          "content1": "Beskrivelse her"
+        },
+        "Begin planning your project_2018_2019": {
+          "content1": "Beskrivelse her"
+        },
+        "CSD Header Size MC": {
+          "answers": [
+            {
+            },
+            {
+              "correct": true
+            },
+            {
+            },
+            {
+            }
+          ]
+        },
+        "CSD Header Size MC_2018": {
+          "answers": [
+            {
+            },
+            {
+              "correct": true
+            },
+            {
+            },
+            {
+            }
+          ]
+        },
+        "CSD Header Size MC_2018_2019": {
+          "answers": [
+            {
+            },
+            {
+              "correct": true
+            },
+            {
+            },
+            {
+            }
+          ]
+        },
+        "CSD U2 Design Project": {
+          "content1": "Beskrivelse her"
+        },
+        "CSD U2 Design Project_2018": {
+          "content1": "Beskrivelse her"
+        },
+        "CSD U2 Design Project_2018_2019": {
+          "content1": "Beskrivelse her"
+        },
+        "CSD U2 L1 Overview": {
+          "content1": "Beskrivelse her"
+        },
+        "CSD U2 L2 Overview": {
+          "content1": "Beskrivelse her"
+        },
+        "CSD U2 L3 Overview": {
+          "content1": "Beskrivelse her"
+        },
+        "CSD U2 L4 Overview": {
+          "content1": "Beskrivelse her"
+        },
+        "CSD U2 L5 Overview": {
+          "content1": "Beskrivelse her"
+        },
+        "CSD U2 L6 Overview": {
+          "content1": "Beskrivelse her"
+        },
+        "CSD U2 Lesson 6 Overview": {
+          "content1": "Beskrivelse her"
+        },
+        "CSD U2 expand project": {
+          "content1": "Beskrivelse her"
+        },
+        "CSD U2 expand project_2018": {
+          "content1": "Beskrivelse her"
+        },
+        "CSD U2 expand project_2018_2019": {
+          "content1": "Beskrivelse her"
+        },
+        "CSD U2 image debug match": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+            }
+          ]
+        },
+        "CSD U2 lists match": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+            }
+          ]
+        },
+        "CSD U2 lists match_2018": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+            }
+          ]
+        },
+        "CSD U2 lists match_2018_2019": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+            }
+          ]
+        },
+        "CSD U2 project guide": {
+          "content1": "Beskrivelse her"
+        },
+        "CSD U2 project guide_2018": {
+          "content1": "Beskrivelse her"
+        },
+        "CSD U2 project guide_2018_2019": {
+          "content1": "Beskrivelse her"
+        },
+        "CSD U3 - conditionals - Matching": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+            }
+          ]
+        },
+        "CSD U3 - conditionals - Matching_2018": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+            }
+          ]
+        },
+        "CSD U3 - conditionals - Matching_2018_2019": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+            }
+          ]
+        },
+        "CSD U3 Boolean MC": {
+          "answers": [
+            {
+              "correct": true
+            },
+            {
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ],
+          "title": "titel"
+        },
+        "CSD U3 Boolean MC_2018": {
+          "answers": [
+            {
+              "correct": true
+            },
+            {
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ],
+          "title": "titel"
+        },
+        "CSD U3 Boolean MC_2018_2019": {
+          "answers": [
+            {
+              "correct": true
+            },
+            {
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ],
+          "title": "titel"
+        },
+        "CSD U3 Card Examples_2018": {
+          "content1": "Beskrivelse her"
+        },
+        "CSD U3 Card Examples_2018_2019": {
+          "content1": "Beskrivelse her"
+        },
+        "CSD U3 Functions Prediction define first": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+              "correct": true
+            },
+            {
+            }
+          ]
+        },
+        "CSD U3 Functions Prediction define first_2018": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+              "correct": true
+            },
+            {
+            }
+          ]
+        },
+        "CSD U3 Functions Prediction define first_2018_2019": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+              "correct": true
+            },
+            {
+            }
+          ]
+        },
+        "CSD U3 Keypress Matching": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            },
+            {
+            },
+            {
+            }
+          ]
+        },
+        "CSD U3 Keypress Matching_2018": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            },
+            {
+            },
+            {
+            }
+          ]
+        },
+        "CSD U3 Keypress Matching_2018_2019": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            },
+            {
+            },
+            {
+            }
+          ]
+        },
+        "CSD U3 Sprite Movement Predict Multi": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+              "correct": true
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "CSD U3 Sprite Movement Predict Multi_2018": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+              "correct": true
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "CSD U3 Sprite Movement Predict Multi_2018_2019": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+              "correct": true
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "CSD U3 Sprites intro predict multi": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+              "correct": true
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "CSD U3 Sprites intro predict multi_2018": {
+          "answers": [
+            {
+              "correct": true
+            },
+            {
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "CSD U3 Sprites intro predict multi_2018_2019": {
+          "answers": [
+            {
+              "correct": true
+            },
+            {
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "CSD U3 combining rep": {
+          "content1": "Beskrivelse her"
+        },
+        "CSD U3 combining rep_2018": {
+          "content1": "Beskrivelse her"
+        },
+        "CSD U3 combining rep_2018_2019": {
+          "content1": "Beskrivelse her"
+        },
+        "CSD U3 drawSprites placement match": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+            }
+          ]
+        },
+        "CSD U3 drawSprites placement match_2019": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+            }
+          ]
+        },
+        "CSD U3 game intro": {
+          "content1": "Beskrivelse her"
+        },
+        "CSD U3 game intro_2018": {
+          "content1": "Beskrivelse her"
+        },
+        "CSD U3 game intro_2018_2019": {
+          "content1": "Beskrivelse her"
+        },
+        "CSD U3 platform intro": {
+          "content1": "Beskrivelse her"
+        },
+        "CSD U3 platform intro_2018": {
+          "content1": "Beskrivelse her"
+        },
+        "CSD U3 platform intro_2018_2019": {
+          "content1": "Beskrivelse her"
+        },
+        "CSD U5 Encryption 1": {
+          "content1": "Beskrivelse her"
+        },
+        "CSD U5 Encryption 1_2018": {
+          "content1": "Beskrivelse her"
+        },
+        "CSD U5 Encryption 1_2018_2019": {
+          "content1": "Beskrivelse her"
+        },
+        "CSD U5 Encryption 2": {
+          "content1": "Beskrivelse her"
+        },
+        "CSD U5 Encryption 2_2018": {
+          "content1": "Beskrivelse her"
+        },
+        "CSD U5 Encryption 2_2018_2019": {
+          "content1": "Beskrivelse her"
+        },
+        "CSD U5 L13 SFLP Interpreting Data": {
+          "content1": "Beskrivelse her"
+        },
+        "CSD U5 crosstab warmup": {
+          "content1": "Beskrivelse her"
+        },
+        "CSD U5 crosstab warmup_2018": {
+          "content1": "Beskrivelse her"
+        },
+        "CSD U5 crosstab warmup_2018_2019": {
+          "content1": "Beskrivelse her"
+        },
+        "CSD U5 data visualization": {
+          "content1": "Beskrivelse her"
+        },
+        "CSD U5 data visualization_2018": {
+          "content1": "Beskrivelse her"
+        },
+        "CSD U5 data visualization_2018_2019": {
+          "content1": "Beskrivelse her"
+        },
+        "CSD U5 student record": {
+          "content1": "Beskrivelse her"
+        },
+        "CSD U5 student record_2018": {
+          "content1": "Beskrivelse her"
+        },
+        "CSD U5 student record_2018_2019": {
+          "content1": "Beskrivelse her"
+        },
+        "CSD U6 LED create intro": {
+          "content1": "Beskrivelse her"
+        },
+        "CSD U6 LED create intro_2018": {
+          "content1": "Beskrivelse her"
+        },
+        "CSD U6 LED create intro_2018_2019": {
+          "content1": "Beskrivelse her"
+        },
+        "CSD U6 array multi": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+              "correct": true
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "CSD U6 array multi_2018": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+              "correct": true
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "CSD U6 array multi_2018_2019": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+              "correct": true
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "CSD U6 final intro": {
+          "content1": "Beskrivelse her"
+        },
+        "CSD U6 final intro_2018": {
+          "content1": "Beskrivelse her"
+        },
+        "CSD U6 final intro_2018_2019": {
+          "content1": "Beskrivelse her"
+        },
+        "CSD U6 setProperty predict multi": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+              "correct": true
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "CSD U6 setProperty predict multi_2018": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+              "correct": true
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "CSD U6 setProperty predict multi_2018_2019": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+              "correct": true
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "Dance_Party_extras_intro": {
+          "markdown": "# Bliv ved med at danse!\n\nI del 2, skal du skabe dit eget projekt. Her er der ingen opgaver - i stedet er der en masse projekter, som viser forskellige måder, du kan kode mere sammensatte danse.\n\nDu kan prøve disse levels _i tilfældig rækkefølge_. Hop rundt og kig hvordan tingene er gjort på et tidligere level, eller kombiner idéerne fra de forskellige projekter. Prøv dem alle og vælg din favorit. Brug tiden på at skabe og tilføj til det projekt du har valgt, og gør det til dit eget projekt. \n\n<a class=\"btn btn-large btn-primary next-stage submitButton pull-right\">Continue</a>\n\n<div class=\"clearfix\"></div>\n\n<div style=\"float: left; margin: 10px\">\n<a href=\"2\">\n<h2>\nGet in Formation\n</h2>\n\n<img src=\"https://images.code.org/70ad4cbc12321f301d43161f847bdee4-image-1541746835274.gif\"></a>\n\n</div>\n\n<div style=\"float: left; margin: 10px\">\n<a href=\"3\">\n<h2>\nWhere'd They Go?\n</h2>\n\n<img src=\"https://images.code.org/524010de61c9af76e98bd2a5ccdba461-image-1541746855689.gif\"></a>\n\n</div>\n\n<div style=\"float: left; margin: 10px\">\n<a href=\"4\">\n<h2>\nDance Crews\n</h2>\n\n<img src=\"https://images.code.org/f4ccfd43f9a15d68a339b449be8e96c3-image-1541746870889.gif\"></a>\n\n</div>\n\n<div style=\"float: left; margin: 10px\">\n<a href=\"5\">\n<h2>\nQuarter Notes\n</h2>\n\n<img src=\"https://images.code.org/6b538efe77ea6e19f1428f7c0e45c621-image-1541746886875.gif\"></a>\n\n</div>\n\n<div style=\"float: left; margin: 10px\">\n<a href=\"6\">\n<h2>\nBass, Mid, Treble\n</h2>\n\n<img src=\"https://images.code.org/3825556a395fd31bc4f767ca7ea5c566-image-1541746894197.gif\"></a>\n\n</div>\n\n<div style=\"float: left; margin: 10px\">\n<a href=\"7\">\n<h2>\nSpeed it Up, Slow it Down\n</h2>\n\n<img src=\"https://images.code.org/d7f35c686ef0a9c5a6975889fd7c566b-image-1541746900730.gif\"></a>\n\n</div>\n"
+        },
+        "Dance_Party_extras_intro_2019": {
+          "markdown": "# Fortsæt med at danse!\n\nI del 2, skal du skabe dit eget projekt. Her er der ingen opgaver - i stedet er der en masse projekter, som viser forskellige måder, du kan kode mere sammensatte danse.\n\nDu kan prøve disse levels _i tilfældig rækkefølge_. Hop rundt og kig hvordan tingene er gjort på et tidligere level, eller kombiner idéerne fra de forskellige projekter. Prøv dem alle og vælg din favorit. Brug tiden på at skabe og tilføj til det projekt du har valgt, og gør det til dit eget projekt. \n\n<a class=\"btn btn-large btn-primary next-stage submitButton pull-right\">Continue</a>\n\n<div class=\"clearfix\"></div>\n\n\n<div style=\"float: left; margin: 10px\">\n<a href=\"2\">\n<h2>\nBack and Forth\n</h2>\n\n<img src=\"https://images.code.org/2ecaa2dc4e7c6f672ced7e043d8ae0ff-image-1573667207373.gif\"></a>\n\n</div>\n\n<div style=\"float: left; margin: 10px\">\n<a href=\"3\">\n<h2>\nMore Buttons\n</h2>\n\n<img src=\"https://images.code.org/b25c6c68477a794c3086cf1169a5782f-image-1573666336377.gif\"></a>\n\n</div>\n<div style=\"float: left; margin: 10px\">\n<a href=\"4\">\n<h2>\nGet in Formation\n</h2>\n\n<img src=\"https://images.code.org/70ad4cbc12321f301d43161f847bdee4-image-1541746835274.gif\"></a>\n\n</div>\n\n<div style=\"float: left; margin: 10px\">\n<a href=\"5\">\n<h2>\nWhere'd They Go?\n</h2>\n\n<img src=\"https://images.code.org/524010de61c9af76e98bd2a5ccdba461-image-1541746855689.gif\"></a>\n\n</div>\n\n<div style=\"float: left; margin: 10px\">\n<a href=\"6\">\n<h2>\nDance Crews\n</h2>\n\n<img src=\"https://images.code.org/f4ccfd43f9a15d68a339b449be8e96c3-image-1541746870889.gif\"></a>\n\n</div>\n\n<div style=\"float: left; margin: 10px\">\n<a href=\"7\">\n<h2>\nQuarter Notes\n</h2>\n\n<img src=\"https://images.code.org/6b538efe77ea6e19f1428f7c0e45c621-image-1541746886875.gif\"></a>\n\n</div>\n\n<div style=\"float: left; margin: 10px\">\n<a href=\"8\">\n<h2>\nBass, Mid, Treble\n</h2>\n\n<img src=\"https://images.code.org/3825556a395fd31bc4f767ca7ea5c566-image-1541746894197.gif\"></a>\n\n</div>\n\n<div style=\"float: left; margin: 10px\">\n<a href=\"9\">\n<h2>\nSpeed it Up, Slow it Down\n</h2>\n\n<img src=\"https://images.code.org/d7f35c686ef0a9c5a6975889fd7c566b-image-1541746900730.gif\"></a>\n\n</div>\n"
+        },
+        "Internet Simulator Setup": {
+          "content1": "Beskrivelse her"
+        },
+        "Internet Simulator Setup 2": {
+          "content1": "Beskrivelse her"
+        },
+        "Internet Simulator Setup 3": {
+          "content1": "Beskrivelse her"
+        },
+        "K-1 Artist 1 Multi 1": {
+          "answers": [
+            {
+            },
+            {
+              "correct": true
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+              "text": "Hvilke blokke løser opgaven?"
+            }
+          ],
+          "title": "Vælg et svar"
+        },
+        "K-1 Artist 1 Multi 2": {
+          "answers": [
+            {
+              "correct": true
+            },
+            {
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+              "text": "Hvilke blokke tegner en firkant?"
+            }
+          ],
+          "title": "Vælg et svar"
+        },
+        "K-1 Artist 2 Match 2": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+            }
+          ],
+          "content2": "Match figurerne ud fra typen.",
+          "questions": [
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+            }
+          ],
+          "title": "Matching"
+        },
+        "K-1 Bee 1 Multi 1": {
+          "answers": [
+            {
+            },
+            {
+              "correct": true
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+              "text": "Hvor mange nektar er dette?"
+            }
+          ],
+          "title": "Vælg et svar"
+        },
+        "K-1 Bee 1 Multi 2": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+              "correct": true
+            }
+          ],
+          "questions": [
+            {
+              "text": "Hvor mange nektar er dette?"
+            }
+          ],
+          "title": "Vælg et svar"
+        },
+        "K-1 Bee Loops Match 1": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+            }
+          ],
+          "content2": "Match blokkene",
+          "questions": [
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+            }
+          ],
+          "title": "Matching"
+        },
+        "K-1 Big Event Match 1": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+            }
+          ],
+          "content2": "Match knapkombinationen til dansebevægelserne.",
+          "questions": [
+            {
+            },
+            {
+            },
+            {
+            }
+          ],
+          "title": "Matching"
+        },
+        "K-1 Digital Footprint Multi 1": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+              "correct": true
+            }
+          ],
+          "questions": [
+            {
+              "text": "Hvilket dyr har det digitale fodspor, der efterlader ham eller hende <strong>mest usikre</strong>?"
+            }
+          ],
+          "title": "Vælg et svar"
+        },
+        "K-1 Getting Loopy Multi 1": {
+          "answers": [
+            {
+              "correct": true
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+              "text": "Hvordan kan du forenkle denne sekvens ved hjælp af løkker?"
+            }
+          ],
+          "title": "Vælg et svar"
+        },
+        "K-1 Happy Maps Multi 1": {
+          "answers": [
+            {
+            },
+            {
+              "correct": true
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+              "text": "Hvilken pil flytter Flurb hen til skatten?"
+            }
+          ],
+          "title": "Vælg et svar"
+        },
+        "K-1 Keep it Private Multi 1": {
+          "answers": [
+            {
+              "correct": true
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+              "text": "Hvilke information skal du <strong>ikke</strong> dele online?"
+            }
+          ],
+          "title": "Vælg et svar"
+        },
+        "K-1 Maze Debugging Multi 1": {
+          "answers": [
+            {
+              "correct": true
+            },
+            {
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+              "text": "Hvilket valg skal være den sidste blok?"
+            }
+          ],
+          "title": "Vælg et svar"
+        },
+        "K-1 Maze Loops Multi 1": {
+          "answers": [
+            {
+              "correct": true
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+              "text": "Hvilken gentag blok er den samme?"
+            }
+          ],
+          "title": "Vælg et svar"
+        },
+        "K-1 Maze Loops Multi 2": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+              "correct": true
+            }
+          ],
+          "questions": [
+            {
+              "text": "Vælg den rigtige gentag blok."
+            }
+          ],
+          "title": "Vælg et svar"
+        },
+        "K-1 Maze Match 1": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+            }
+          ],
+          "content2": "Match gåder og blokke",
+          "questions": [
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+            }
+          ],
+          "title": "Matching"
+        },
+        "K-1 Maze Multiple Choice 2": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+              "correct": true
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+              "text": "Hvilket svar løser dette niveau?"
+            }
+          ],
+          "title": "Labyrint"
+        },
+        "K-1 Move It Multi 1": {
+          "answers": [
+            {
+            },
+            {
+              "correct": true
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+              "text": "Hvilken algoritme flytter Flurb til blomsterne?"
+            }
+          ],
+          "title": "Vælg et svar"
+        },
+        "K-1 Plant a Seed Multi 1": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+              "correct": true
+            }
+          ],
+          "questions": [
+            {
+              "text": "Hvilket skridt skal være i starten af denne algoritme?"
+            }
+          ],
+          "title": "Vælg et svar"
+        },
+        "K-1 Plant a Seed Multi 2": {
+          "answers": [
+            {
+            },
+            {
+              "correct": true
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+              "text": "Hvilke skridt skal udfylde for denne algoritme?"
+            }
+          ],
+          "title": "Vælg et svar"
+        },
+        "K-1 Word Search Multi 1": {
+          "answers": [
+            {
+            },
+            {
+              "correct": true
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+              "text": "Hvilke blokke staver \"MOVE\"?"
+            }
+          ],
+          "title": "Vælg et svar"
+        },
+        "K-1 Word Search Multi 3": {
+          "answers": [
+            {
+              "text": "SET"
+            },
+            {
+              "text": "SQUARE",
+              "correct": true
+            },
+            {
+              "text": "SOUTH"
+            }
+          ],
+          "questions": [
+            {
+              "text": "Hvilket ord er stavet?"
+            }
+          ],
+          "title": "Vælg et svar"
+        },
+        "Multi-Screen Apps": {
+          "content1": "Beskrivelse her"
+        },
+        "New Challenge Introduction": {
+          "content1": "Beskrivelse her"
+        },
+        "OPD-K5 Reviewing Reflections": {
+          "content1": "Beskrivelse her"
+        },
+        "OPD-K5 Stage3aGo": {
+          "content1": "Beskrivelse her"
+        },
+        "OPD-K5 Stage3aGo_copy": {
+          "content1": "Beskrivelse her"
+        },
+        "OPD-K5 conditionals introduced": {
+          "content1": "Beskrivelse her"
+        },
+        "OPD-K5 debugging": {
+          "content1": "Beskrivelse her"
+        },
+        "OPD-K5 diving deeper intro": {
+          "content1": "Beskrivelse her"
+        },
+        "OPD-K5 events introduced": {
+          "content1": "Beskrivelse her"
+        },
+        "OPD-K5 for loops": {
+          "content1": "Beskrivelse her"
+        },
+        "OPD-K5 for loops intro": {
+          "content1": "Beskrivelse her"
+        },
+        "OPD-K5 for loops introduction": {
+          "content1": "Beskrivelse her"
+        },
+        "OPD-K5 functions introduced": {
+          "content1": "Beskrivelse her"
+        },
+        "OPD-K5 journaling": {
+          "content1": "Beskrivelse her"
+        },
+        "OPD-K5 lesson implementation planning": {
+          "content1": "Beskrivelse her"
+        },
+        "OPD-K5 lesson plans": {
+          "content1": "Beskrivelse her"
+        },
+        "OPD-K5 loops introduced": {
+          "content1": "Beskrivelse her"
+        },
+        "OPD-K5 project": {
+          "content1": "Beskrivelse her"
+        },
+        "OPD-K5 projects introduction": {
+          "content1": "Beskrivelse her"
+        },
+        "OPD-K5 role_of_teacher": {
+          "content1": "Beskrivelse her"
+        },
+        "OPD-K5 sequencing introduced": {
+          "content1": "Beskrivelse her"
+        },
+        "OPD-K5 sprite lab": {
+          "content1": "Beskrivelse her"
+        },
+        "OPD-K5 sprite lab introduction": {
+          "content1": "Beskrivelse her"
+        },
+        "OPD-K5 sprite lab unplugged": {
+          "content1": "Beskrivelse her"
+        },
+        "OPD-K5 sprite lab video": {
+          "content1": "Beskrivelse her"
+        },
+        "OPD-K5 types of lessons": {
+          "content1": "Beskrivelse her"
+        },
+        "OPD-K5 using lesson plans": {
+          "content1": "Beskrivelse her"
+        },
+        "OPD-K5 variables": {
+          "content1": "Beskrivelse her"
+        },
+        "OPD-K5 variables introduction": {
+          "content1": "Beskrivelse her"
+        },
+        "OPD-K5 variables unplugged": {
+          "content1": "Beskrivelse her"
+        },
+        "OPD-K5 where to next": {
+          "content1": "Beskrivelse her"
+        },
+        "OPD-K5-projects-1": {
+          "content1": "Beskrivelse her"
+        },
+        "Prepare for your presentation": {
+          "content1": "Beskrivelse her"
+        },
+        "Technique: Frequency Analysis": {
+          "content1": "Beskrivelse her"
+        },
+        "Terminology Recap": {
+          "content1": "Beskrivelse her"
+        },
+        "behaviors 1 predict": {
+          "answers": [
+            {
+            },
+            {
+              "correct": true
+            },
+            {
+            },
+            {
+              "feedback": "Ukorrekt"
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "behaviors 4 predict": {
+          "answers": [
+            {
+            },
+            {
+              "correct": true
+            },
+            {
+            },
+            {
+              "feedback": "Ukorrekt"
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "courseC_multi_artist_prog6_predict1": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+              "correct": true
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "courseC_multi_artist_prog6_predict1_2018": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+              "correct": true
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "courseC_multi_artist_prog6_predict1_2018_2019": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+              "correct": true
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "courseC_multi_harvester_loops11_predict1": {
+          "answers": [
+            {
+              "text": "4"
+            },
+            {
+              "text": "12",
+              "correct": true
+            },
+            {
+              "text": "15"
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "courseC_multi_harvester_loops11_predict1_2018": {
+          "answers": [
+            {
+              "text": "4"
+            },
+            {
+              "text": "12",
+              "correct": true
+            },
+            {
+              "text": "15"
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "courseC_multi_harvester_loops11_predict1_2018_2019": {
+          "answers": [
+            {
+              "text": "4"
+            },
+            {
+              "text": "12",
+              "correct": true
+            },
+            {
+              "text": "15"
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "courseC_multi_maze_debugging8_predict1": {
+          "answers": [
+            {
+            },
+            {
+              "correct": true
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "courseC_multi_maze_debugging8_predict1_2018": {
+          "answers": [
+            {
+            },
+            {
+              "correct": true
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "courseC_multi_maze_debugging8_predict1_2018_2019": {
+          "answers": [
+            {
+            },
+            {
+              "correct": true
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "courseC_multi_maze_programming8_predict1": {
+          "answers": [
+            {
+            },
+            {
+              "correct": true
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "courseC_multi_maze_programming8_predict1_2018": {
+          "answers": [
+            {
+            },
+            {
+              "correct": true
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "courseC_multi_maze_programming8_predict1_2018_2019": {
+          "answers": [
+            {
+            },
+            {
+              "correct": true
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "courseC_multi_starWars_predict1": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+              "correct": true
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "courseC_multi_starWars_predict1_2018": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+              "correct": true
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "courseC_multi_starWars_predict1_2018_2019": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+              "correct": true
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "courseC_multi_starWars_predict2": {
+          "answers": [
+            {
+            },
+            {
+              "correct": true
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "courseC_multi_starWars_predict2_2018": {
+          "answers": [
+            {
+            },
+            {
+              "correct": true
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "courseC_multi_starWars_predict2_2018_2019": {
+          "answers": [
+            {
+            },
+            {
+              "correct": true
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "courseD_multi_artist_binary8_predict1": {
+          "answers": [
+            {
+              "text": "A"
+            },
+            {
+              "text": "B"
+            },
+            {
+              "text": "C"
+            },
+            {
+              "text": "D",
+              "correct": true
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "courseD_multi_artist_binary8_predict1_2018": {
+          "answers": [
+            {
+              "text": "A"
+            },
+            {
+              "text": "B"
+            },
+            {
+              "text": "C"
+            },
+            {
+              "text": "D",
+              "correct": true
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "courseD_multi_artist_binary8_predict1_2018_2019": {
+          "answers": [
+            {
+              "text": "A"
+            },
+            {
+              "text": "B"
+            },
+            {
+              "text": "C"
+            },
+            {
+              "text": "D",
+              "correct": true
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "courseD_multi_artist_nestedLoops9_predict1": {
+          "answers": [
+            {
+              "text": "A",
+              "correct": true
+            },
+            {
+              "text": "B"
+            },
+            {
+              "text": "C"
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "courseD_multi_artist_nestedLoops9_predict1_2018": {
+          "answers": [
+            {
+              "text": "A",
+              "correct": true
+            },
+            {
+              "text": "B"
+            },
+            {
+              "text": "C"
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "courseD_multi_artist_nestedLoops9_predict1_2018_2019": {
+          "answers": [
+            {
+              "text": "A",
+              "correct": true
+            },
+            {
+              "text": "B"
+            },
+            {
+              "text": "C"
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "courseD_multi_bee_conditionals1_predict1": {
+          "answers": [
+            {
+            },
+            {
+              "correct": true
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "courseD_multi_bee_conditionals1_predict1_2018": {
+          "answers": [
+            {
+            },
+            {
+              "correct": true
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "courseD_multi_bee_conditionals1_predict1_2018_2019": {
+          "answers": [
+            {
+            },
+            {
+              "correct": true
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "courseD_multi_bee_conditionals1_predict1_copy": {
+          "answers": [
+            {
+            },
+            {
+              "correct": true
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "courseD_multi_bee_conditionals7_predict2": {
+          "answers": [
+            {
+              "correct": true
+            },
+            {
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "courseD_multi_bee_conditionals7_predict2_2018": {
+          "answers": [
+            {
+              "correct": true
+            },
+            {
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "courseD_multi_bee_conditionals7_predict2_2018_2019": {
+          "answers": [
+            {
+              "correct": true
+            },
+            {
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "courseD_multi_bee_nestedLoops2_predict1": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+              "correct": true
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "courseD_multi_bee_nestedLoops2_predict1_2018": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+              "correct": true
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "courseD_multi_bee_nestedLoops2_predict1_2018_2019": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+              "correct": true
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "courseD_multi_bee_nestedLoops9_predict2": {
+          "answers": [
+            {
+              "text": "4"
+            },
+            {
+              "text": "8",
+              "correct": true
+            },
+            {
+              "text": "12"
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "courseD_multi_bee_nestedLoops9_predict2_2018": {
+          "answers": [
+            {
+              "text": "4"
+            },
+            {
+              "text": "8",
+              "correct": true
+            },
+            {
+              "text": "12"
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "courseD_multi_bee_nestedLoops9_predict2_2018_2019": {
+          "answers": [
+            {
+              "text": "4"
+            },
+            {
+              "text": "8",
+              "correct": true
+            },
+            {
+              "text": "12"
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "courseD_multi_collector_debugging10_predict1": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+              "correct": true
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "courseD_multi_farmer_condLoops9_predict1": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+              "correct": true
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "courseD_multi_farmer_condLoops9_predict1_2018": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+              "correct": true
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "courseD_multi_farmer_condLoops9_predict1_2018_2019": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+              "correct": true
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "courseD_multi_farmer_ramp13": {
+          "answers": [
+            {
+            },
+            {
+              "correct": true
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "courseD_multi_farmer_while10_predict2": {
+          "answers": [
+            {
+            },
+            {
+              "correct": true
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "courseD_multi_farmer_while10_predict2_2018": {
+          "answers": [
+            {
+            },
+            {
+              "correct": true
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "courseD_multi_farmer_while10_predict2_2018_2019": {
+          "answers": [
+            {
+            },
+            {
+              "correct": true
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "courseD_multi_farmer_while4_predict1": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+              "correct": true
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "courseD_multi_farmer_while4_predict1_2018": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+              "correct": true
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "courseD_multi_farmer_while4_predict1_2018_2019": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+              "correct": true
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "courseD_multi_maze_until10_predict2": {
+          "answers": [
+            {
+              "correct": true
+            },
+            {
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "courseD_multi_maze_until10_predict2_2018": {
+          "answers": [
+            {
+              "correct": true
+            },
+            {
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "courseD_multi_maze_until10_predict2_2018_2019": {
+          "answers": [
+            {
+              "correct": true
+            },
+            {
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "courseD_multi_maze_until2_predict1": {
+          "answers": [
+            {
+            },
+            {
+              "correct": true
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "courseD_multi_maze_until2_predict1_2018": {
+          "answers": [
+            {
+            },
+            {
+              "correct": true
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "courseD_multi_maze_until2_predict1_2018_2019": {
+          "answers": [
+            {
+            },
+            {
+              "correct": true
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "courseD_multi_scrat_predict1": {
+          "answers": [
+            {
+            },
+            {
+              "correct": true
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "courseE_multi_bee_functions_predict1": {
+          "answers": [
+            {
+              "correct": true
+            },
+            {
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "courseE_multi_farmer_functions11_predict": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+              "correct": true
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "courseE_multi_farmer_functions11_predict_2018": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+              "correct": true
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "courseE_multi_farmer_functions11_predict_2018_2019": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+              "correct": true
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "courseE_prediction_artistFunction1": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+              "correct": true
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "courseE_prediction_artistFunction1_2018": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+              "correct": true
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "courseE_prediction_artistFunction1_2018_2019": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+              "correct": true
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "courseE_prediction_artistFunction1_copy": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+              "correct": true
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "courseF_bee_variables_8a_2018": {
+          "answers": [
+            {
+            },
+            {
+              "correct": true
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "courseF_bee_variables_8a_2018_2019": {
+          "answers": [
+            {
+            },
+            {
+              "correct": true
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "courseF_multi_artist_for10_predict1": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+              "correct": true
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "courseF_multi_artist_for10_predict1_2018": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+              "correct": true
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "courseF_multi_artist_for10_predict1_2018_2019": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+              "correct": true
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "courseF_multi_artist_fwp2_predict1": {
+          "answers": [
+            {
+              "correct": true
+            },
+            {
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "courseF_multi_artist_variables3a_predict1": {
+          "answers": [
+            {
+              "correct": true
+            },
+            {
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "courseF_multi_artist_variables3a_predict1_2018": {
+          "answers": [
+            {
+              "correct": true
+            },
+            {
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "courseF_multi_artist_variables3a_predict1_2018_2019": {
+          "answers": [
+            {
+              "correct": true
+            },
+            {
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "courseF_multi_bee_conditionals1_predict1": {
+          "answers": [
+            {
+            },
+            {
+              "correct": true
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "courseF_multi_bee_conditionals7_predict2": {
+          "answers": [
+            {
+              "correct": true
+            },
+            {
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "courseF_multi_bee_for3_predict1": {
+          "answers": [
+            {
+            },
+            {
+              "correct": true
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "courseF_multi_bee_for3_predict1_2018": {
+          "answers": [
+            {
+            },
+            {
+              "correct": true
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "courseF_multi_bee_for3_predict1_2018_2019": {
+          "answers": [
+            {
+            },
+            {
+              "correct": true
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "courseF_multi_bee_fwp9_predict1": {
+          "answers": [
+            {
+            },
+            {
+              "correct": true
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "courseF_multi_playlab_variables4c_predictive1": {
+          "answers": [
+            {
+              "correct": true
+            },
+            {
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "coursee_prediction_artistfunction2": {
+          "answers": [
+            {
+            },
+            {
+              "correct": true
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "coursee_prediction_artistfunction2_2018": {
+          "answers": [
+            {
+            },
+            {
+              "correct": true
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "coursee_prediction_artistfunction2_2018_2019": {
+          "answers": [
+            {
+            },
+            {
+              "correct": true
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "grade2_multi_collector_A_predict1": {
+          "answers": [
+            {
+            },
+            {
+              "correct": true
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "grade2_multi_collector_A_predict1_2018": {
+          "answers": [
+            {
+            },
+            {
+              "correct": true
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "grade2_multi_collector_A_predict1_2018_2019": {
+          "answers": [
+            {
+            },
+            {
+              "correct": true
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        }
+      }
+    }
+  }
+}
