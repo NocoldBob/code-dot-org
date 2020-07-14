@@ -117,6 +117,16 @@
         "Course 4 Play Lab Vars 1": {
           "arrows_move_actor": "Use as setas para mover o personagem"
         },
+        "CourseD_Dance_2020_01": {
+          "dance_callout_01": "Escolhe o tipo de dançarino aqui."
+        },
+        "CourseD_Dance_2020_02": {
+          "dance_callout_11_a": "Adiciona este bloco ao teu programa.",
+          "arrow_buttons": "Prime os botões direcionais para controlar o teu dançarino."
+        },
+        "CourseD_Dance_2020_05": {
+          "dance_callout_05": "Adiciona um novo evento ao teu programa."
+        },
         "Dance_2019_01": {
           "dance_callout_01": "Escolhe o tipo de dançarino aqui."
         },
@@ -131,6 +141,9 @@
           "Function_intro_Ryan_1": "Esta breve instrução diz ao computador para executar o GRANDE pedaço de código com o mesmo nome no espaço de trabalho."
         },
         "Function intro Ryan_2019": {
+          "Function_intro_Ryan_1": "Esta breve instrução diz ao computador para executar o GRANDE pedaço de código com o mesmo nome no espaço de trabalho."
+        },
+        "Function intro Ryan_2020": {
           "Function_intro_Ryan_1": "Esta breve instrução diz ao computador para executar o GRANDE pedaço de código com o mesmo nome no espaço de trabalho."
         },
         "Infinity_move_collide": {
@@ -158,10 +171,16 @@
         "MC_HOC_2017_03_Cole_2019": {
           "MC_HOC_2017_03_Cole_1": "Isto é uma ação circular \"repetir\"!  Arrasta-a para o espaço de trabalho e adiciona o código que pretendes executar sem fim."
         },
+        "MC_HOC_2017_03_Cole_2020": {
+          "MC_HOC_2017_03_Cole_1": "Isto é uma ação circular \"repetir\"!  Arrasta-a para o espaço de trabalho e adiciona o código que pretendes executar sem fim."
+        },
         "MC_HOC_2017_04_Cole": {
           "MC_HOC_2017_04_Cole_a": "O Agent consegue planar sobre água, mas o jogador não!"
         },
         "MC_HOC_2017_04_Cole_2019": {
+          "MC_HOC_2017_04_Cole_a": "O Agent consegue planar sobre água, mas o jogador não!"
+        },
+        "MC_HOC_2017_04_Cole_2020": {
           "MC_HOC_2017_04_Cole_a": "O Agent consegue planar sobre água, mas o jogador não!"
         },
         "MC_HOC_2017_06_Cole": {
@@ -170,10 +189,16 @@
         "MC_HOC_2017_06_Cole_2019": {
           "MC_HOC_2017_06_Cole_1": "Não podes eliminar estes blocos, mas podes editá-los!"
         },
+        "MC_HOC_2017_06_Cole_2020": {
+          "MC_HOC_2017_06_Cole_1": "Não podes eliminar estes blocos, mas podes editá-los!"
+        },
         "MC_HOC_2017_Ali": {
           "MC_HOC_2017_08_RY_1": "O Agent consegue planar sobre lava, mas o jogador não!  "
         },
         "MC_HOC_2017_Ali_2019": {
+          "MC_HOC_2017_08_RY_1": "O Agent consegue planar sobre lava, mas o jogador não!  "
+        },
+        "MC_HOC_2017_Ali_2020": {
           "MC_HOC_2017_08_RY_1": "O Agent consegue planar sobre lava, mas o jogador não!  "
         },
         "NEW Course 4 Artist Functions 7": {
@@ -214,10 +239,16 @@
         "Overworld Chop Trees_2019": {
           "craft_callout_preplaced": "Colocámos alguns blocos aqui para poderes começar"
         },
+        "Overworld Chop Trees_2020": {
+          "craft_callout_preplaced": "Colocámos alguns blocos aqui para poderes começar"
+        },
         "Overworld House Frame Chosen": {
           "craft_callout_preplaced_house": "Este código vai começar a construir a tua casa. Consegues terminá-la?"
         },
         "Overworld House Frame Chosen_2019": {
+          "craft_callout_preplaced_house": "Este código vai começar a construir a tua casa. Consegues terminá-la?"
+        },
+        "Overworld House Frame Chosen_2020": {
           "craft_callout_preplaced_house": "Este código vai começar a construir a tua casa. Consegues terminá-la?"
         },
         "Overworld Move to Sheep": {
@@ -226,10 +257,16 @@
         "Overworld Move to Sheep_2019": {
           "craft_run_button_callout": "Clica em \"Correr\" para experimentares o teu programa"
         },
+        "Overworld Move to Sheep_2020": {
+          "craft_run_button_callout": "Clica em \"Correr\" para experimentares o teu programa"
+        },
         "Overworld Place Wall": {
           "craft_inside_repeat": "Repete ações colocando blocos aqui"
         },
         "Overworld Place Wall_2019": {
+          "craft_inside_repeat": "Repete ações colocando blocos aqui"
+        },
+        "Overworld Place Wall_2020": {
           "craft_inside_repeat": "Repete ações colocando blocos aqui"
         },
         "Underground Avoiding Lava": {
@@ -238,10 +275,16 @@
         "Underground Avoiding Lava_2019": {
           "craft_callout_moveforward": "Este código vai verificar se há lava, consegues adicionar-lhe um comando para mover para a frente?"
         },
+        "Underground Avoiding Lava_2020": {
+          "craft_callout_moveforward": "Este código vai verificar se há lava, consegues adicionar-lhe um comando para mover para a frente?"
+        },
         "Underground Iron": {
           "craft_what_is_iron": "Escava este ferro!"
         },
         "Underground Iron_2019": {
+          "craft_what_is_iron": "Escava este ferro!"
+        },
+        "Underground Iron_2020": {
           "craft_what_is_iron": "Escava este ferro!"
         },
         "courseA_maze_seq1": {
@@ -253,6 +296,9 @@
         "courseA_maze_seq1_2019": {
           "courseA_maze_seq1_1": "Carrega na lâmpada quando precisares de uma pista!"
         },
+        "courseA_maze_seq1_2020": {
+          "courseA_maze_seq1_1": "Carrega na lâmpada quando precisares de uma pista!"
+        },
         "courseB_maze_seq1": {
           "courseB_maze_seq1": "Carrega na lâmpada quando precisares de uma pista!"
         },
@@ -260,6 +306,9 @@
           "courseB_maze_seq1": "Carrega na lâmpada quando precisares de uma pista!"
         },
         "courseB_maze_seq1_2019": {
+          "courseB_maze_seq1": "Carrega na lâmpada quando precisares de uma pista!"
+        },
+        "courseB_maze_seq1_2020": {
           "courseB_maze_seq1": "Carrega na lâmpada quando precisares de uma pista!"
         },
         "frozen circle function with parameter": {

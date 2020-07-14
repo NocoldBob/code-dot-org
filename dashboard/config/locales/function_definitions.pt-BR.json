@@ -612,6 +612,11 @@
             "name": "construir ponte"
           }
         },
+        "Function intro Ryan_2020": {
+          "build bridge": {
+            "name": "construir ponte"
+          }
+        },
         "Geometric Sun": {
           "draw a door": {
             "name": "desenhar uma porta"
@@ -745,6 +750,11 @@
             "name": "limpar o caminho"
           }
         },
+        "MC_HOC_2017_07_Cole_2020": {
+          "clear path": {
+            "name": "limpar o caminho"
+          }
+        },
         "MC_HOC_2017_10_RETRY": {
           "fix long path": {
             "name": "consertar caminho longo"
@@ -754,6 +764,14 @@
           }
         },
         "MC_HOC_2017_10_RETRY_2019": {
+          "fix long path": {
+            "name": "consertar caminho longo"
+          },
+          "fix short path": {
+            "name": "consertar caminho curto"
+          }
+        },
+        "MC_HOC_2017_10_RETRY_2020": {
           "fix long path": {
             "name": "consertar caminho longo"
           },
@@ -777,6 +795,14 @@
             "name": "construir ponte longa"
           }
         },
+        "MC_HOC_2017_Ali_2020": {
+          "build short bridge": {
+            "name": "construir ponte pequena"
+          },
+          "build long bridge": {
+            "name": "construir ponte longa"
+          }
+        },
         "MC_HOC_2017_FP20x20": {
           "function 1": {
             "name": "função 1"
@@ -786,6 +812,14 @@
           }
         },
         "MC_HOC_2017_FP20x20_2019": {
+          "function 1": {
+            "name": "função 1"
+          },
+          "function 2": {
+            "name": "função 2"
+          }
+        },
+        "MC_HOC_2017_FP20x20_2020": {
           "function 1": {
             "name": "função 1"
           },
@@ -1346,6 +1380,11 @@
             "name": "solução em potencial"
           }
         },
+        "courseB_artist_loops_challenge2_2020": {
+          "potential solution": {
+            "name": "solução em potencial"
+          }
+        },
         "courseC_artist_prog3": {
           "draw flame": {
             "name": "desenhar chama",
@@ -1379,6 +1418,17 @@
             "name": "desenhar fogo"
           }
         },
+        "courseC_artist_prog3_2020": {
+          "draw flame": {
+            "name": "desenhar chama",
+            "parameters": {
+              "x": "x"
+            }
+          },
+          "draw fire": {
+            "name": "desenhar fogo"
+          }
+        },
         "courseC_artist_prog4": {
           "booster": {
             "name": "impulsionador"
@@ -1394,7 +1444,17 @@
             "name": "impulsionador"
           }
         },
+        "courseC_artist_prog4_2020": {
+          "booster": {
+            "name": "impulsionador"
+          }
+        },
         "courseC_data wizard": {
+          "do something": {
+            "name": "faça algo"
+          }
+        },
+        "courseC_data wizard_2020": {
           "do something": {
             "name": "faça algo"
           }
@@ -1416,6 +1476,14 @@
           }
         },
         "courseD_artist_binary1_2019": {
+          "draw bit": {
+            "name": "desenhar_bit"
+          },
+          "draw": {
+            "name": "desenhar"
+          }
+        },
+        "courseD_artist_binary1_2020": {
           "draw bit": {
             "name": "desenhar_bit"
           },
@@ -1447,6 +1515,14 @@
             "name": "desenhar_bit"
           }
         },
+        "courseD_artist_binary2_2020": {
+          "draw": {
+            "name": "desenhar"
+          },
+          "draw bit": {
+            "name": "desenhar_bit"
+          }
+        },
         "courseD_artist_binary3": {
           "draw": {
             "name": "desenhar"
@@ -1464,6 +1540,14 @@
           }
         },
         "courseD_artist_binary3_2019": {
+          "draw": {
+            "name": "desenhar"
+          },
+          "draw bit": {
+            "name": "desenhar_bit"
+          }
+        },
+        "courseD_artist_binary3_2020": {
           "draw": {
             "name": "desenhar"
           },
@@ -1495,6 +1579,14 @@
             "name": "desenhar_bit"
           }
         },
+        "courseD_artist_binary4_2020": {
+          "draw": {
+            "name": "desenhar"
+          },
+          "draw bit": {
+            "name": "desenhar_bit"
+          }
+        },
         "courseD_artist_binary5": {
           "draw": {
             "name": "desenhar"
@@ -1512,6 +1604,14 @@
           }
         },
         "courseD_artist_binary5_2019": {
+          "draw": {
+            "name": "desenhar"
+          },
+          "draw bit": {
+            "name": "desenhar_bit"
+          }
+        },
+        "courseD_artist_binary5_2020": {
           "draw": {
             "name": "desenhar"
           },
@@ -1543,6 +1643,14 @@
             "name": "desenhar_bit"
           }
         },
+        "courseD_artist_binary6_2020": {
+          "draw": {
+            "name": "desenhar"
+          },
+          "draw bit": {
+            "name": "desenhar_bit"
+          }
+        },
         "courseD_artist_binary7": {
           "draw": {
             "name": "desenhar"
@@ -1560,6 +1668,14 @@
           }
         },
         "courseD_artist_binary7_2019": {
+          "draw": {
+            "name": "desenhar"
+          },
+          "draw bit": {
+            "name": "desenhar_bit"
+          }
+        },
+        "courseD_artist_binary7_2020": {
           "draw": {
             "name": "desenhar"
           },
@@ -1591,6 +1707,14 @@
             "name": "desenhar_bit"
           }
         },
+        "courseD_artist_binary8_2020": {
+          "draw": {
+            "name": "desenhar"
+          },
+          "draw bit": {
+            "name": "desenhar_bit"
+          }
+        },
         "courseD_artist_binary8_predict1": {
           "draw": {
             "name": "desenhar"
@@ -1615,6 +1739,14 @@
             "name": "desenhar_bit"
           }
         },
+        "courseD_artist_binary8_predict1_2020": {
+          "draw": {
+            "name": "desenhar"
+          },
+          "draw bit": {
+            "name": "desenhar_bit"
+          }
+        },
         "courseD_artist_binaryFP_2018": {
           "draw": {
             "name": "desenhar"
@@ -1624,6 +1756,14 @@
           }
         },
         "courseD_artist_binaryFP_2019": {
+          "draw": {
+            "name": "desenhar"
+          },
+          "draw bit": {
+            "name": "desenhar_bit"
+          }
+        },
+        "courseD_artist_binaryFP_2020": {
           "draw": {
             "name": "desenhar"
           },
@@ -1647,6 +1787,14 @@
             "name": "desenhar_bit"
           }
         },
+        "courseD_artist_binary_challenge1_2020": {
+          "draw": {
+            "name": "desenhar"
+          },
+          "draw bit": {
+            "name": "desenhar_bit"
+          }
+        },
         "courseD_artist_binary_challenge2_2018": {
           "draw": {
             "name": "desenhar"
@@ -1656,6 +1804,14 @@
           }
         },
         "courseD_artist_binary_challenge2_2019": {
+          "draw": {
+            "name": "desenhar"
+          },
+          "draw bit": {
+            "name": "desenhar_bit"
+          }
+        },
+        "courseD_artist_binary_challenge2_2020": {
           "draw": {
             "name": "desenhar"
           },
@@ -1828,6 +1984,17 @@
             "name": "desenhar fila de hexágonos"
           }
         },
+        "courseE_artist_functions10_2020": {
+          "do something": {
+            "name": "faça algo"
+          },
+          "draw hexagon": {
+            "name": "desenhar um hexágono"
+          },
+          "draw line of hexagons": {
+            "name": "desenhar fila de hexágonos"
+          }
+        },
         "courseE_artist_functions1_copy": {
           "draw ear stems": {
             "name": "desenhar orelhas"
@@ -1857,6 +2024,14 @@
             "name": "desenhar orelhas"
           }
         },
+        "courseE_artist_functions2_2020": {
+          "draw a square": {
+            "name": "desenhar um quadrado"
+          },
+          "draw ear stems": {
+            "name": "desenhar orelhas"
+          }
+        },
         "courseE_artist_functions2_copy": {
           "draw a square": {
             "name": "desenhar um quadrado"
@@ -1871,6 +2046,11 @@
           }
         },
         "courseE_artist_functions3_2019": {
+          "draw a star": {
+            "name": "desenhe uma estrela"
+          }
+        },
+        "courseE_artist_functions3_2020": {
           "draw a star": {
             "name": "desenhe uma estrela"
           }
@@ -1900,6 +2080,11 @@
             "name": "desenhe uma estrela"
           }
         },
+        "courseE_artist_functions5_2020": {
+          "draw a star": {
+            "name": "desenhe uma estrela"
+          }
+        },
         "courseE_artist_functions5_copy": {
           "draw a star": {
             "name": "desenhe uma estrela"
@@ -1924,6 +2109,14 @@
         "courseE_artist_functions7_2019": {
           "draw a window": {
             "name": "desenhar uma janela"
+          }
+        },
+        "courseE_artist_functions7_2020": {
+          "draw a window": {
+            "name": "desenhar uma janela"
+          },
+          "draw a house": {
+            "name": "desenhe uma casa"
           }
         },
         "courseE_artist_functions8": {
@@ -1965,6 +2158,20 @@
             "name": "desenhar quadrado"
           }
         },
+        "courseE_artist_functions8_2020": {
+          "do something": {
+            "name": "faça algo"
+          },
+          "staggered squares": {
+            "name": "quadrados deslocados"
+          },
+          "draw a line of squares": {
+            "name": "desenhar uma fila de quadrados"
+          },
+          "draw square": {
+            "name": "desenhar quadrado"
+          }
+        },
         "courseE_artist_functions8a_2018": {
           "draw a square": {
             "name": "desenhar um quadrado"
@@ -1974,6 +2181,14 @@
           }
         },
         "courseE_artist_functions8a_2019": {
+          "draw a square": {
+            "name": "desenhar um quadrado"
+          },
+          "do something": {
+            "name": "faça algo"
+          }
+        },
+        "courseE_artist_functions8a_2020": {
           "draw a square": {
             "name": "desenhar um quadrado"
           },
@@ -2003,6 +2218,17 @@
             "name": "faça algo"
           }
         },
+        "courseE_artist_functions8b_2020": {
+          "draw a line of squares": {
+            "name": "desenhar uma fila de quadrados"
+          },
+          "draw square": {
+            "name": "desenhar quadrado"
+          },
+          "do something": {
+            "name": "faça algo"
+          }
+        },
         "courseE_artist_functions8c_2018": {
           "draw a line of squares": {
             "name": "desenhar uma fila de quadrados"
@@ -2018,6 +2244,20 @@
           }
         },
         "courseE_artist_functions8c_2019": {
+          "draw a line of squares": {
+            "name": "desenhar uma fila de quadrados"
+          },
+          "draw square": {
+            "name": "desenhar quadrado"
+          },
+          "do something": {
+            "name": "faça algo"
+          },
+          "staggered squares": {
+            "name": "quadrados deslocados"
+          }
+        },
+        "courseE_artist_functions8c_2020": {
           "draw a line of squares": {
             "name": "desenhar uma fila de quadrados"
           },
@@ -2064,6 +2304,17 @@
             "name": "desenhar fila de triângulos"
           }
         },
+        "courseE_artist_functions9_2020": {
+          "do something": {
+            "name": "faça algo"
+          },
+          "draw triangle": {
+            "name": "desenhar triângulo"
+          },
+          "draw line of triangles": {
+            "name": "desenhar fila de triângulos"
+          }
+        },
         "courseE_artist_functionsProj_2018": {
           "draw hexagon": {
             "name": "desenhar um hexágono"
@@ -2082,6 +2333,23 @@
           }
         },
         "courseE_artist_functionsProj_2019": {
+          "draw hexagon": {
+            "name": "desenhar um hexágono"
+          },
+          "draw line of hexagons": {
+            "name": "desenhar fila de hexágonos"
+          },
+          "staggered squares": {
+            "name": "quadrados deslocados"
+          },
+          "draw a line of squares": {
+            "name": "desenhar uma fila de quadrados"
+          },
+          "draw square": {
+            "name": "desenhar quadrado"
+          }
+        },
+        "courseE_artist_functionsProj_2020": {
           "draw hexagon": {
             "name": "desenhar um hexágono"
           },
@@ -2122,6 +2390,14 @@
             "name": "faça algo"
           }
         },
+        "courseE_artist_functions_challenge1_2020": {
+          "my design": {
+            "name": "meu projeto"
+          },
+          "do something": {
+            "name": "faça algo"
+          }
+        },
         "courseE_artist_functions_challenge2": {
           "my design": {
             "name": "meu projeto"
@@ -2146,6 +2422,14 @@
             "name": "faça algo"
           }
         },
+        "courseE_artist_functions_challenge2_2020": {
+          "my design": {
+            "name": "meu projeto"
+          },
+          "do something": {
+            "name": "faça algo"
+          }
+        },
         "courseE_artist_functions_predict1": {
           "draw a square": {
             "name": "desenhar um quadrado"
@@ -2163,6 +2447,14 @@
           }
         },
         "courseE_artist_functions_predict1_2019": {
+          "draw a square": {
+            "name": "desenhar um quadrado"
+          },
+          "draw ear stems": {
+            "name": "desenhar orelhas"
+          }
+        },
+        "courseE_artist_functions_predict1_2020": {
           "draw a square": {
             "name": "desenhar um quadrado"
           },
@@ -2201,6 +2493,17 @@
           }
         },
         "courseE_artist_functions_predict2_2019": {
+          "draw line of polygons": {
+            "name": "desenhar linha de polígonos"
+          },
+          "draw polygon": {
+            "name": "desenhar polígono"
+          },
+          "do something": {
+            "name": "faça algo"
+          }
+        },
+        "courseE_artist_functions_predict2_2020": {
           "draw line of polygons": {
             "name": "desenhar linha de polígonos"
           },
@@ -2338,6 +2641,20 @@
             "name": "quadrado de abóboras"
           }
         },
+        "courseE_farmer_functions10a1_2020": {
+          "pick along path": {
+            "name": "coletar ao longo do caminho"
+          },
+          "check square for corn": {
+            "name": "procurar por milho no quadrado"
+          },
+          "get all pumpkins": {
+            "name": "obter todas as abóboras"
+          },
+          "pumpkin square": {
+            "name": "quadrado de abóboras"
+          }
+        },
         "courseE_farmer_functions10b": {
           "navigate": {
             "name": "navegar"
@@ -2388,6 +2705,23 @@
             "name": "obter todas as abóboras"
           }
         },
+        "courseE_farmer_functions11_predict_2020": {
+          "pick along path": {
+            "name": "coletar ao longo do caminho"
+          },
+          "pumpkin square": {
+            "name": "quadrado de abóboras"
+          },
+          "check square for corn": {
+            "name": "procurar por milho no quadrado"
+          },
+          "get produce": {
+            "name": "coletar frutos"
+          },
+          "get all pumpkins": {
+            "name": "obter todas as abóboras"
+          }
+        },
         "courseE_farmer_functions13_2018": {
           "pick along path": {
             "name": "coletar ao longo do caminho"
@@ -2416,6 +2750,20 @@
             "name": "escada de alface"
           }
         },
+        "courseE_farmer_functions13_2020": {
+          "pick along path": {
+            "name": "coletar ao longo do caminho"
+          },
+          "check for corn": {
+            "name": "procurar por milho"
+          },
+          "corn rectangle": {
+            "name": "retângulo de milho"
+          },
+          "lettuce stairs": {
+            "name": "escada de alface"
+          }
+        },
         "courseE_farmer_functions1a_2018": {
           "check square for corn": {
             "name": "procurar por milho no quadrado"
@@ -2426,12 +2774,22 @@
             "name": "procurar por milho no quadrado"
           }
         },
+        "courseE_farmer_functions1a_2020": {
+          "check square for corn": {
+            "name": "procurar por milho no quadrado"
+          }
+        },
         "courseE_farmer_functions2b_2018": {
           "check square for corn": {
             "name": "procurar por milho no quadrado"
           }
         },
         "courseE_farmer_functions2b_2019": {
+          "check square for corn": {
+            "name": "procurar por milho no quadrado"
+          }
+        },
+        "courseE_farmer_functions2b_2020": {
           "check square for corn": {
             "name": "procurar por milho no quadrado"
           }
@@ -2450,6 +2808,14 @@
           }
         },
         "courseE_farmer_functions2ba_2019": {
+          "check square for corn": {
+            "name": "procurar por milho no quadrado"
+          },
+          "get all pumpkins": {
+            "name": "obter todas as abóboras"
+          }
+        },
+        "courseE_farmer_functions2ba_2020": {
           "check square for corn": {
             "name": "procurar por milho no quadrado"
           },
@@ -2484,6 +2850,17 @@
             "name": "obter todas as abóboras"
           }
         },
+        "courseE_farmer_functions3c1_2020": {
+          "pick along path": {
+            "name": "coletar ao longo do caminho"
+          },
+          "check square for corn": {
+            "name": "procurar por milho no quadrado"
+          },
+          "get all pumpkins": {
+            "name": "obter todas as abóboras"
+          }
+        },
         "courseE_farmer_functions3c_2018": {
           "check square for corn": {
             "name": "procurar por milho no quadrado"
@@ -2493,6 +2870,14 @@
           }
         },
         "courseE_farmer_functions3c_2019": {
+          "check square for corn": {
+            "name": "procurar por milho no quadrado"
+          },
+          "get all pumpkins": {
+            "name": "obter todas as abóboras"
+          }
+        },
+        "courseE_farmer_functions3c_2020": {
           "check square for corn": {
             "name": "procurar por milho no quadrado"
           },
@@ -2525,12 +2910,22 @@
             "name": "jardim de quadrados"
           }
         },
+        "courseE_farmer_functions7a1_2020": {
+          "garden square": {
+            "name": "jardim de quadrados"
+          }
+        },
         "courseE_farmer_functions8a1_2018": {
           "garden square": {
             "name": "jardim de quadrados"
           }
         },
         "courseE_farmer_functions8a1_2019": {
+          "garden square": {
+            "name": "jardim de quadrados"
+          }
+        },
+        "courseE_farmer_functions8a1_2020": {
           "garden square": {
             "name": "jardim de quadrados"
           }
@@ -2546,6 +2941,11 @@
           }
         },
         "courseE_farmer_functions9a1_2019": {
+          "garden square": {
+            "name": "jardim de quadrados"
+          }
+        },
+        "courseE_farmer_functions9a1_2020": {
           "garden square": {
             "name": "jardim de quadrados"
           }
@@ -2824,6 +3224,11 @@
             "name": "mover e obter néctar com contador"
           }
         },
+        "courseF_bee_for_challenge1_2020": {
+          "move and get nectar with counter": {
+            "name": "mover e obter néctar com contador"
+          }
+        },
         "courseF_bee_functions2": {
           "get only nectar": {
             "name": "obter apenas néctar"
@@ -2984,12 +3389,22 @@
             "name": "coletar fila"
           }
         },
+        "courseF_bee_variables_1_2020": {
+          "collect row": {
+            "name": "coletar fila"
+          }
+        },
         "courseF_bee_variables_2_2018": {
           "collect row": {
             "name": "coletar fila"
           }
         },
         "courseF_bee_variables_2_2019": {
+          "collect row": {
+            "name": "coletar fila"
+          }
+        },
+        "courseF_bee_variables_2_2020": {
           "collect row": {
             "name": "coletar fila"
           }
@@ -3004,12 +3419,22 @@
             "name": "coletar fila"
           }
         },
+        "courseF_bee_variables_3_2020": {
+          "collect row": {
+            "name": "coletar fila"
+          }
+        },
         "courseF_bee_variables_4_2018": {
           "collect row": {
             "name": "coletar fila"
           }
         },
         "courseF_bee_variables_4_2019": {
+          "collect row": {
+            "name": "coletar fila"
+          }
+        },
+        "courseF_bee_variables_4_2020": {
           "collect row": {
             "name": "coletar fila"
           }
@@ -3024,12 +3449,22 @@
             "name": "coletar fila"
           }
         },
+        "courseF_bee_variables_5_2020": {
+          "collect row": {
+            "name": "coletar fila"
+          }
+        },
         "courseF_bee_variables_6_2018": {
           "collect stairs": {
             "name": "coletar escadas"
           }
         },
         "courseF_bee_variables_6_2019": {
+          "collect stairs": {
+            "name": "coletar escadas"
+          }
+        },
+        "courseF_bee_variables_6_2020": {
           "collect stairs": {
             "name": "coletar escadas"
           }
@@ -3044,6 +3479,11 @@
             "name": "coletar"
           }
         },
+        "courseF_bee_variables_7_2020": {
+          "collect": {
+            "name": "coletar"
+          }
+        },
         "courseF_bee_variables_8_2018": {
           "move and increment": {
             "name": "mover e incrementar"
@@ -3053,6 +3493,14 @@
           }
         },
         "courseF_bee_variables_8_2019": {
+          "move and increment": {
+            "name": "mover e incrementar"
+          },
+          "collect": {
+            "name": "coletar"
+          }
+        },
+        "courseF_bee_variables_8_2020": {
           "move and increment": {
             "name": "mover e incrementar"
           },

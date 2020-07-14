@@ -121,6 +121,10 @@
           "courseC_artist_prog2_a": "Jei panaudosi bloką kad aš 'pajudėčiau į priekį 100 pixelių', aš linija nupiešiu automatiškai.",
           "courseC_artist_prog2_b": "Problemos pasukant? Panaudok 'pasukti 90 laipsnių dešinėn bloką."
         },
+        "courseC_artist_prog2_2020": {
+          "courseC_artist_prog2_a": "Jei panaudosi bloką kad aš 'pajudėčiau į priekį 100 pixelių', aš linija nupiešiu automatiškai.",
+          "courseC_artist_prog2_b": "Problemos pasukant? Panaudok 'pasukti 90 laipsnių dešinėn bloką."
+        },
         "courseD_artist_nestedLoops3": {
           "courseD_artist_nestedLoops3_a": "Pamėgink panaudoti blokelį „peršok“, kad atsidurtum nuo vieno kvadrato prie kito. \n\nJei kiekvieno kvadrato kraštinės yra po 20 pikselių, o tarpai tarp jų irgi yra 20 pikselių, kaip toli tau reikia peršokti?"
         },
@@ -128,6 +132,9 @@
           "courseD_artist_nestedLoops3_a": "Pamėgink panaudoti blokelį „peršok“, kad atsidurtum nuo vieno kvadrato prie kito. \n\nJei kiekvieno kvadrato kraštinės yra po 20 pikselių, o tarpai tarp jų irgi yra 20 pikselių, kaip toli tau reikia peršokti?"
         },
         "courseD_artist_nestedLoops3_2019": {
+          "courseD_artist_nestedLoops3_a": "Pamėgink panaudoti blokelį „peršok“, kad atsidurtum nuo vieno kvadrato prie kito. \n\nJei kiekvieno kvadrato kraštinės yra po 20 pikselių, o tarpai tarp jų irgi yra 20 pikselių, kaip toli tau reikia peršokti?"
+        },
+        "courseD_artist_nestedLoops3_2020": {
           "courseD_artist_nestedLoops3_a": "Pamėgink panaudoti blokelį „peršok“, kad atsidurtum nuo vieno kvadrato prie kito. \n\nJei kiekvieno kvadrato kraštinės yra po 20 pikselių, o tarpai tarp jų irgi yra 20 pikselių, kaip toli tau reikia peršokti?"
         },
         "courseE_artist_functions1": {
@@ -145,6 +152,9 @@
           "courseD_artist_functions2_a": "Tavo programoje turi būti:\n– Panaudota komanda\n– Judama pirmyn 100 + 75 pikselių\n– Panaudota komanda"
         },
         "courseE_artist_functions2_2019": {
+          "courseD_artist_functions2_a": "Tavo programoje turi būti:\n– Panaudota komanda\n– Judama pirmyn 100 + 75 pikselių\n– Panaudota komanda"
+        },
+        "courseE_artist_functions2_2020": {
           "courseD_artist_functions2_a": "Tavo programoje turi būti:\n– Panaudota komanda\n– Judama pirmyn 100 + 75 pikselių\n– Panaudota komanda"
         },
         "courseE_artist_functions2_copy": {

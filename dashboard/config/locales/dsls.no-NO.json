@@ -873,6 +873,9 @@
         "Begin planning your project_2018_2019": {
           "content1": "beskrivelse her"
         },
+        "Begin planning your project_2018_2019_2020": {
+          "content1": "beskrivelse her"
+        },
         "CSD Header Size MC": {
           "answers": [
             {
@@ -2134,7 +2137,41 @@
             }
           ]
         },
+        "behaviors 1 predict_2020": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+              "feedback": "Feil"
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
         "behaviors 4 predict": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+              "feedback": "Feil"
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "behaviors 4 predict_2020": {
           "answers": [
             {
             },
@@ -2199,6 +2236,22 @@
             }
           ]
         },
+        "courseC_multi_artist_prog6_predict1_2018_2019_2020": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
         "courseC_multi_harvester_loops11_predict1": {
           "answers": [
             {
@@ -2232,6 +2285,22 @@
           ]
         },
         "courseC_multi_harvester_loops11_predict1_2018_2019": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "courseC_multi_harvester_loops11_predict1_2018_2019_2020": {
           "answers": [
             {
             },
@@ -2295,6 +2364,22 @@
             }
           ]
         },
+        "courseC_multi_maze_debugging8_predict1_2018_2019_2020": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
         "courseC_multi_maze_programming8_predict1": {
           "answers": [
             {
@@ -2328,6 +2413,22 @@
           ]
         },
         "courseC_multi_maze_programming8_predict1_2018_2019": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "courseC_multi_maze_programming8_predict1_2018_2019_2020": {
           "answers": [
             {
             },
@@ -2394,6 +2495,23 @@
             }
           ]
         },
+        "courseC_multi_starWars_predict1_2018_2019_2020": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+              "text": "Jeg vet ikke"
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
         "courseC_multi_starWars_predict2": {
           "answers": [
             {
@@ -2427,6 +2545,22 @@
           ]
         },
         "courseC_multi_starWars_predict2_2018_2019": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "courseC_multi_starWars_predict2_2018_2019_2020": {
           "answers": [
             {
             },
@@ -2483,6 +2617,26 @@
           ]
         },
         "courseD_multi_artist_binary8_predict1_2018_2019": {
+          "answers": [
+            {
+              "text": "A"
+            },
+            {
+              "text": "B"
+            },
+            {
+              "text": "C"
+            },
+            {
+              "text": "D"
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "courseD_multi_artist_binary8_predict1_2018_2019_2020": {
           "answers": [
             {
               "text": "A"
@@ -2559,6 +2713,25 @@
             }
           ]
         },
+        "courseD_multi_artist_nestedLoops9_predict1_2018_2019_2020": {
+          "answers": [
+            {
+              "text": "A"
+            },
+            {
+              "text": "B"
+            },
+            {
+              "text": "C"
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
         "courseD_multi_bee_conditionals1_predict1": {
           "answers": [
             {
@@ -2592,6 +2765,22 @@
           ]
         },
         "courseD_multi_bee_conditionals1_predict1_2018_2019": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "courseD_multi_bee_conditionals1_predict1_2018_2019_2020": {
           "answers": [
             {
             },
@@ -2671,6 +2860,22 @@
             }
           ]
         },
+        "courseD_multi_bee_conditionals7_predict2_2018_2019_2020": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
         "courseD_multi_bee_nestedLoops2_predict1": {
           "answers": [
             {
@@ -2719,6 +2924,22 @@
             }
           ]
         },
+        "courseD_multi_bee_nestedLoops2_predict1_2018_2019_2020": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
         "courseD_multi_bee_nestedLoops9_predict2": {
           "answers": [
             {
@@ -2752,6 +2973,22 @@
           ]
         },
         "courseD_multi_bee_nestedLoops9_predict2_2018_2019": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "courseD_multi_bee_nestedLoops9_predict2_2018_2019_2020": {
           "answers": [
             {
             },
@@ -2831,6 +3068,22 @@
             }
           ]
         },
+        "courseD_multi_farmer_condLoops9_predict1_2018_2019_2020": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
         "courseD_multi_farmer_ramp13": {
           "answers": [
             {
@@ -2895,6 +3148,22 @@
             }
           ]
         },
+        "courseD_multi_farmer_while10_predict2_2018_2019_2020": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
         "courseD_multi_farmer_while4_predict1": {
           "answers": [
             {
@@ -2928,6 +3197,22 @@
           ]
         },
         "courseD_multi_farmer_while4_predict1_2018_2019": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "courseD_multi_farmer_while4_predict1_2018_2019_2020": {
           "answers": [
             {
             },
@@ -2991,6 +3276,22 @@
             }
           ]
         },
+        "courseD_multi_maze_until10_predict2_2018_2019_2020": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
         "courseD_multi_maze_until2_predict1": {
           "answers": [
             {
@@ -3024,6 +3325,22 @@
           ]
         },
         "courseD_multi_maze_until2_predict1_2018_2019": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "courseD_multi_maze_until2_predict1_2018_2019_2020": {
           "answers": [
             {
             },
@@ -3119,6 +3436,22 @@
             }
           ]
         },
+        "courseE_multi_farmer_functions11_predict_2018_2019_2020": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
         "courseE_prediction_artistFunction1": {
           "answers": [
             {
@@ -3152,6 +3485,22 @@
           ]
         },
         "courseE_prediction_artistFunction1_2018_2019": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "courseE_prediction_artistFunction1_2018_2019_2020": {
           "answers": [
             {
             },
@@ -3215,6 +3564,22 @@
             }
           ]
         },
+        "courseF_bee_variables_8a_2018_2019_2020": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
         "courseF_multi_artist_for10_predict1": {
           "answers": [
             {
@@ -3248,6 +3613,22 @@
           ]
         },
         "courseF_multi_artist_for10_predict1_2018_2019": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "courseF_multi_artist_for10_predict1_2018_2019_2020": {
           "answers": [
             {
             },
@@ -3312,6 +3693,22 @@
           ]
         },
         "courseF_multi_artist_variables3a_predict1_2018_2019": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "courseF_multi_artist_variables3a_predict1_2018_2019_2020": {
           "answers": [
             {
             },
@@ -3407,6 +3804,22 @@
             }
           ]
         },
+        "courseF_multi_bee_for3_predict1_2018_2019_2020": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
         "courseF_multi_bee_fwp9_predict1": {
           "answers": [
             {
@@ -3487,11 +3900,36 @@
             }
           ]
         },
+        "coursee_prediction_artistfunction2_2018_2019_2020": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
         "csd-post-survey-2017-levelgroup-2018-2nd-semester": {
           "title": "CS Funns Slutt på Kursets Elevundersøkelse"
         },
         "csd-post-survey-levelgroup-2018": {
           "title": "CS Funns Slutt på Kursets Elevundersøkelse"
+        },
+        "csf_be_a_super_digital_citizen": {
+          "content1": "beskrivelse her"
+        },
+        "csf_password_power-up": {
+          "content1": "beskrivelse her"
+        },
+        "csf_putting_a_stop_to_online_meanness": {
+          "content1": "beskrivelse her"
         },
         "grade2_multi_collector_A_predict1": {
           "answers": [
@@ -3526,6 +3964,22 @@
           ]
         },
         "grade2_multi_collector_A_predict1_2018_2019": {
+          "answers": [
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+            }
+          ],
+          "questions": [
+            {
+            }
+          ]
+        },
+        "grade2_multi_collector_A_predict1_2018_2019_2020": {
           "answers": [
             {
             },

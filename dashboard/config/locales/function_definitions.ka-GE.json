@@ -449,6 +449,11 @@
             "name": "ხიდის აგება"
           }
         },
+        "Function intro Ryan_2020": {
+          "build bridge": {
+            "name": "ხიდის აგება"
+          }
+        },
         "Geometric Sun": {
           "draw a door": {
             "name": "კარის დახატვა"
@@ -567,6 +572,11 @@
             "name": "გზის გასუფთავება"
           }
         },
+        "MC_HOC_2017_07_Cole_2020": {
+          "clear path": {
+            "name": "გზის გასუფთავება"
+          }
+        },
         "MC_HOC_2017_Ali": {
           "build short bridge": {
             "name": "მოკლე ხიდის აგება"
@@ -583,6 +593,14 @@
             "name": "გრძელი ხიდის აგება"
           }
         },
+        "MC_HOC_2017_Ali_2020": {
+          "build short bridge": {
+            "name": "მოკლე ხიდის აგება"
+          },
+          "build long bridge": {
+            "name": "გრძელი ხიდის აგება"
+          }
+        },
         "MC_HOC_2017_FP20x20": {
           "function 1": {
             "name": "ფუნქცია 1"
@@ -592,6 +610,14 @@
           }
         },
         "MC_HOC_2017_FP20x20_2019": {
+          "function 1": {
+            "name": "ფუნქცია 1"
+          },
+          "function 2": {
+            "name": "ფუნქცია 2"
+          }
+        },
+        "MC_HOC_2017_FP20x20_2020": {
           "function 1": {
             "name": "ფუნქცია 1"
           },
@@ -1103,6 +1129,11 @@
             "name": "მოსალოდნელი გადაწყვეტა"
           }
         },
+        "courseB_artist_loops_challenge2_2020": {
+          "potential solution": {
+            "name": "მოსალოდნელი გადაწყვეტა"
+          }
+        },
         "courseC_artist_prog3": {
           "draw flame": {
             "name": "ალის დახატვა",
@@ -1136,7 +1167,23 @@
             "name": "ცეცხლის დახატვა"
           }
         },
+        "courseC_artist_prog3_2020": {
+          "draw flame": {
+            "name": "ალის დახატვა",
+            "parameters": {
+              "x": "x"
+            }
+          },
+          "draw fire": {
+            "name": "ცეცხლის დახატვა"
+          }
+        },
         "courseC_data wizard": {
+          "do something": {
+            "name": "გააკეთეთ რამე"
+          }
+        },
+        "courseC_data wizard_2020": {
           "do something": {
             "name": "გააკეთეთ რამე"
           }
@@ -1156,6 +1203,11 @@
             "name": "დახატვა"
           }
         },
+        "courseD_artist_binary1_2020": {
+          "draw": {
+            "name": "დახატვა"
+          }
+        },
         "courseD_artist_binary2": {
           "draw": {
             "name": "დახატვა"
@@ -1167,6 +1219,11 @@
           }
         },
         "courseD_artist_binary2_2019": {
+          "draw": {
+            "name": "დახატვა"
+          }
+        },
+        "courseD_artist_binary2_2020": {
           "draw": {
             "name": "დახატვა"
           }
@@ -1186,6 +1243,11 @@
             "name": "დახატვა"
           }
         },
+        "courseD_artist_binary3_2020": {
+          "draw": {
+            "name": "დახატვა"
+          }
+        },
         "courseD_artist_binary4": {
           "draw": {
             "name": "დახატვა"
@@ -1197,6 +1259,11 @@
           }
         },
         "courseD_artist_binary4_2019": {
+          "draw": {
+            "name": "დახატვა"
+          }
+        },
+        "courseD_artist_binary4_2020": {
           "draw": {
             "name": "დახატვა"
           }
@@ -1216,6 +1283,11 @@
             "name": "დახატვა"
           }
         },
+        "courseD_artist_binary5_2020": {
+          "draw": {
+            "name": "დახატვა"
+          }
+        },
         "courseD_artist_binary6": {
           "draw": {
             "name": "დახატვა"
@@ -1227,6 +1299,11 @@
           }
         },
         "courseD_artist_binary6_2019": {
+          "draw": {
+            "name": "დახატვა"
+          }
+        },
+        "courseD_artist_binary6_2020": {
           "draw": {
             "name": "დახატვა"
           }
@@ -1246,6 +1323,11 @@
             "name": "დახატვა"
           }
         },
+        "courseD_artist_binary7_2020": {
+          "draw": {
+            "name": "დახატვა"
+          }
+        },
         "courseD_artist_binary8": {
           "draw": {
             "name": "დახატვა"
@@ -1257,6 +1339,11 @@
           }
         },
         "courseD_artist_binary8_2019": {
+          "draw": {
+            "name": "დახატვა"
+          }
+        },
+        "courseD_artist_binary8_2020": {
           "draw": {
             "name": "დახატვა"
           }
@@ -1276,12 +1363,22 @@
             "name": "დახატვა"
           }
         },
+        "courseD_artist_binary8_predict1_2020": {
+          "draw": {
+            "name": "დახატვა"
+          }
+        },
         "courseD_artist_binaryFP_2018": {
           "draw": {
             "name": "დახატვა"
           }
         },
         "courseD_artist_binaryFP_2019": {
+          "draw": {
+            "name": "დახატვა"
+          }
+        },
+        "courseD_artist_binaryFP_2020": {
           "draw": {
             "name": "დახატვა"
           }
@@ -1296,12 +1393,22 @@
             "name": "დახატვა"
           }
         },
+        "courseD_artist_binary_challenge1_2020": {
+          "draw": {
+            "name": "დახატვა"
+          }
+        },
         "courseD_artist_binary_challenge2_2018": {
           "draw": {
             "name": "დახატვა"
           }
         },
         "courseD_artist_binary_challenge2_2019": {
+          "draw": {
+            "name": "დახატვა"
+          }
+        },
+        "courseD_artist_binary_challenge2_2020": {
           "draw": {
             "name": "დახატვა"
           }
@@ -1428,6 +1535,17 @@
             "name": "ექვსკუთხედების ხაზის დახატვა"
           }
         },
+        "courseE_artist_functions10_2020": {
+          "do something": {
+            "name": "გააკეთეთ რამე"
+          },
+          "draw hexagon": {
+            "name": "ექვსკუთხედის დახატვა"
+          },
+          "draw line of hexagons": {
+            "name": "ექვსკუთხედების ხაზის დახატვა"
+          }
+        },
         "courseE_artist_functions2": {
           "draw a square": {
             "name": "კვადრატის დახატვა"
@@ -1443,6 +1561,11 @@
             "name": "კვადრატის დახატვა"
           }
         },
+        "courseE_artist_functions2_2020": {
+          "draw a square": {
+            "name": "კვადრატის დახატვა"
+          }
+        },
         "courseE_artist_functions2_copy": {
           "draw a square": {
             "name": "კვადრატის დახატვა"
@@ -1454,6 +1577,11 @@
           }
         },
         "courseE_artist_functions3_2019": {
+          "draw a star": {
+            "name": "ვარსკვლავის დახატვა"
+          }
+        },
+        "courseE_artist_functions3_2020": {
           "draw a star": {
             "name": "ვარსკვლავის დახატვა"
           }
@@ -1483,6 +1611,11 @@
             "name": "ვარსკვლავის დახატვა"
           }
         },
+        "courseE_artist_functions5_2020": {
+          "draw a star": {
+            "name": "ვარსკვლავის დახატვა"
+          }
+        },
         "courseE_artist_functions5_copy": {
           "draw a star": {
             "name": "ვარსკვლავის დახატვა"
@@ -1507,6 +1640,14 @@
         "courseE_artist_functions7_2019": {
           "draw a window": {
             "name": "ფანჯრის დახატვა"
+          }
+        },
+        "courseE_artist_functions7_2020": {
+          "draw a window": {
+            "name": "ფანჯრის დახატვა"
+          },
+          "draw a house": {
+            "name": "სახლის დახატვა"
           }
         },
         "courseE_artist_functions8": {
@@ -1542,6 +1683,17 @@
             "name": "კვადრატის დახატვა"
           }
         },
+        "courseE_artist_functions8_2020": {
+          "do something": {
+            "name": "გააკეთეთ რამე"
+          },
+          "draw a line of squares": {
+            "name": "კვადრატების ხაზის დახატვა"
+          },
+          "draw square": {
+            "name": "კვადრატის დახატვა"
+          }
+        },
         "courseE_artist_functions8a_2018": {
           "draw a square": {
             "name": "კვადრატის დახატვა"
@@ -1551,6 +1703,14 @@
           }
         },
         "courseE_artist_functions8a_2019": {
+          "draw a square": {
+            "name": "კვადრატის დახატვა"
+          },
+          "do something": {
+            "name": "გააკეთეთ რამე"
+          }
+        },
+        "courseE_artist_functions8a_2020": {
           "draw a square": {
             "name": "კვადრატის დახატვა"
           },
@@ -1580,6 +1740,17 @@
             "name": "გააკეთეთ რამე"
           }
         },
+        "courseE_artist_functions8b_2020": {
+          "draw a line of squares": {
+            "name": "კვადრატების ხაზის დახატვა"
+          },
+          "draw square": {
+            "name": "კვადრატის დახატვა"
+          },
+          "do something": {
+            "name": "გააკეთეთ რამე"
+          }
+        },
         "courseE_artist_functions8c_2018": {
           "draw a line of squares": {
             "name": "კვადრატების ხაზის დახატვა"
@@ -1592,6 +1763,17 @@
           }
         },
         "courseE_artist_functions8c_2019": {
+          "draw a line of squares": {
+            "name": "კვადრატების ხაზის დახატვა"
+          },
+          "draw square": {
+            "name": "კვადრატის დახატვა"
+          },
+          "do something": {
+            "name": "გააკეთეთ რამე"
+          }
+        },
+        "courseE_artist_functions8c_2020": {
           "draw a line of squares": {
             "name": "კვადრატების ხაზის დახატვა"
           },
@@ -1635,6 +1817,17 @@
             "name": "სამკუთხედების ხაზის დახატვა"
           }
         },
+        "courseE_artist_functions9_2020": {
+          "do something": {
+            "name": "გააკეთეთ რამე"
+          },
+          "draw triangle": {
+            "name": "სამკუთხედის დახატვა"
+          },
+          "draw line of triangles": {
+            "name": "სამკუთხედების ხაზის დახატვა"
+          }
+        },
         "courseE_artist_functionsProj_2018": {
           "draw hexagon": {
             "name": "ექვსკუთხედის დახატვა"
@@ -1650,6 +1843,20 @@
           }
         },
         "courseE_artist_functionsProj_2019": {
+          "draw hexagon": {
+            "name": "ექვსკუთხედის დახატვა"
+          },
+          "draw line of hexagons": {
+            "name": "ექვსკუთხედების ხაზის დახატვა"
+          },
+          "draw a line of squares": {
+            "name": "კვადრატების ხაზის დახატვა"
+          },
+          "draw square": {
+            "name": "კვადრატის დახატვა"
+          }
+        },
+        "courseE_artist_functionsProj_2020": {
           "draw hexagon": {
             "name": "ექვსკუთხედის დახატვა"
           },
@@ -1687,6 +1894,14 @@
             "name": "გააკეთეთ რამე"
           }
         },
+        "courseE_artist_functions_challenge1_2020": {
+          "my design": {
+            "name": "ჩემი დიზაინი"
+          },
+          "do something": {
+            "name": "გააკეთეთ რამე"
+          }
+        },
         "courseE_artist_functions_challenge2": {
           "my design": {
             "name": "ჩემი დიზაინი"
@@ -1711,6 +1926,14 @@
             "name": "გააკეთეთ რამე"
           }
         },
+        "courseE_artist_functions_challenge2_2020": {
+          "my design": {
+            "name": "ჩემი დიზაინი"
+          },
+          "do something": {
+            "name": "გააკეთეთ რამე"
+          }
+        },
         "courseE_artist_functions_predict1": {
           "draw a square": {
             "name": "კვადრატის დახატვა"
@@ -1722,6 +1945,11 @@
           }
         },
         "courseE_artist_functions_predict1_2019": {
+          "draw a square": {
+            "name": "კვადრატის დახატვა"
+          }
+        },
+        "courseE_artist_functions_predict1_2020": {
           "draw a square": {
             "name": "კვადრატის დახატვა"
           }
@@ -1754,6 +1982,17 @@
           }
         },
         "courseE_artist_functions_predict2_2019": {
+          "draw line of polygons": {
+            "name": "მრავალკუთხედების ხაზის დახატვა"
+          },
+          "draw polygon": {
+            "name": "მრავალკუთხედის დახატვა"
+          },
+          "do something": {
+            "name": "გააკეთეთ რამე"
+          }
+        },
+        "courseE_artist_functions_predict2_2020": {
           "draw line of polygons": {
             "name": "მრავალკუთხედების ხაზის დახატვა"
           },
@@ -1865,6 +2104,17 @@
             "name": "გოგრის კვადრატი"
           }
         },
+        "courseE_farmer_functions10a1_2020": {
+          "check square for corn": {
+            "name": "კვადრატის ხორბალზე შემოწმება"
+          },
+          "get all pumpkins": {
+            "name": "ყველა გოგრის აღება"
+          },
+          "pumpkin square": {
+            "name": "გოგრის კვადრატი"
+          }
+        },
         "courseE_farmer_functions11_predict": {
           "check and pick": {
             "name": "შემოწმება და აღება"
@@ -1885,6 +2135,17 @@
           }
         },
         "courseE_farmer_functions11_predict_2019": {
+          "pumpkin square": {
+            "name": "გოგრის კვადრატი"
+          },
+          "check square for corn": {
+            "name": "კვადრატის ხორბალზე შემოწმება"
+          },
+          "get all pumpkins": {
+            "name": "ყველა გოგრის აღება"
+          }
+        },
+        "courseE_farmer_functions11_predict_2020": {
           "pumpkin square": {
             "name": "გოგრის კვადრატი"
           },
@@ -1917,6 +2178,17 @@
             "name": "სალათის კიბე"
           }
         },
+        "courseE_farmer_functions13_2020": {
+          "check for corn": {
+            "name": "ხორბალზე შემოწმება"
+          },
+          "corn rectangle": {
+            "name": "ხორბლის მართკუთხედი"
+          },
+          "lettuce stairs": {
+            "name": "სალათის კიბე"
+          }
+        },
         "courseE_farmer_functions1a_2018": {
           "check square for corn": {
             "name": "კვადრატის ხორბალზე შემოწმება"
@@ -1927,12 +2199,22 @@
             "name": "კვადრატის ხორბალზე შემოწმება"
           }
         },
+        "courseE_farmer_functions1a_2020": {
+          "check square for corn": {
+            "name": "კვადრატის ხორბალზე შემოწმება"
+          }
+        },
         "courseE_farmer_functions2b_2018": {
           "check square for corn": {
             "name": "კვადრატის ხორბალზე შემოწმება"
           }
         },
         "courseE_farmer_functions2b_2019": {
+          "check square for corn": {
+            "name": "კვადრატის ხორბალზე შემოწმება"
+          }
+        },
+        "courseE_farmer_functions2b_2020": {
           "check square for corn": {
             "name": "კვადრატის ხორბალზე შემოწმება"
           }
@@ -1951,6 +2233,14 @@
           }
         },
         "courseE_farmer_functions2ba_2019": {
+          "check square for corn": {
+            "name": "კვადრატის ხორბალზე შემოწმება"
+          },
+          "get all pumpkins": {
+            "name": "ყველა გოგრის აღება"
+          }
+        },
+        "courseE_farmer_functions2ba_2020": {
           "check square for corn": {
             "name": "კვადრატის ხორბალზე შემოწმება"
           },
@@ -1979,6 +2269,14 @@
             "name": "ყველა გოგრის აღება"
           }
         },
+        "courseE_farmer_functions3c1_2020": {
+          "check square for corn": {
+            "name": "კვადრატის ხორბალზე შემოწმება"
+          },
+          "get all pumpkins": {
+            "name": "ყველა გოგრის აღება"
+          }
+        },
         "courseE_farmer_functions3c_2018": {
           "check square for corn": {
             "name": "კვადრატის ხორბალზე შემოწმება"
@@ -1988,6 +2286,14 @@
           }
         },
         "courseE_farmer_functions3c_2019": {
+          "check square for corn": {
+            "name": "კვადრატის ხორბალზე შემოწმება"
+          },
+          "get all pumpkins": {
+            "name": "ყველა გოგრის აღება"
+          }
+        },
+        "courseE_farmer_functions3c_2020": {
           "check square for corn": {
             "name": "კვადრატის ხორბალზე შემოწმება"
           },
@@ -2020,6 +2326,11 @@
             "name": "ბაღის კვადრატი"
           }
         },
+        "courseE_farmer_functions7a1_2020": {
+          "garden square": {
+            "name": "ბაღის კვადრატი"
+          }
+        },
         "courseE_farmer_functions8a1_2018": {
           "garden square": {
             "name": "ბაღის კვადრატი"
@@ -2030,12 +2341,22 @@
             "name": "ბაღის კვადრატი"
           }
         },
+        "courseE_farmer_functions8a1_2020": {
+          "garden square": {
+            "name": "ბაღის კვადრატი"
+          }
+        },
         "courseE_farmer_functions9a1_2018": {
           "garden square": {
             "name": "ბაღის კვადრატი"
           }
         },
         "courseE_farmer_functions9a1_2019": {
+          "garden square": {
+            "name": "ბაღის კვადრატი"
+          }
+        },
+        "courseE_farmer_functions9a1_2020": {
           "garden square": {
             "name": "ბაღის კვადრატი"
           }
@@ -2408,6 +2729,11 @@
             "name": "კიბეების შეგროვება"
           }
         },
+        "courseF_bee_variables_6_2020": {
+          "collect stairs": {
+            "name": "კიბეების შეგროვება"
+          }
+        },
         "courseF_bee_variables_7_2018": {
           "collect": {
             "name": "შეგროვება"
@@ -2418,12 +2744,22 @@
             "name": "შეგროვება"
           }
         },
+        "courseF_bee_variables_7_2020": {
+          "collect": {
+            "name": "შეგროვება"
+          }
+        },
         "courseF_bee_variables_8_2018": {
           "collect": {
             "name": "შეგროვება"
           }
         },
         "courseF_bee_variables_8_2019": {
+          "collect": {
+            "name": "შეგროვება"
+          }
+        },
+        "courseF_bee_variables_8_2020": {
           "collect": {
             "name": "შეგროვება"
           }

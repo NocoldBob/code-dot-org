@@ -612,6 +612,11 @@
             "name": "postav most"
           }
         },
+        "Function intro Ryan_2020": {
+          "build bridge": {
+            "name": "postav most"
+          }
+        },
         "Geometric Sun": {
           "draw a door": {
             "name": "nakresli dvere"
@@ -749,6 +754,11 @@
             "name": "vymaž cestu"
           }
         },
+        "MC_HOC_2017_07_Cole_2020": {
+          "clear path": {
+            "name": "vymaž cestu"
+          }
+        },
         "MC_HOC_2017_10_RETRY": {
           "fix long path": {
             "name": "oprav dlhú cestu"
@@ -758,6 +768,14 @@
           }
         },
         "MC_HOC_2017_10_RETRY_2019": {
+          "fix long path": {
+            "name": "oprav dlhú cestu"
+          },
+          "fix short path": {
+            "name": "oprav krátku cestu"
+          }
+        },
+        "MC_HOC_2017_10_RETRY_2020": {
           "fix long path": {
             "name": "oprav dlhú cestu"
           },
@@ -781,6 +799,14 @@
             "name": "postav dlhý most"
           }
         },
+        "MC_HOC_2017_Ali_2020": {
+          "build short bridge": {
+            "name": "postav krátky most"
+          },
+          "build long bridge": {
+            "name": "postav dlhý most"
+          }
+        },
         "MC_HOC_2017_FP20x20": {
           "function 1": {
             "name": "funkcia 1"
@@ -790,6 +816,14 @@
           }
         },
         "MC_HOC_2017_FP20x20_2019": {
+          "function 1": {
+            "name": "funkcia 1"
+          },
+          "function 2": {
+            "name": "funkcia 2"
+          }
+        },
+        "MC_HOC_2017_FP20x20_2020": {
           "function 1": {
             "name": "funkcia 1"
           },
@@ -1350,6 +1384,11 @@
             "name": "možné riešenie"
           }
         },
+        "courseB_artist_loops_challenge2_2020": {
+          "potential solution": {
+            "name": "možné riešenie"
+          }
+        },
         "courseC_artist_prog3": {
           "draw flame": {
             "name": "nakresli plameň",
@@ -1383,6 +1422,17 @@
             "name": "nakresli oheň"
           }
         },
+        "courseC_artist_prog3_2020": {
+          "draw flame": {
+            "name": "nakresli plameň",
+            "parameters": {
+              "x": "x"
+            }
+          },
+          "draw fire": {
+            "name": "nakresli oheň"
+          }
+        },
         "courseC_artist_prog4": {
           "booster": {
             "name": "urýchľovač"
@@ -1398,7 +1448,17 @@
             "name": "urýchľovač"
           }
         },
+        "courseC_artist_prog4_2020": {
+          "booster": {
+            "name": "urýchľovač"
+          }
+        },
         "courseC_data wizard": {
+          "do something": {
+            "name": "urob niečo"
+          }
+        },
+        "courseC_data wizard_2020": {
           "do something": {
             "name": "urob niečo"
           }
@@ -1420,6 +1480,14 @@
           }
         },
         "courseD_artist_binary1_2019": {
+          "draw bit": {
+            "name": "nakresli bit"
+          },
+          "draw": {
+            "name": "nakresli"
+          }
+        },
+        "courseD_artist_binary1_2020": {
           "draw bit": {
             "name": "nakresli bit"
           },
@@ -1451,6 +1519,14 @@
             "name": "nakresli bit"
           }
         },
+        "courseD_artist_binary2_2020": {
+          "draw": {
+            "name": "nakresli"
+          },
+          "draw bit": {
+            "name": "nakresli bit"
+          }
+        },
         "courseD_artist_binary3": {
           "draw": {
             "name": "nakresli"
@@ -1468,6 +1544,14 @@
           }
         },
         "courseD_artist_binary3_2019": {
+          "draw": {
+            "name": "nakresli"
+          },
+          "draw bit": {
+            "name": "nakresli bit"
+          }
+        },
+        "courseD_artist_binary3_2020": {
           "draw": {
             "name": "nakresli"
           },
@@ -1499,6 +1583,14 @@
             "name": "nakresli bit"
           }
         },
+        "courseD_artist_binary4_2020": {
+          "draw": {
+            "name": "nakresli"
+          },
+          "draw bit": {
+            "name": "nakresli bit"
+          }
+        },
         "courseD_artist_binary5": {
           "draw": {
             "name": "nakresli"
@@ -1516,6 +1608,14 @@
           }
         },
         "courseD_artist_binary5_2019": {
+          "draw": {
+            "name": "nakresli"
+          },
+          "draw bit": {
+            "name": "nakresli bit"
+          }
+        },
+        "courseD_artist_binary5_2020": {
           "draw": {
             "name": "nakresli"
           },
@@ -1547,6 +1647,14 @@
             "name": "nakresli bit"
           }
         },
+        "courseD_artist_binary6_2020": {
+          "draw": {
+            "name": "nakresli"
+          },
+          "draw bit": {
+            "name": "nakresli bit"
+          }
+        },
         "courseD_artist_binary7": {
           "draw": {
             "name": "nakresli"
@@ -1564,6 +1672,14 @@
           }
         },
         "courseD_artist_binary7_2019": {
+          "draw": {
+            "name": "nakresli"
+          },
+          "draw bit": {
+            "name": "nakresli bit"
+          }
+        },
+        "courseD_artist_binary7_2020": {
           "draw": {
             "name": "nakresli"
           },
@@ -1595,6 +1711,14 @@
             "name": "nakresli bit"
           }
         },
+        "courseD_artist_binary8_2020": {
+          "draw": {
+            "name": "nakresli"
+          },
+          "draw bit": {
+            "name": "nakresli bit"
+          }
+        },
         "courseD_artist_binary8_predict1": {
           "draw": {
             "name": "nakresli"
@@ -1619,6 +1743,14 @@
             "name": "nakresli bit"
           }
         },
+        "courseD_artist_binary8_predict1_2020": {
+          "draw": {
+            "name": "nakresli"
+          },
+          "draw bit": {
+            "name": "nakresli bit"
+          }
+        },
         "courseD_artist_binaryFP_2018": {
           "draw": {
             "name": "nakresli"
@@ -1628,6 +1760,14 @@
           }
         },
         "courseD_artist_binaryFP_2019": {
+          "draw": {
+            "name": "nakresli"
+          },
+          "draw bit": {
+            "name": "nakresli bit"
+          }
+        },
+        "courseD_artist_binaryFP_2020": {
           "draw": {
             "name": "nakresli"
           },
@@ -1651,6 +1791,14 @@
             "name": "nakresli bit"
           }
         },
+        "courseD_artist_binary_challenge1_2020": {
+          "draw": {
+            "name": "nakresli"
+          },
+          "draw bit": {
+            "name": "nakresli bit"
+          }
+        },
         "courseD_artist_binary_challenge2_2018": {
           "draw": {
             "name": "nakresli"
@@ -1660,6 +1808,14 @@
           }
         },
         "courseD_artist_binary_challenge2_2019": {
+          "draw": {
+            "name": "nakresli"
+          },
+          "draw bit": {
+            "name": "nakresli bit"
+          }
+        },
+        "courseD_artist_binary_challenge2_2020": {
           "draw": {
             "name": "nakresli"
           },
@@ -1832,6 +1988,17 @@
             "name": "nakresli rad šesťuholníkov"
           }
         },
+        "courseE_artist_functions10_2020": {
+          "do something": {
+            "name": "urob niečo"
+          },
+          "draw hexagon": {
+            "name": "nakresli šesťuholník"
+          },
+          "draw line of hexagons": {
+            "name": "nakresli rad šesťuholníkov"
+          }
+        },
         "courseE_artist_functions1_copy": {
           "draw ear stems": {
             "name": "nakresli uši"
@@ -1861,6 +2028,14 @@
             "name": "nakresli uši"
           }
         },
+        "courseE_artist_functions2_2020": {
+          "draw a square": {
+            "name": "nakresli štvorec"
+          },
+          "draw ear stems": {
+            "name": "nakresli uši"
+          }
+        },
         "courseE_artist_functions2_copy": {
           "draw a square": {
             "name": "nakresli štvorec"
@@ -1875,6 +2050,11 @@
           }
         },
         "courseE_artist_functions3_2019": {
+          "draw a star": {
+            "name": "nakresli hviezdu"
+          }
+        },
+        "courseE_artist_functions3_2020": {
           "draw a star": {
             "name": "nakresli hviezdu"
           }
@@ -1904,6 +2084,11 @@
             "name": "nakresli hviezdu"
           }
         },
+        "courseE_artist_functions5_2020": {
+          "draw a star": {
+            "name": "nakresli hviezdu"
+          }
+        },
         "courseE_artist_functions5_copy": {
           "draw a star": {
             "name": "nakresli hviezdu"
@@ -1928,6 +2113,14 @@
         "courseE_artist_functions7_2019": {
           "draw a window": {
             "name": "nakresli okno"
+          }
+        },
+        "courseE_artist_functions7_2020": {
+          "draw a window": {
+            "name": "nakresli okno"
+          },
+          "draw a house": {
+            "name": "nakresli dom"
           }
         },
         "courseE_artist_functions8": {
@@ -1969,6 +2162,20 @@
             "name": "nakresli štvorec"
           }
         },
+        "courseE_artist_functions8_2020": {
+          "do something": {
+            "name": "urob niečo"
+          },
+          "staggered squares": {
+            "name": "posunuté štvorce"
+          },
+          "draw a line of squares": {
+            "name": "nakresli rad štvorcov"
+          },
+          "draw square": {
+            "name": "nakresli štvorec"
+          }
+        },
         "courseE_artist_functions8a_2018": {
           "draw a square": {
             "name": "nakresli štvorec"
@@ -1978,6 +2185,14 @@
           }
         },
         "courseE_artist_functions8a_2019": {
+          "draw a square": {
+            "name": "nakresli štvorec"
+          },
+          "do something": {
+            "name": "urob niečo"
+          }
+        },
+        "courseE_artist_functions8a_2020": {
           "draw a square": {
             "name": "nakresli štvorec"
           },
@@ -2007,6 +2222,17 @@
             "name": "urob niečo"
           }
         },
+        "courseE_artist_functions8b_2020": {
+          "draw a line of squares": {
+            "name": "nakresli rad štvorcov"
+          },
+          "draw square": {
+            "name": "nakresli štvorec"
+          },
+          "do something": {
+            "name": "urob niečo"
+          }
+        },
         "courseE_artist_functions8c_2018": {
           "draw a line of squares": {
             "name": "nakresli rad štvorcov"
@@ -2022,6 +2248,20 @@
           }
         },
         "courseE_artist_functions8c_2019": {
+          "draw a line of squares": {
+            "name": "nakresli rad štvorcov"
+          },
+          "draw square": {
+            "name": "nakresli štvorec"
+          },
+          "do something": {
+            "name": "urob niečo"
+          },
+          "staggered squares": {
+            "name": "posunuté štvorce"
+          }
+        },
+        "courseE_artist_functions8c_2020": {
           "draw a line of squares": {
             "name": "nakresli rad štvorcov"
           },
@@ -2068,6 +2308,17 @@
             "name": "nakresli rad trojuholníkov"
           }
         },
+        "courseE_artist_functions9_2020": {
+          "do something": {
+            "name": "urob niečo"
+          },
+          "draw triangle": {
+            "name": "nakresli trojuholník"
+          },
+          "draw line of triangles": {
+            "name": "nakresli rad trojuholníkov"
+          }
+        },
         "courseE_artist_functionsProj_2018": {
           "draw hexagon": {
             "name": "nakresli šesťuholník"
@@ -2086,6 +2337,23 @@
           }
         },
         "courseE_artist_functionsProj_2019": {
+          "draw hexagon": {
+            "name": "nakresli šesťuholník"
+          },
+          "draw line of hexagons": {
+            "name": "nakresli rad šesťuholníkov"
+          },
+          "staggered squares": {
+            "name": "posunuté štvorce"
+          },
+          "draw a line of squares": {
+            "name": "nakresli rad štvorcov"
+          },
+          "draw square": {
+            "name": "nakresli štvorec"
+          }
+        },
+        "courseE_artist_functionsProj_2020": {
           "draw hexagon": {
             "name": "nakresli šesťuholník"
           },
@@ -2126,6 +2394,14 @@
             "name": "urob niečo"
           }
         },
+        "courseE_artist_functions_challenge1_2020": {
+          "my design": {
+            "name": "môj dizajn"
+          },
+          "do something": {
+            "name": "urob niečo"
+          }
+        },
         "courseE_artist_functions_challenge2": {
           "my design": {
             "name": "môj dizajn"
@@ -2150,6 +2426,14 @@
             "name": "urob niečo"
           }
         },
+        "courseE_artist_functions_challenge2_2020": {
+          "my design": {
+            "name": "môj dizajn"
+          },
+          "do something": {
+            "name": "urob niečo"
+          }
+        },
         "courseE_artist_functions_predict1": {
           "draw a square": {
             "name": "nakresli štvorec"
@@ -2167,6 +2451,14 @@
           }
         },
         "courseE_artist_functions_predict1_2019": {
+          "draw a square": {
+            "name": "nakresli štvorec"
+          },
+          "draw ear stems": {
+            "name": "nakresli uši"
+          }
+        },
+        "courseE_artist_functions_predict1_2020": {
           "draw a square": {
             "name": "nakresli štvorec"
           },
@@ -2205,6 +2497,17 @@
           }
         },
         "courseE_artist_functions_predict2_2019": {
+          "draw line of polygons": {
+            "name": "nakresli rad mnohouholníkov"
+          },
+          "draw polygon": {
+            "name": "nakresli mnohouholník"
+          },
+          "do something": {
+            "name": "urob niečo"
+          }
+        },
+        "courseE_artist_functions_predict2_2020": {
           "draw line of polygons": {
             "name": "nakresli rad mnohouholníkov"
           },
@@ -2342,6 +2645,20 @@
             "name": "štvorec s tekvicou"
           }
         },
+        "courseE_farmer_functions10a1_2020": {
+          "pick along path": {
+            "name": "pozbieraj popri ceste"
+          },
+          "check square for corn": {
+            "name": "kukurica"
+          },
+          "get all pumpkins": {
+            "name": "získaj všetky tekvice"
+          },
+          "pumpkin square": {
+            "name": "štvorec s tekvicou"
+          }
+        },
         "courseE_farmer_functions10b": {
           "navigate": {
             "name": "naviguj"
@@ -2392,6 +2709,23 @@
             "name": "získaj všetky tekvice"
           }
         },
+        "courseE_farmer_functions11_predict_2020": {
+          "pick along path": {
+            "name": "pozbieraj popri ceste"
+          },
+          "pumpkin square": {
+            "name": "štvorec s tekvicou"
+          },
+          "check square for corn": {
+            "name": "kukurica"
+          },
+          "get produce": {
+            "name": "získaj plody"
+          },
+          "get all pumpkins": {
+            "name": "získaj všetky tekvice"
+          }
+        },
         "courseE_farmer_functions13_2018": {
           "pick along path": {
             "name": "pozbieraj popri ceste"
@@ -2420,6 +2754,20 @@
             "name": "schody so šalátom"
           }
         },
+        "courseE_farmer_functions13_2020": {
+          "pick along path": {
+            "name": "pozbieraj popri ceste"
+          },
+          "check for corn": {
+            "name": "skontroluj kukuricu"
+          },
+          "corn rectangle": {
+            "name": "obdĺžnik kukurice"
+          },
+          "lettuce stairs": {
+            "name": "schody so šalátom"
+          }
+        },
         "courseE_farmer_functions1a_2018": {
           "check square for corn": {
             "name": "kukurica"
@@ -2430,12 +2778,22 @@
             "name": "kukurica"
           }
         },
+        "courseE_farmer_functions1a_2020": {
+          "check square for corn": {
+            "name": "kukurica"
+          }
+        },
         "courseE_farmer_functions2b_2018": {
           "check square for corn": {
             "name": "kukurica"
           }
         },
         "courseE_farmer_functions2b_2019": {
+          "check square for corn": {
+            "name": "kukurica"
+          }
+        },
+        "courseE_farmer_functions2b_2020": {
           "check square for corn": {
             "name": "kukurica"
           }
@@ -2454,6 +2812,14 @@
           }
         },
         "courseE_farmer_functions2ba_2019": {
+          "check square for corn": {
+            "name": "kukurica"
+          },
+          "get all pumpkins": {
+            "name": "získaj všetky tekvice"
+          }
+        },
+        "courseE_farmer_functions2ba_2020": {
           "check square for corn": {
             "name": "kukurica"
           },
@@ -2488,6 +2854,17 @@
             "name": "získaj všetky tekvice"
           }
         },
+        "courseE_farmer_functions3c1_2020": {
+          "pick along path": {
+            "name": "pozbieraj popri ceste"
+          },
+          "check square for corn": {
+            "name": "kukurica"
+          },
+          "get all pumpkins": {
+            "name": "získaj všetky tekvice"
+          }
+        },
         "courseE_farmer_functions3c_2018": {
           "check square for corn": {
             "name": "kukurica"
@@ -2497,6 +2874,14 @@
           }
         },
         "courseE_farmer_functions3c_2019": {
+          "check square for corn": {
+            "name": "kukurica"
+          },
+          "get all pumpkins": {
+            "name": "získaj všetky tekvice"
+          }
+        },
+        "courseE_farmer_functions3c_2020": {
           "check square for corn": {
             "name": "kukurica"
           },
@@ -2529,12 +2914,22 @@
             "name": "štvorec so záhradou"
           }
         },
+        "courseE_farmer_functions7a1_2020": {
+          "garden square": {
+            "name": "štvorec so záhradou"
+          }
+        },
         "courseE_farmer_functions8a1_2018": {
           "garden square": {
             "name": "štvorec so záhradou"
           }
         },
         "courseE_farmer_functions8a1_2019": {
+          "garden square": {
+            "name": "štvorec so záhradou"
+          }
+        },
+        "courseE_farmer_functions8a1_2020": {
           "garden square": {
             "name": "štvorec so záhradou"
           }
@@ -2550,6 +2945,11 @@
           }
         },
         "courseE_farmer_functions9a1_2019": {
+          "garden square": {
+            "name": "štvorec so záhradou"
+          }
+        },
+        "courseE_farmer_functions9a1_2020": {
           "garden square": {
             "name": "štvorec so záhradou"
           }
@@ -2828,6 +3228,11 @@
             "name": "posuň sa a získaj nektár s počítadlom"
           }
         },
+        "courseF_bee_for_challenge1_2020": {
+          "move and get nectar with counter": {
+            "name": "posuň sa a získaj nektár s počítadlom"
+          }
+        },
         "courseF_bee_functions2": {
           "get only nectar": {
             "name": "získaj len nektár"
@@ -2988,12 +3393,22 @@
             "name": "pozbieraj riadok"
           }
         },
+        "courseF_bee_variables_1_2020": {
+          "collect row": {
+            "name": "pozbieraj riadok"
+          }
+        },
         "courseF_bee_variables_2_2018": {
           "collect row": {
             "name": "pozbieraj riadok"
           }
         },
         "courseF_bee_variables_2_2019": {
+          "collect row": {
+            "name": "pozbieraj riadok"
+          }
+        },
+        "courseF_bee_variables_2_2020": {
           "collect row": {
             "name": "pozbieraj riadok"
           }
@@ -3008,12 +3423,22 @@
             "name": "pozbieraj riadok"
           }
         },
+        "courseF_bee_variables_3_2020": {
+          "collect row": {
+            "name": "pozbieraj riadok"
+          }
+        },
         "courseF_bee_variables_4_2018": {
           "collect row": {
             "name": "pozbieraj riadok"
           }
         },
         "courseF_bee_variables_4_2019": {
+          "collect row": {
+            "name": "pozbieraj riadok"
+          }
+        },
+        "courseF_bee_variables_4_2020": {
           "collect row": {
             "name": "pozbieraj riadok"
           }
@@ -3028,12 +3453,22 @@
             "name": "pozbieraj riadok"
           }
         },
+        "courseF_bee_variables_5_2020": {
+          "collect row": {
+            "name": "pozbieraj riadok"
+          }
+        },
         "courseF_bee_variables_6_2018": {
           "collect stairs": {
             "name": "pozbieraj schody"
           }
         },
         "courseF_bee_variables_6_2019": {
+          "collect stairs": {
+            "name": "pozbieraj schody"
+          }
+        },
+        "courseF_bee_variables_6_2020": {
           "collect stairs": {
             "name": "pozbieraj schody"
           }
@@ -3048,6 +3483,11 @@
             "name": "zbieraj"
           }
         },
+        "courseF_bee_variables_7_2020": {
+          "collect": {
+            "name": "zbieraj"
+          }
+        },
         "courseF_bee_variables_8_2018": {
           "move and increment": {
             "name": "posunúť a zvýšiť"
@@ -3057,6 +3497,14 @@
           }
         },
         "courseF_bee_variables_8_2019": {
+          "move and increment": {
+            "name": "posunúť a zvýšiť"
+          },
+          "collect": {
+            "name": "zbieraj"
+          }
+        },
+        "courseF_bee_variables_8_2020": {
           "move and increment": {
             "name": "posunúť a zvýšiť"
           },

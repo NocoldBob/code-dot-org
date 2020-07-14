@@ -2,6 +2,45 @@
   "ms-MY": {
     "data": {
       "authored_hints": {
+        "CourseD_Dance_2020_01": {
+          "validation": "**Bagaimanakah saya boleh lulus peringkat ini?**\n\n-   Pastikan penari muncul di skrin.\n\n_Peringkat ini berakhir selepas 4 corak berirama._",
+          "challenges": "**Cabaran Pilihan**\n\n-   Pilih lagu yang berlainan untuk dimainkan.\n-   Pindahkan penari anda ke lokasi baharu.\n-   Buat lebih daripada seorang penari."
+        },
+        "CourseD_Dance_2020_02": {
+          "validation": "**Bagaimanakah saya boleh lulus peringkat ini?**\n\n-   Penari mesti melakukan gerakan.\n-   Anda mesti menekan kekunci anak panah.\n\n_Peringkat ini berakhir selepas 4 corak berirama._",
+          "challenges": "**Cabaran Pilihan**\n\n-   Gunakan lebih daripada satu blok <xml><block type=\"Dancelab_whenKey\"><title name=\"KEY\"></title></block></xml>."
+        },
+        "CourseD_Dance_2020_03": {
+          "validation": "**Bagaimanakah saya boleh lulus peringkat ini?**\n\n-   Kedua-dua penari mesti melakukan gerakan.\n-   Anda mesti menekan kekunci anak panah.\n\n_Peringkat ini berakhir selepas 4 corak berirama._",
+          "challenges": "**Cabaran Pilihan**\n\n-   Buatkan penari bertindak balas terhadap kekunci anak panah kiri dan kanan."
+        },
+        "CourseD_Dance_2020_04": {
+          "validation": "**Bagaimanakah saya boleh melepasi peringkat ini?**\n\n-   Penari perlu beralih kepada gerakan baharu selepas 4 corak berirama.\n\n_Peringkat ini berakhir selepas 7 corak berirama._"
+        },
+        "CourseD_Dance_2020_05": {
+          "validation": "**Bagaimanakah saya boleh melepasi peringkat ini?**\n\n-   Selepas 6 corak berirama, penari anda perlu melakukan tarian yang berbeza berbanding sebelum ini selepas 4 corak berirama.\n\n_Peringkat ini berakhir selepas 11 corak berirama._",
+          "challenges": "**Cabaran Pilihan**\n\n-   Tukar latar belakang bila-bila masa penari menukar gerakan."
+        },
+        "CourseD_Dance_2020_06": {
+          "validation": "**Bagaimanakah saya boleh lulus peringkat ini?**\n\n-   Cipta seorang penari utama dan kumpulan penari sandaran.\n\n_Peringkat ini berakhir selepas 11 corak berirama._",
+          "challenges": "**Cabaran Pilihan**\n\n-   Cipta pelbagai kumpulan penari sandaran."
+        },
+        "CourseD_Dance_2020_07": {
+          "validation": "**Bagaimanakah saya boleh lulus peringkat ini?**\n\n-   Tukar saiz sekurang-kurangnya seorang penari selepas muzik bermula.\n\n_Peringkat ini berakhir selepas 6 corak berirama._",
+          "challenges": "**Cabaran Pilihan**\n\n-   Eksperimen dengan menukar sifat lain (kelebaran, ketinggian, putaran dan sebagainya)"
+        },
+        "CourseD_Dance_2020_08": {
+          "validation": "**Bagaimanakah saya boleh lulus peringkat ini?**\n\n-   Tukar warna sekurang-kurangnya seorang penari.\n\n_Peringkat ini berakhir selepas 6 corak berirama._",
+          "tint_hint": "Adakah anda perasan bahawa penari anda tidak menukar mengikut warna sebenar yang anda pilih? Ini berlaku kerana **warna** campurkan warna yang anda pilih dengan warna penari."
+        },
+        "CourseD_Dance_2020_09": {
+          "validation": "**Bagaimanakah saya boleh lulus peringkat ini?**\n\n-   Hanya tekan butang \"Selesai\"!",
+          "repeat_every_ideas": "**Perlu beberapa idea?**\n\n-   Berulang kali menukar saiz penari untuk membuatkannya berkembang.\n-   Berulang kali menukar putaran penari untuk membuatkannya berputar.\n-   Berulang kali menukar kedudukan mendatar atau menegak penari membuatkannya bergerak di seluruh skrin.\n\n_Anda juga boleh menggunakan nombor negatif untuk mewujudkan kesan bertentangan!_",
+          "next_previous": "**Cabaran Pilihan**\n\n-   Anda juga boleh gunakan blok acara baharu ini untuk merentasi senarai gerakan tarian dengan menetapkan langkah kepada `(Rawak)`, `(Seterusnya)`, atau `(Terdahulu)`.\n    <xml><block type=\"Dancelab_changeMoveEachLR\">\n    <title name=\"GROUP\" config=\"sprites, &quot;BEAR&quot;, &quot;CAT&quot;, &quot;DOG&quot;, &quot;DUCK&quot;, &quot;FROG&quot;, &quot;PINEAPPLE&quot;, &quot;ROBOT&quot;, &quot;SHARK&quot;, &quot;UNICORN&quot;\">???</title>\n    <title name=\"MOVE\">\"rand\"</title>\n    <title name=\"DIR\">-1</title>\n    </block></xml>"
+        },
+        "CourseD_Dance_2020_bonus1": {
+          "alternate": "Blok selang-seli terdapat dalam kategori \"Penari\"."
+        },
         "CourseD_Dance_Party_01": {
           "validation": "**Bagaimanakah saya boleh lulus peringkat ini?**\n\n-   Pastikan penari muncul di skrin.\n\n_Peringkat ini berakhir selepas 4 corak berirama._",
           "challenges": "**Cabaran Pilihan\\*** \n\n-   Pilih lagu yang berlainan untuk dimainkan.\n-   Namakan semula penari anda."

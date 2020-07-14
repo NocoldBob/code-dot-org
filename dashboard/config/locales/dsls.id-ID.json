@@ -910,13 +910,26 @@
           "content1": "deskripsi di sini",
           "markdown": "#Contoh Proyek\n\nAnda akan memulai tugas akhir Anda. Sebelum Anda mulai, luangkan waktu untuk melihat contoh proyek.\n\n| Tupai Lapar | Kisah Orang Asing |\n|---|---|\n| [![Tupai Lapar (Play Lab)](https://images.code.org/3fda61d18026d6661dccf4b09baea111-image-1565115158327.PNG \"Hungry Squirrel (Play Lab\")](https://studio.code.org/projects/playlab/HN1zAX4Om6zdsxVsBBug9Y8mlzKSWUAXhjzRl-64YRs/view) | [![Alien Story (Play Lab)](https://images.code.org/0bd5ed3674ac9fe3304e27e68974c35f-image-1565115240833.PNG \"Alien Story (Play Lab\")](https://studio.code.org/projects/playlab/I_8rcKtpLFRAn8flROC15Oc-KnDu-bkKBnSORoIDs0o/view) |\n| Coba tambahkan suara ke permainan ini! | Coba tambahkan adegan lain ke kisah ini! |\n\n"
         },
+        "Begin planning your project_2018_2019_2020": {
+          "content1": "deskripsi di sini",
+          "markdown": "#Contoh Proyek\n\nAnda akan memulai tugas akhir Anda. Sebelum Anda mulai, luangkan waktu untuk melihat contoh proyek.\n\n| Tupai Lapar | Kisah Orang Asing |\n|---|---|\n| [![Tupai Lapar (Play Lab)](https://images.code.org/3fda61d18026d6661dccf4b09baea111-image-1565115158327.PNG \"Hungry Squirrel (Play Lab\")](https://studio.code.org/projects/playlab/HN1zAX4Om6zdsxVsBBug9Y8mlzKSWUAXhjzRl-64YRs/view) | [![Alien Story (Play Lab)](https://images.code.org/0bd5ed3674ac9fe3304e27e68974c35f-image-1565115240833.PNG \"Alien Story (Play Lab\")](https://studio.code.org/projects/playlab/I_8rcKtpLFRAn8flROC15Oc-KnDu-bkKBnSORoIDs0o/view) |\n| Coba tambahkan suara ke permainan ini! | Coba tambahkan adegan lain ke kisah ini! |\n\n"
+        },
         "BigEvent-Unplugged": {
+          "markdown": "# The Big Event\n\nDalam ilmu komputer, peristiwa adalah tindakan yang dipantau oleh komputer. Dalam pelajaran ini, Anda akan bereaksi secara berbeda bergantung pada tombol yang ditekan.\n"
+        },
+        "BigEvent-Unplugged_2020": {
           "markdown": "# The Big Event\n\nDalam ilmu komputer, peristiwa adalah tindakan yang dipantau oleh komputer. Dalam pelajaran ini, Anda akan bereaksi secara berbeda bergantung pada tombol yang ditekan.\n"
         },
         "BinaryBracelets-Unplugged": {
           "markdown": "#Gelang Berpasangan\n\nBuat gelang yang mewakili nama Anda dalam sistem yang dimengerti komputer!\n\n![](https://images.code.org/ed15a484276c0989e4adb5daf480f68a-image-1557870226222.png)\n"
         },
+        "BinaryBracelets-Unplugged_2020": {
+          "markdown": "#Gelang Berpasangan\n\nBuat gelang yang mewakili nama Anda dalam sistem yang dimengerti komputer!\n\n![](https://images.code.org/ed15a484276c0989e4adb5daf480f68a-image-1557870226222.png)\n"
+        },
         "BinaryImages-Unplugged": {
+          "markdown": "\"#Gambar Berpasangan\n\nKomunikasikan cara membuat ulang gambar hanya menggunakan dua nilai sederhana.\"\n"
+        },
+        "BinaryImages-Unplugged_2020": {
           "markdown": "\"#Gambar Berpasangan\n\nKomunikasikan cara membuat ulang gambar hanya menggunakan dua nilai sederhana.\"\n"
         },
         "CSD Header Size MC": {
@@ -1685,6 +1698,12 @@
         "ConditionalsWithCards-Unplugged": {
           "markdown": "\"#Persyaratan Dengan Kartu\n\nMainkan permainan kartu dan buat aturan seperti \"\"Jika saya menggambar kartu merah, saya mendapat poin\"\" dan \"\"Jika saya menggambar kartu hitam, Anda mendapat poin.\"\"\"\n"
         },
+        "ConditionalsWithCards-Unplugged_2020": {
+          "markdown": "\"#Persyaratan Dengan Kartu\n\nMainkan permainan kartu dan buat aturan seperti \"\"Jika saya menggambar kartu merah, saya mendapat poin\"\" dan \"\"Jika saya menggambar kartu hitam, Anda mendapat poin.\"\"\"\n"
+        },
+        "CourseF_Project_SpriteLab_2020": {
+          "display_name": "Proyek Akhir Kursus"
+        },
         "Crowdsourcing-Unplugged": {
           "markdown": "#Urun Daya\n\nPerhatikan cara urun daya, proses teknik umum pemecahan masalah dalam ilmu komputer, dapat membantu Anda menyelesaikan tugas bersama sebagai ruang kelas lebih efesien daripada jika Anda harus melakukannya sendiri.\n"
         },
@@ -1697,6 +1716,9 @@
         "DesigningForAccessibilityMarkdownLevel_2019": {
           "markdown": "# Merancang untuk Aksesibilitas\n\n* Dalam dunia ilmu komputer, **aksesibilitas** adalah tentang menciptakan teknologi untuk para penyandang cacat.\n* Cacat termasuk fisik, pendengaran, visual, dan banyak cacat lainnya.\n* Cacat itu beragam dan memengaruhi orang dengan berbagai cara, termasuk cara mereka menggunakan teknologi seperti **aplikasi telepon seluler pintar**.\n* Merancang aplikasi yang dapat diakses orang penyandang cacat membuat aplikasi tersebut lebih baik untuk semua orang juga!\n\n![](https://images.code.org/0c670d0d9078657a870df0ca799492cb-image-1557166420066.png)\n"
         },
+        "DesigningForAccessibilityMarkdownLevel_2019_2020": {
+          "markdown": "# Merancang untuk Aksesibilitas\n\n* Dalam dunia ilmu komputer, **aksesibilitas** adalah tentang menciptakan teknologi untuk para penyandang cacat.\n* Cacat termasuk fisik, pendengaran, visual, dan banyak cacat lainnya.\n* Cacat itu beragam dan memengaruhi orang dengan berbagai cara, termasuk cara mereka menggunakan teknologi seperti **aplikasi telepon seluler pintar**.\n* Merancang aplikasi yang dapat diakses orang penyandang cacat membuat aplikasi tersebut lebih baik untuk semua orang juga!\n\n![](https://images.code.org/0c670d0d9078657a870df0ca799492cb-image-1557166420066.png)\n"
+        },
         "DigitalCitizenship-Unplugged": {
           "markdown": "\"#Kewargaan Digital\n\nBeberapa informasi tidak aman dibagikan secara online. Pelajaran ini akan membantu Anda mempelajari perbedaan antara informasi pribadi dan aman.\"\n"
         },
@@ -1706,13 +1728,25 @@
         "DigitalSharing-Unplugged": {
           "markdown": "#Berbagi Digital\n\nDalam pelajaran ini, Anda akan mempertimbangkan tantangan dan keuntungan menghargai kepemilikan dan hak cipta, khususnya dalam lingkungan digital.\n"
         },
+        "DigitalSharing-Unplugged_2020": {
+          "markdown": "#Berbagi Digital\n\nDalam pelajaran ini, Anda akan mempertimbangkan tantangan dan keuntungan menghargai kepemilikan dan hak cipta, khususnya dalam lingkungan digital.\n"
+        },
         "EnvelopeVariables-Unplugged": {
+          "markdown": "#Variabel sampul\n\nVariabel memberikan banyak kebebasan dalam ilmu komputer. Pelajaran ini membantu menjelaskan pengertian variabel dan cara kita menggunakannya dengan berbagai cara.\n"
+        },
+        "EnvelopeVariables-Unplugged_2020": {
           "markdown": "#Variabel sampul\n\nVariabel memberikan banyak kebebasan dalam ilmu komputer. Pelajaran ini membantu menjelaskan pengertian variabel dan cara kita menggunakannya dengan berbagai cara.\n"
         },
         "ForLoopFun-Unplugged": {
           "markdown": "#Untuk Lingkaran yang Menyenangkan\n\nKami tahu bahwa lingkaran memungkinkan kita untuk melakukan berbagai hal berulang kali, tetapi sekarang kami akan mempelajari cara menggunakan lingkaran dengan struktur ekstra yang dibangun dengan tepat.\n"
         },
+        "ForLoopFun-Unplugged_2020": {
+          "markdown": "#Untuk Lingkaran yang Menyenangkan\n\nKami tahu bahwa lingkaran memungkinkan kita untuk melakukan berbagai hal berulang kali, tetapi sekarang kami akan mempelajari cara menggunakan lingkaran dengan struktur ekstra yang dibangun dengan tepat.\n"
+        },
         "GettingLoopy-Unplugged": {
+          "markdown": "# Getting Loopy\n\nPelajaran ini memperkenalkan konsep pemrograman loops melalui aktivitas menari.\n"
+        },
+        "GettingLoopy-Unplugged_2020": {
           "markdown": "# Getting Loopy\n\nPelajaran ini memperkenalkan konsep pemrograman loops melalui aktivitas menari.\n"
         },
         "GoingPlacesSafely-unplugged": {
@@ -1721,10 +1755,19 @@
         "GraphPaperProgramming-Unplugged": {
           "markdown": "\"#Pemrograman Kertas Grafik\n\nTulis algoritma yang dapat digunakan teman sekelas Anda untuk menggambar.\"\n"
         },
+        "GraphPaperProgramming-Unplugged_2020": {
+          "markdown": "\"#Pemrograman Kertas Grafik\n\nTulis algoritma yang dapat digunakan teman sekelas Anda untuk menggambar.\"\n"
+        },
         "HappyLoops-Unplugged": {
           "markdown": "# Happy Loops\n\nDalam pelajaran ini, Anda akan mempelajari lingkaran!\n\n![](https://images.code.org/6aac7f675f0c69033f42ccac6a733f68-image-1557769673400.png)\n"
         },
+        "HappyLoops-Unplugged_2020": {
+          "markdown": "# Happy Loops\n\nDalam pelajaran ini, Anda akan mempelajari lingkaran!\n\n![](https://images.code.org/6aac7f675f0c69033f42ccac6a733f68-image-1557769673400.png)\n"
+        },
         "HappyMaps-Unplugged": {
+          "markdown": "# Happy Maps\n\nBuat algoritma untuk memindahkan karakter melalui sebuah labirin.\n"
+        },
+        "HappyMaps-Unplugged_2020": {
           "markdown": "# Happy Maps\n\nBuat algoritma untuk memindahkan karakter melalui sebuah labirin.\n"
         },
         "Internet Simulator Setup": {
@@ -1737,6 +1780,9 @@
           "content1": "deskripsi di sini"
         },
         "Internet-Unplugged": {
+          "markdown": "#Internet\n\nBangun internet Anda sendiri di kelas hanya dengan menggunakan secarik kertas.\n"
+        },
+        "Internet-Unplugged_2020": {
           "markdown": "#Internet\n\nBangun internet Anda sendiri di kelas hanya dengan menggunakan secarik kertas.\n"
         },
         "K-1 Artist 1 Multi 1": {
@@ -2143,13 +2189,22 @@
         "MoveItMoveIt-Unplugged": {
           "markdown": "# Move It, Move It\n\nGunakan peta dan berikan perintah untuk mencapai tujuan.\n"
         },
+        "MoveItMoveIt-Unplugged_2020": {
+          "markdown": "# Move It, Move It\n\nGunakan peta dan berikan perintah untuk mencapai tujuan.\n"
+        },
         "Multi-Screen Apps": {
           "content1": "deskripsi di sini"
         },
         "MyLoopyRoboticFriends-Unplugged": {
           "markdown": "#Teman Robot Cerdik Saya\n\nJadikan program Anda lebih singkat menggunakan lingkaran!\n"
         },
+        "MyLoopyRoboticFriends-Unplugged_2020": {
+          "markdown": "#Teman Robot Cerdik Saya\n\nJadikan program Anda lebih singkat menggunakan lingkaran!\n"
+        },
         "MyRoboticFriends-Unplugged": {
+          "markdown": "#Teman Robot Saya\n\nBelajar memprogram dengan menulis kode untuk teman Anda!\n"
+        },
+        "MyRoboticFriends-Unplugged_2020": {
           "markdown": "#Teman Robot Saya\n\nBelajar memprogram dengan menulis kode untuk teman Anda!\n"
         },
         "New Challenge Introduction": {
@@ -2248,6 +2303,9 @@
         "PicturingData-Unplugged": {
           "markdown": "#Membayangkan Data\n\nGunakan proyek Play Lab untuk mengumpulkan data dan membuat prediksi.\n\n![](https://images.code.org/606a78c09a01133a1bbc1aa9c76f3320-image-1557334268558.png)\n"
         },
+        "PicturingData-Unplugged_2020": {
+          "markdown": "#Membayangkan Data\n\nGunakan proyek Play Lab untuk mengumpulkan data dan membuat prediksi.\n\n![](https://images.code.org/606a78c09a01133a1bbc1aa9c76f3320-image-1557334268558.png)\n"
+        },
         "PowerOfWords-Unplugged": {
           "markdown": "#Kekuatan Kata\n\nHari ini, Anda akan mempelajari hal yang dilakukan jika seseorang sedang online.\n"
         },
@@ -2267,13 +2325,22 @@
         "RelayProgramming-Unplugged": {
           "markdown": "\"#Pemrograman Bergiliran\n\nMasuk ke dalam tim dan bekerja sama untuk menulis program dengan membuat gambar.\"\n"
         },
+        "RelayProgramming-Unplugged_2020": {
+          "markdown": "\"#Pemrograman Bergiliran\n\nMasuk ke dalam tim dan bekerja sama untuk menulis program dengan membuat gambar.\"\n"
+        },
         "ScreenOutTheMean-Unplugged": {
           "markdown": "#Memahami Keadaan\n\nHari ini, Anda akan mempelajari yang harus dilakukan jika seseorang dalam keadaan online.\n"
         },
         "SimonSays-Unplugged": {
           "markdown": "#Kata Simon\n\nMainkan permainan dan pikirkan tentang perintah yang diperlukan untuk mendapat hasil yang baik.\n"
         },
+        "SimonSays-Unplugged_2020": {
+          "markdown": "#Kata Simon\n\nMainkan permainan dan pikirkan tentang perintah yang diperlukan untuk mendapat hasil yang baik.\n"
+        },
         "Songwriting-Unplugged": {
+          "markdown": "#Menulis lagu\n\nGunakan konsep paduan suara dalam lagu untuk mempelajari cara menetapkan dan menyebutkan fungsi.\n"
+        },
+        "Songwriting-Unplugged_2020": {
           "markdown": "#Menulis lagu\n\nGunakan konsep paduan suara dalam lagu untuk mempelajari cara menetapkan dan menyebutkan fungsi.\n"
         },
         "Technique: Frequency Analysis": {
@@ -2284,6 +2351,9 @@
           "markdown": "# Berhenti Sebentar dan Mengulang\n\nPesan yang telah di-enkripsi dengan **Caesar cipher** sebenarnya sangat mudah untuk dipecahkan menggunakan komputer. Nah, sekarang karena kamu sudah tahu bagaimana caranya memecahkan alphabetic shift cipher (lumayan gampang, kan?) mari kita coba memecahkan hal yang lebih menantang.\n\n**Review istilah:**\n\n* **Encryption** - enkripsi adalah proses mengamankan pesan rahasia sehingga hanya pihak yang dituju yang bisa membaca isi pesan tersebut.\n* **Decryption** - dekripsi adalah proses memecahkan enkripsi, mengubah pesan rahasia yang telah di-enkripsi menjadi tulisan yang bisa dibaca oleh manusia\n* **Cipher** - istilah umum untuk teknik (atau algortima) yang digunakan dalam proses enkripsi\n* **Caesar's Cipher** - sebuah teknik enkripsi yang memindahkan alfabet sejumlah beberapa karakter.\n* **Cracking encryption** - saat kamu sedang berusaha memecahkan sebuah pesan rahasia *tanpa* mengetahui seluruh bagian dari cipher, kamu sedang menge-**crack** sebuah enkripsi. \n\n\nKlik Lanjutkan untuk melihat **Tantangan Selanjutnya**...\n\n \n"
         },
         "TheRightAppMarkdownLevel_2019": {
+          "markdown": "# The Right App\n\n* Setiap orang menggunakan komputer akhir-akhir ini, terutama telepon pintar.\n* Aplikasi telepon pintar membantu orang melakukan hal-hal seperti berbicara dengan teman, mendengar musik, berbelanja, atau hanya menjelajahi web.\n* Penting bagi pemrogram untuk memahami kebutuhan orang lain dan merancang aplikasi dengan mempertimbangkannya!\n\n![](https://images.code.org/fb17eeb9238d2f26c6ab40c9841517a7-image-1555611687284.png)\n"
+        },
+        "TheRightAppMarkdownLevel_2019_2020": {
           "markdown": "# The Right App\n\n* Setiap orang menggunakan komputer akhir-akhir ini, terutama telepon pintar.\n* Aplikasi telepon pintar membantu orang melakukan hal-hal seperti berbicara dengan teman, mendengar musik, berbelanja, atau hanya menjelajahi web.\n* Penting bagi pemrogram untuk memahami kebutuhan orang lain dan merancang aplikasi dengan mempertimbangkannya!\n\n![](https://images.code.org/fb17eeb9238d2f26c6ab40c9841517a7-image-1555611687284.png)\n"
         },
         "behaviors 1 predict": {
@@ -2312,7 +2382,59 @@
             }
           ]
         },
+        "behaviors 1 predict_2020": {
+          "answers": [
+            {
+              "text": "Peri akan berputar",
+              "feedback": "Salah."
+            },
+            {
+              "text": "Peri akan menyusut.",
+              "correct": true,
+              "feedback": "Benar!"
+            },
+            {
+              "text": "Peri akan bergerak.",
+              "feedback": "Salah."
+            },
+            {
+              "text": "Peri akan berubah warna.",
+              "feedback": "Salah"
+            }
+          ],
+          "questions": [
+            {
+              "text": "Klik tombol \"sunting\" untuk melihat cara kerja `perilaku misterius`. Pelajari kode di dalamnya, lalu buat prediksi."
+            }
+          ]
+        },
         "behaviors 4 predict": {
+          "answers": [
+            {
+              "text": "Ke kiri lalu ke bawah",
+              "feedback": "Salah."
+            },
+            {
+              "text": "Secara diagonal",
+              "correct": true,
+              "feedback": "Benar!"
+            },
+            {
+              "text": "Berliku-liku",
+              "feedback": "Salah."
+            },
+            {
+              "text": "Ke bawah, lalu ke kiri",
+              "feedback": "Salah"
+            }
+          ],
+          "questions": [
+            {
+              "text": "Buat prediksi. Ke arah mana satelit akan bergerak menuju galaksi?"
+            }
+          ]
+        },
+        "behaviors 4 predict_2020": {
           "answers": [
             {
               "text": "Ke kiri lalu ke bawah",
@@ -2416,6 +2538,32 @@
             }
           ]
         },
+        "courseC_multi_artist_prog6_predict1_2018_2019_2020": {
+          "answers": [
+            {
+              "text": "Si artis akan menggambar setiga sama sisi.",
+              "feedback": "Salah.  Si artis menggambar persegi empat."
+            },
+            {
+              "text": "Si artis akan mengambar sebuah garis.",
+              "feedback": "Salah.  Si artis menggambar persegi empat."
+            },
+            {
+              "text": "Sang pelukis akan mengambar sebuah kotak.",
+              "correct": true,
+              "feedback": "Benar!"
+            },
+            {
+              "text": "Saya tidak tahu.",
+              "feedback": "Si artis mengambar persegi empat."
+            }
+          ],
+          "questions": [
+            {
+              "text": "Cermati kode di bawah ini dengan jeli. Apa yang akan terjadi saat anda mengklik \"Run\"?"
+            }
+          ]
+        },
         "courseC_multi_harvester_loops11_predict1": {
           "answers": [
             {
@@ -2469,6 +2617,32 @@
           ]
         },
         "courseC_multi_harvester_loops11_predict1_2018_2019": {
+          "answers": [
+            {
+              "text": "4",
+              "feedback": "Salah. Petani akan mengumpulkan 4 labu di setiap 3 loop.  4 kali 3 sama dengan 12!"
+            },
+            {
+              "text": "12",
+              "correct": true,
+              "feedback": "Benar!"
+            },
+            {
+              "text": "15",
+              "feedback": "Salah. Petani akan mengumpulkan 4 labu di setiap 3 loop.  4 kali 3 sama dengan 12!"
+            },
+            {
+              "text": "Saya tidak tahu.",
+              "feedback": "Petani akan mengumpulkan 4 labu di setiap 3 loop.  4 kali 3 sama dengan 12!"
+            }
+          ],
+          "questions": [
+            {
+              "text": "Cermati kode di bawah ini. Berapa banyak labu yang akan dikumpulkan petani setelah Anda mengklik \"Run\"?"
+            }
+          ]
+        },
+        "courseC_multi_harvester_loops11_predict1_2018_2019_2020": {
           "answers": [
             {
               "text": "4",
@@ -2572,6 +2746,32 @@
             }
           ]
         },
+        "courseC_multi_maze_debugging8_predict1_2018_2019_2020": {
+          "answers": [
+            {
+              "text": "Program tidak akan gagal. Scrat akan sampai ke buah akorn.",
+              "feedback": "Salah. Scrat salah jalan setelah belokan terakhirnya."
+            },
+            {
+              "text": "Scrat akan salah jalan setelah belokan terakhirnya.",
+              "correct": true,
+              "feedback": "Benar!"
+            },
+            {
+              "text": "Langkah Scrat kurang satu sehingga tidak sampai ke buah akorn.",
+              "feedback": "Salah. Kekurangan satu langkah terjadi setelah Scrat salah belok."
+            },
+            {
+              "text": "Saya tidak tahu.",
+              "feedback": "Kesalahan pertama itu karena Scrat salah jalan setelah belok terakhirnya. "
+            }
+          ],
+          "questions": [
+            {
+              "text": "Cermati kode di bawah ini. Apa bug pertama yang akan membuat program ini gagal?"
+            }
+          ]
+        },
         "courseC_multi_maze_programming8_predict1": {
           "answers": [
             {
@@ -2625,6 +2825,32 @@
           ]
         },
         "courseC_multi_maze_programming8_predict1_2018_2019": {
+          "answers": [
+            {
+              "text": "Burung akhirnya akan kurang satu langkah dari babi.",
+              "feedback": "Salah. Kode ini membawa burungnya pas ke babi."
+            },
+            {
+              "text": "Burung pasti akan sampai ke babi.",
+              "correct": true,
+              "feedback": "Benar!"
+            },
+            {
+              "text": "Burung akan menabrak TNT.",
+              "feedback": "Salah. Kode ini membawa burungnya pas ke babi."
+            },
+            {
+              "text": "Saya tidak tahu.",
+              "feedback": "Kode ini membawa burungnya pas ke babi."
+            }
+          ],
+          "questions": [
+            {
+              "text": "Baca kode berikut dengan teliti. Apa yang akan terjadi saat Anda mengklik \"Run\"?"
+            }
+          ]
+        },
+        "courseC_multi_maze_programming8_predict1_2018_2019_2020": {
           "answers": [
             {
               "text": "Burung akhirnya akan kurang satu langkah dari babi.",
@@ -2728,6 +2954,32 @@
             }
           ]
         },
+        "courseC_multi_starWars_predict1_2018_2019_2020": {
+          "answers": [
+            {
+              "text": "BB-8 tidak akan bergerak.",
+              "feedback": "Salah. Blok repeat akan membuat BB-8 bergerak maju sebanyak 5 kali."
+            },
+            {
+              "text": "BB-8 hanya akan bergerak satu kotak",
+              "feedback": "Salah. Blok repeat akan membuat BB-8 bergerak maju sebanyak 5 kali."
+            },
+            {
+              "text": "BB-8 akan bergerak 5 kali dan mengambil semua logam rongsokan",
+              "correct": true,
+              "feedback": "Benar!"
+            },
+            {
+              "text": "Saya tidak tahu",
+              "feedback": "Blok repeat akan membuat BB-8 bergerak maju sebanyak 5 kali."
+            }
+          ],
+          "questions": [
+            {
+              "text": "Menurut anda, apa yang akan terjadi ketika anda mengklik \"Run\"?"
+            }
+          ]
+        },
         "courseC_multi_starWars_predict2": {
           "answers": [
             {
@@ -2806,6 +3058,35 @@
             }
           ]
         },
+        "courseC_multi_starWars_predict2_2018_2019_2020": {
+          "answers": [
+            {
+              "text": "BB-8 akan berjalan terlalu jauh dalam loop pertama.",
+              "feedback": "Salah. Loop pertama hanya membolehkan BB-8 bergerak maju 2 kotak, padahal perlu bergerak maju sebanyak 3 kotak."
+            },
+            {
+              "text": "BB-8 tidak akan berjalan cukup jauh dalam loop pertama agar dapat mengambil semua logam rongsokan.",
+              "correct": true,
+              "feedback": "Benar!"
+            },
+            {
+              "text": "BB-8 akan mengumpulkan semua logam rongsokan tanpa kesulitan.",
+              "feedback": "Salah. Loop pertama hanya membolehkan BB-8 bergerak maju 2 kotak, padahal perlu bergerak maju sebanyak 3 kotak."
+            },
+            {
+              "text": "Saya tidak tahu.",
+              "feedback": "Loop pertama hanya memungkinkan BB-8 bergerak maju 2 kotak, padahal perlu bergerak maju sebanyak 3 kotak."
+            }
+          ],
+          "questions": [
+            {
+              "text": "Cermati code di bawah ini. Apa yang akan terjadi saat anda mengklik \"Run\"?"
+            }
+          ]
+        },
+        "courseD_EOC_2020": {
+          "display_name": "Proyek Akhir Kursus"
+        },
         "courseD_multi_artist_binary8_predict1": {
           "answers": [
             {
@@ -2821,7 +3102,7 @@
               "feedback": "Salah."
             },
             {
-              "text": "D",
+              "text": "S",
               "correct": true,
               "feedback": "Benar!"
             }
@@ -2847,7 +3128,7 @@
               "feedback": "Salah."
             },
             {
-              "text": "D",
+              "text": "S",
               "correct": true,
               "feedback": "Benar!"
             }
@@ -2873,7 +3154,33 @@
               "feedback": "Salah."
             },
             {
-              "text": "D",
+              "text": "S",
+              "correct": true,
+              "feedback": "Benar!"
+            }
+          ],
+          "questions": [
+            {
+              "text": "Cermati code di bawah ini. Gambar manakah yang akan muncul setelah Anda mengklik \"Run\"?"
+            }
+          ]
+        },
+        "courseD_multi_artist_binary8_predict1_2018_2019_2020": {
+          "answers": [
+            {
+              "text": "A",
+              "feedback": "Salah."
+            },
+            {
+              "text": "B",
+              "feedback": "Salah."
+            },
+            {
+              "text": "C",
+              "feedback": "Salah."
+            },
+            {
+              "text": "S",
               "correct": true,
               "feedback": "Benar!"
             }
@@ -2965,6 +3272,33 @@
             }
           ]
         },
+        "courseD_multi_artist_nestedLoops9_predict1_2018_2019_2020": {
+          "answers": [
+            {
+              "text": "A",
+              "correct": true,
+              "feedback": "Benar!"
+            },
+            {
+              "text": "B",
+              "feedback": "Salah.  Loop-dalam menghasilkan pentagon, dan loop-luar mengulangnya 4 kali dalam sebuah lingkaran."
+            },
+            {
+              "text": "C",
+              "feedback": "Salah.  Loop-dalam menghasilkan pentagon, dan loop-luar mengulangnya 4 kali dalam sebuah lingkaran."
+            },
+            {
+              "text": "Saya tidak tahu.",
+              "feedback": "Loop-dalam menghasilkan pentagon, dan loop-luar mengulangnya 4 kali dalam sebuah lingkaran."
+            }
+          ],
+          "markdown": "<table>\n<tr><td>A</td><td><img src=\"https://images.code.org/cfc3f8206438a60afe3be9afe7fc0a22-image-1489118742610.10.15.png\" width=\"100px\" style=\"mix-blend-mode: multiply;\"/></td><td>&nbsp;&nbsp;&nbsp;&nbsp;</td><td>B</td><td><img src=\"https://images.code.org/975b027684d2f5411b960bf82987663e-image-1489119999013.11.13.png\" width=\"100px\" style=\"mix-blend-mode: multiply;\"/></td><td>&nbsp;&nbsp;&nbsp;&nbsp;</td><td>C</td><td><img src=\"https://images.code.org/635ac54ed7cb2e2d24eb341b3ec4eecb-image-1489120024059.12.00.png\" width=\"80px\" style=\"mix-blend-mode: multiply; clip: rect(0px,0px,0px,40px);\"/></td></tr>\n</table>\n\n<br/><br/>\n\n",
+          "questions": [
+            {
+              "text": "Cermati kode di bawah ini. Gambar manakah yang akan dihasilkan program ini saat Anda mengklik \"Run\"?"
+            }
+          ]
+        },
         "courseD_multi_bee_conditionals1_predict1": {
           "answers": [
             {
@@ -3018,6 +3352,32 @@
           ]
         },
         "courseD_multi_bee_conditionals1_predict1_2018_2019": {
+          "answers": [
+            {
+              "text": "Lebah akan bergerak ke awan dan mencoba mengisap nektar, apa pun risikonya.",
+              "feedback": "Salah. Blok `if at flower` memastikan lebahnya hanya akan mencoba mengisap nektar jika ada bunga di bawah awan."
+            },
+            {
+              "text": "Lebah akan bergerak ke awan dan hanya mencoba mengisap nektar jika ada bunga di bawahnya.",
+              "correct": true,
+              "feedback": "Benar!"
+            },
+            {
+              "text": "Lebah akan bergerak ke awan lalu diam saja, apa pun yang terjadi.",
+              "feedback": "Salah. Blok `if at flower` memastikan lebahnya akan mencoba mengisap nektar jika ada bunga di bawah awan."
+            },
+            {
+              "text": "Saya tidak tahu.",
+              "feedback": "Blok `if at flower` memastikan lebahnya hanya akan mencoba mengisap nektar jika ada bunga di bawah awan."
+            }
+          ],
+          "questions": [
+            {
+              "text": "Awan menghalangi pemandangan. Mungkin ada bunga di bawah awan ini. Jika ada bunga, lebah harus mengumpulkan nektar satu kali. Jika tidak ada bunga, lebah tidak perlu melakukan apa-apa. Cermati code di bawah ini. Menurut Anda apa yang akan terjadi setelah Anda mengklik \"Run\"?"
+            }
+          ]
+        },
+        "courseD_multi_bee_conditionals1_predict1_2018_2019_2020": {
           "answers": [
             {
               "text": "Lebah akan bergerak ke awan dan mencoba mengisap nektar, apa pun risikonya.",
@@ -3147,6 +3507,32 @@
             }
           ]
         },
+        "courseD_multi_bee_conditionals7_predict2_2018_2019_2020": {
+          "answers": [
+            {
+              "text": "Lebah akan mendapat madu bunga di setiap bunga dan membuat madu di setiap sarang madu.\n",
+              "correct": true,
+              "feedback": "Benar!"
+            },
+            {
+              "text": "Lebah akan mencoba mengisap nektar dari bunga dan sarang madu.",
+              "feedback": "Salah. Blok `jika di bunga` membiarkan lebah mendapat madu bunga di setiap bunga dan membuat madu di setiap sarang lebah.\n"
+            },
+            {
+              "text": "Lebah akan mencoba mengambil madu dari bunga dan sarang.",
+              "feedback": "Salah. Salah. Blok `jika di bunga` membiarkan lebah mendapat madu bunga di setiap bunga dan membuat madu di setiap sarang lebah..\n"
+            },
+            {
+              "text": "Saya tidak tahu.",
+              "feedback": "Blok `jika di bunga` membiarkan lebah mendapat madu bunga di setiap bunga dan membuat madu di setiap sarang lebah.\n"
+            }
+          ],
+          "questions": [
+            {
+              "text": "Perhatikan baik-baik kode di bawah. Menurut Anda, apa yang akan terjadi setelah Anda mengklik \"Jalankan\"? Ingat: hanya akan ada *satu* sarang lebah atau *satu* bunga di belakang setiap awan.\n"
+            }
+          ]
+        },
         "courseD_multi_bee_nestedLoops2_predict1": {
           "answers": [
             {
@@ -3225,6 +3611,32 @@
             }
           ]
         },
+        "courseD_multi_bee_nestedLoops2_predict1_2018_2019_2020": {
+          "answers": [
+            {
+              "text": "Lebah akan bergerak maju dan hanya mengisap nektar satu kali.",
+              "feedback": "Salah.  Lebah mengulang tindakan berulang-ulang maju ke depan dan mengisap nektar, sehingga memungkinkannya memecahkan puzzle."
+            },
+            {
+              "text": "Lebah hanya akan mendapat 2 unit nektar.",
+              "feedback": "Salah.  Lebah mengulang tindakan berulang-ulang maju ke depan dan mengisap nektar, sehingga memungkinkannya memecahkan puzzle."
+            },
+            {
+              "text": "Lebah akan mendapatkan semua nektar.",
+              "correct": true,
+              "feedback": "Benar!"
+            },
+            {
+              "text": "Saya tidak tahu.",
+              "feedback": "Lebah mengulang tindakan berulang-ulang maju ke depan dan mengisap nektar, sehingga memudahkannya memecahkan puzzle."
+            }
+          ],
+          "questions": [
+            {
+              "text": "Cermati loop berlapis di bawah ini. Apa yang akan terjadi saat Anda mengklik \"Run\"?"
+            }
+          ]
+        },
         "courseD_multi_bee_nestedLoops9_predict2": {
           "answers": [
             {
@@ -3278,6 +3690,32 @@
           ]
         },
         "courseD_multi_bee_nestedLoops9_predict2_2018_2019": {
+          "answers": [
+            {
+              "text": "4",
+              "feedback": "Salah. Lebah mengumpulkan 2 nektar dalam loop gerak maju, lalu 2 nektar di dalam loop turun.  Semua ini berlangsung di dalam loop lain yang terjadi dua kali. 4 kali 2 sama dengan 8!"
+            },
+            {
+              "text": "8",
+              "correct": true,
+              "feedback": "Benar!"
+            },
+            {
+              "text": "12",
+              "feedback": "Salah. Lebah mengumpulkan 2 nektar dalam loop gerak maju, lalu 2 nektar di dalam loop turun.  Semua ini berlangsung di dalam loop lain yang terjadi dua kali. 4 kali 2 sama dengan 8!"
+            },
+            {
+              "text": "Saya tidak tahu.",
+              "feedback": "Lebah mengumpulkan 2 nektar dalam loop bergerak maju, lalu 2 nektar di dalam loop turun.  Semua ini berlangsung di dalam loop lain yang terjadi dua kali. 4 kali 2 sama dengan 8!"
+            }
+          ],
+          "questions": [
+            {
+              "text": "Cermati kode di bawah ini. Berapa banyak madu yang akan dihasilkan lebah saat Anda mengklik \"Run\"?"
+            }
+          ]
+        },
+        "courseD_multi_bee_nestedLoops9_predict2_2018_2019_2020": {
           "answers": [
             {
               "text": "4",
@@ -3410,6 +3848,33 @@
             }
           ]
         },
+        "courseD_multi_farmer_condLoops9_predict1_2018_2019_2020": {
+          "answers": [
+            {
+              "text": "Pemanen akan mengumpulkan semua hasil panen.",
+              "feedback": "Salah. Tidak ada kode di sini untuk memilih labu."
+            },
+            {
+              "text": "Pemanen tidak akan memetik salah satu tanaman pada jalan yang diambilnya.",
+              "feedback": "Salah. Kode akan membuat pemanen berulang kali membuat pola anak tangga dan mengambil jagung atau selada sebanyak-banyaknya. Ia tidak akan memilih labu."
+            },
+            {
+              "text": "Pemanen akan memilih semua tanaman, kecuali labu.",
+              "correct": true,
+              "feedback": "Benar!"
+            },
+            {
+              "text": "Saya tidak tahu.",
+              "feedback": "Kode akan membuat pemanen berulang kali membuat pola anak tangga dan mengambil jagung atau selada sebanyak-banyaknya. Ia tidak akan memilih labu."
+            }
+          ],
+          "markdown": "Tunas dalam teka-teki ini adalah jagung atau selada.\n<br/>\n",
+          "questions": [
+            {
+              "text": "Cermati kode di bawah ini. Apa yang akan terjadi setelah Anda mengklik \"Run\"?"
+            }
+          ]
+        },
         "courseD_multi_farmer_ramp13": {
           "answers": [
             {
@@ -3514,6 +3979,32 @@
             }
           ]
         },
+        "courseD_multi_farmer_while10_predict2_2018_2019_2020": {
+          "answers": [
+            {
+              "text": "Tidak ada. code ini hanya akan membiarkan tanah yang rata.",
+              "feedback": "Salah. Tidak ada code untuk menghilangkan kotoran dari tumpukan."
+            },
+            {
+              "text": "Code ini akan membiarkan tumpukan tak terjamah sama sekali.",
+              "correct": true,
+              "feedback": "Benar!"
+            },
+            {
+              "text": "Code ini akan membiarkan lubang tak terjamah sama sekali.",
+              "feedback": "Salah. Loop `while` akan menangani loop segala ukuran, tetapi tidak ada code untuk menghilangkan kotoran dari tumpukan."
+            },
+            {
+              "text": "Saya tidak tahu.",
+              "feedback": "Loop `while` akan menangani segala ukuran loop, tetapi tidak ada code untuk menghilangkan kotoran dari tumpukan."
+            }
+          ],
+          "questions": [
+            {
+              "text": "Cermati code di bawah ini. Apa yang akan tersisa pada akhir puzzle ini?"
+            }
+          ]
+        },
         "courseD_multi_farmer_while4_predict1": {
           "answers": [
             {
@@ -3567,6 +4058,32 @@
           ]
         },
         "courseD_multi_farmer_while4_predict1_2018_2019": {
+          "answers": [
+            {
+              "text": "Tidak akan terjadi apa-apa.",
+              "feedback": "Salah. Petani akan menghilangkan kotoran sepanjang ada tumpukan, lalu berhenti ketika tumpukan hilang."
+            },
+            {
+              "text": "Petani tidak akan pernah berhenti menghilangkan kotoran.",
+              "feedback": "Salah. Petani akan menghilangkan kotoran sepanjang ada tumpukan, lalu berhenti ketika tumpukan hilang."
+            },
+            {
+              "text": "Petani akan menghilangkan kotoran sepanjang ada tumpukan, lalu berhenti ketika tumpukan hilang.",
+              "correct": true,
+              "feedback": "Benar!"
+            },
+            {
+              "text": "Saya tidak tahu.",
+              "feedback": "Petani akan menghilangkan kotoran sepanjang ada tumpukan, lalu berhenti ketika tumpukan hilang"
+            }
+          ],
+          "questions": [
+            {
+              "text": "Cermati code di bawah ini. Apa yang akan terjadi setelah Anda mengklik \"Run\"?"
+            }
+          ]
+        },
+        "courseD_multi_farmer_while4_predict1_2018_2019_2020": {
           "answers": [
             {
               "text": "Tidak akan terjadi apa-apa.",
@@ -3670,6 +4187,32 @@
             }
           ]
         },
+        "courseD_multi_maze_until10_predict2_2018_2019_2020": {
+          "answers": [
+            {
+              "text": "Zombie akan melewati jalan yang benar dan akhirnya bolak-balik selamanya.",
+              "correct": true,
+              "feedback": "Benar!"
+            },
+            {
+              "text": "Zombi akan berhasil sampai ke bunga matahari.",
+              "feedback": "Salah. Zombie akan melewati jalan yang benar dan akhirnya bolak-balik selamanya."
+            },
+            {
+              "text": "Zombi akan belok kanan di jalur pertama dan berputar-putar selamanya.",
+              "feedback": "Salah. Zombie akan melewati jalan yang benar dan akhirnya bolak-balik selamanya."
+            },
+            {
+              "text": "Saya tidak tahu.",
+              "feedback": "Dalam kode ini, zombie akan melewati jalan yang benar dan akhirnya bolak-balik selamanya."
+            }
+          ],
+          "questions": [
+            {
+              "text": "Cermati code di bawah ini. Apa yang akan terjadi setelah Anda mengklik \"Run\"?"
+            }
+          ]
+        },
         "courseD_multi_maze_until2_predict1": {
           "answers": [
             {
@@ -3748,6 +4291,32 @@
             }
           ]
         },
+        "courseD_multi_maze_until2_predict1_2018_2019_2020": {
+          "answers": [
+            {
+              "text": "Burung tidak akan bergerak sama sekali.",
+              "feedback": "Salah. Kode membuat burung bergerak maju selagi ada jalur, lalu belok kiri. Burung akan terus begitu hingga menjangkau babi!"
+            },
+            {
+              "text": "Burung pasti akan sampai ke babi.",
+              "correct": true,
+              "feedback": "Benar!"
+            },
+            {
+              "text": "Burung akan bergerak maju dan menabrak TNT.",
+              "feedback": "Salah. Kode membuat burung bergerak maju selagi ada jalur aman, lalu belok kiri. Burung akan terus begitu sampai menjangkau babi!"
+            },
+            {
+              "text": "Saya tidak tahu.",
+              "feedback": "Kode membuat burung bergerak maju selagi ada jalur, lalu belok kiri. Burung akan terus begitu hingga menjangkau babi!"
+            }
+          ],
+          "questions": [
+            {
+              "text": "Cermati kode di bawah ini. Menurut Anda apa yang akan terjadi ketika Anda mengklik \"Run\"?"
+            }
+          ]
+        },
         "courseD_multi_scrat_predict1": {
           "answers": [
             {
@@ -3773,6 +4342,12 @@
               "text": "Kode ini menggunakan blok baru. Apa yang Anda kira terjadi saat Anda tekan \"Run\"?"
             }
           ]
+        },
+        "courseD_project_exemplars_2020_2021": {
+          "content1": "Tes Halaman Buku Teks Markdown"
+        },
+        "courseE_EOC_2020": {
+          "display_name": "Proyek Akhir Kursus"
         },
         "courseE_multi_bee_functions_predict1": {
           "answers": [
@@ -3878,6 +4453,32 @@
             }
           ]
         },
+        "courseE_multi_farmer_functions11_predict_2018_2019_2020": {
+          "answers": [
+            {
+              "text": "Pemanen akan mengambil dua labu.",
+              "feedback": "Salah. Pemanen bergerak maju sampai ujung jalan, lalu berbalik dan bergerak mundur sampai mengambil selada."
+            },
+            {
+              "text": "Pemanen akan mengambil semua labu.",
+              "feedback": "Salah. Pemanen bergerak maju sampai ujung jalan, lalu berbalik dan bergerak mundur sampai mengambil selada."
+            },
+            {
+              "text": "Pemanen akan mengambil selada.",
+              "correct": true,
+              "feedback": "Benar!"
+            },
+            {
+              "text": "Pemanen akan mengambil jagung.",
+              "feedback": "Salah. Pemanen bergerak maju sampai ujung jalan, lalu berbalik dan bergerak mundur sampai mengambil selada."
+            }
+          ],
+          "questions": [
+            {
+              "text": "Perhatikan definisi fungsi di bawah ini. Apakah yang akan diambil oleh pemanen?"
+            }
+          ]
+        },
         "courseE_prediction_artistFunction1": {
           "answers": [
             {
@@ -3956,6 +4557,32 @@
             }
           ]
         },
+        "courseE_prediction_artistFunction1_2018_2019_2020": {
+          "answers": [
+            {
+              "text": "Tidak ada. Function tidak dipanggil dalam program.",
+              "feedback": "Salah. Function sebenarnya dipanggil dua kali di dalam program."
+            },
+            {
+              "text": "Si artis akan mengambar sebuah persegi empat.",
+              "feedback": "Salah. Function sebenarnya dipanggil dua kali di dalam program."
+            },
+            {
+              "text": "Artis akan menggambar dua persegi empat yang tumpang-tindih.",
+              "feedback": "Salah. Panjang setiap sisi persegi empat hanya 100 piksel, tetapi si artis melompat sebanyak 175 piksel di antara function."
+            },
+            {
+              "text": "Artis akan menggambar dua persegi empat dengan celah kecil di antaranya.",
+              "correct": true,
+              "feedback": "Benar! Function dipanggil dua kali di dalam program, dengan lompatan di antaranya."
+            }
+          ],
+          "questions": [
+            {
+              "text": "Apa yang akan terjadi ketika Anda menekan \"Run\"?"
+            }
+          ]
+        },
         "courseE_prediction_artistFunction1_copy": {
           "answers": [
             {
@@ -3985,6 +4612,12 @@
         "courseE_project_exemplars_2019": {
           "content1": "Tes Halaman Buku Teks Markdown",
           "markdown": "#Contoh Proyek\n\nAnda akan memulai tugas akhir Anda. Sebelum Anda mulai, luangkan waktu untuk melihat contoh proyek.\n\n##Sprite Lab\n\n| Tarian Raksasa (Sprite Lab) | Permainan Kue Mangkok (Sprite Lab) |\n|---|---|\n| [![Tarian Raksasa (Sprite Lab)](https://images.code.org/85838ca11b728dce3e1513515c4510e3-image-1556826303297.png \"Monster Dance (Sprite Lab\")](https://studio.code.org/projects/spritelab/Cj3sVYGhWo2ujgwRoO1FscJazrDPT2qGfU59YXvFXxs/view) | [![Permainan Kue Mangkok (Sprite Lab)](https://images.code.org/c90080aaf05349fb6e1fbb6861e815df-image-1556809855136.png \"Permainan Kue Mangkok (Sprite Lab\")](https://studio.code.org/projects/spritelab/YMEHR4ps9cDJ0sb4Ks0YrZcpcjGmc4OEiUudZHm-l6g/view) |\n| Coba tambahkan teks atau skor ke permainan ini! | Coba tambahkan teks atau skor ke permainan ini! |\n\n##Seniman\n\n| Pola (Seniman) | Bunga Fungsi (Seniman) |\n|---|---|\n| [![Pola (Seniman)](https://images.code.org/2432878706891dda080b69428ddc4a20-image-1556822714214.png \"Pola (Seniman)\")](https://studio.code.org/projects/artist/TznMeJRa4SnHWJvUBEoNUw/view) | [![Bunga Fungsi (Seniman)](https://images.code.org/1e6da38baf996dace44581572895a4b8-image-1556822184973.png \"Bunga Fungsi (Seniman)\")](https://studio.code.org/projects/artist/4uGqFaTnc7V9B6IqCqj21Q/view) |\n| Ayo berkreasi dengan lingkaran bersarang! | Ayo berkreasi dengan fungsi! |\n\n"
+        },
+        "courseE_project_exemplars_2019_2020": {
+          "content1": "Tes Halaman Buku Teks Markdown"
+        },
+        "courseF_EOC_2020": {
+          "display_name": "Proyek Akhir Kursus"
         },
         "courseF_bee_variables_8a_2018": {
           "answers": [
@@ -4040,6 +4673,33 @@
           ],
           "title": "Banyak Variabel Lebah"
         },
+        "courseF_bee_variables_8a_2018_2019_2020": {
+          "answers": [
+            {
+              "text": "Lebah tidak akan mengumpulkan madu bunga apa pun karena variabel tidak disebut \"berkumpul\".",
+              "feedback": "Salah. Nama variabel Anda tidak memengaruhi nilainya."
+            },
+            {
+              "text": "Lebah hanya akan mengumpulkan 2 madu bunga.",
+              "correct": true,
+              "feedback": "Benar!"
+            },
+            {
+              "text": "Lebah akan mengumpulkan semua madu bunga.",
+              "feedback": "Salah. Variabel diatur kembali ke 0 sebelum dua fungsi panggilan terakhir."
+            },
+            {
+              "text": "Saya tidak tahu.",
+              "feedback": "Variabel diatur kembali ke 0 sebelum dua fungsi panggilan terakhir, di mana 1 ditambahkan setiap kali. Lebah kemudian mengumpulkan 2 unit madu bunga."
+            }
+          ],
+          "questions": [
+            {
+              "text": "Lihat kode di bawah. Berapa banyak unit madu bunga yang akan dikumpulkan lebah di akhir?"
+            }
+          ],
+          "title": "Banyak Variabel Lebah"
+        },
         "courseF_external_variableConstant": {
           "markdown": "<h2>Selengkapnya tentang Variabel</h2>\n\n<img src=\"https://images.code.org/082c757f5c939bd353eacda9589ca54f-image-1477349401281.35.08.png\" style=\"padding-left: 30px; width:300px; float:right;\"/>\n<h3>Anda baru saja mempelajari satu cara ampuh untuk menggunakan variabel... sebagai konstanta!  \nKetika Anda menggunakan variabel sebagai konstanta, Anda menetapkan nilai satu kali, lalu menggunakan nilai yang *sama* itu beberapa kali dalam program Anda tanpa mengubahnya setelah Anda mengklik \"Run\".  </h3>\n<br/><hr/>\n<h3>Di bagian seri selanjutnya, Anda akan menulis kode dengan variabel yang *memang* berubah di dalam program.</h3>\n\n"
         },
@@ -4047,6 +4707,9 @@
           "markdown": "<h2>Selengkapnya tentang Variabel</h2>\n\n\n<img src=\"https://images.code.org/082c757f5c939bd353eacda9589ca54f-image-1477349401281.35.08.png\" style=\"padding-left: 30px; width:300px; float:right;\"/>\n<h3>Anda baru saja mempelajari satu cara hebat untuk menggunakan variabel... sebagai konstanta!  \nKetika Anda menggunakan variabel sebagai konstanta, Anda menetapkan nilai satu kali, lalu menggunakan nilai yang *sama* beberapa kali dalam program Anda tanpa mengubahnya setelah Anda mengklik \"Jalankan\".  </h3>\n<br/><hr/>\n<h3>Di bagian seri selanjutnya, Anda akan menulis kode dengan variabel yang *melakukan* perubahan di dalam program.</h3>\n\n"
         },
         "courseF_external_variableConstant_2018_2019": {
+          "markdown": "<h2>Selengkapnya tentang Variabel</h2>\n\n\n<img src=\"https://images.code.org/082c757f5c939bd353eacda9589ca54f-image-1477349401281.35.08.png\" style=\"padding-left: 30px; width:300px; float:right;\"/>\n<h3>Anda baru saja mempelajari satu cara hebat untuk menggunakan variabel... sebagai konstanta!  \nKetika Anda menggunakan variabel sebagai konstanta, Anda menetapkan nilai satu kali, lalu menggunakan nilai yang *sama* beberapa kali dalam program Anda tanpa mengubahnya setelah Anda mengklik \"Jalankan\".  </h3>\n<br/><hr/>\n<h3>Di bagian seri selanjutnya, Anda akan menulis kode dengan variabel yang *melakukan* perubahan di dalam program.</h3>\n\n"
+        },
+        "courseF_external_variableConstant_2018_2019_2020": {
           "markdown": "<h2>Selengkapnya tentang Variabel</h2>\n\n\n<img src=\"https://images.code.org/082c757f5c939bd353eacda9589ca54f-image-1477349401281.35.08.png\" style=\"padding-left: 30px; width:300px; float:right;\"/>\n<h3>Anda baru saja mempelajari satu cara hebat untuk menggunakan variabel... sebagai konstanta!  \nKetika Anda menggunakan variabel sebagai konstanta, Anda menetapkan nilai satu kali, lalu menggunakan nilai yang *sama* beberapa kali dalam program Anda tanpa mengubahnya setelah Anda mengklik \"Jalankan\".  </h3>\n<br/><hr/>\n<h3>Di bagian seri selanjutnya, Anda akan menulis kode dengan variabel yang *melakukan* perubahan di dalam program.</h3>\n\n"
         },
         "courseF_markdown_algorithms_end": {
@@ -4081,11 +4744,19 @@
           "content1": "Tes Halaman Buku Teks Markdown",
           "markdown": "#**Anda baru saja mempelajari \"lingkaran untuk\"!**\n\n###**Lingkaran untuk adalah lingkaran di mana Anda menetapkan nilai mulai, berhenti, dan langkah.**\n\n###Jenis lingkaran `ulangi` yang baru ini memberikan pengendalian lebih besar kepada Anda ketika pengulangan dimulai, ketika berakhir, dan apakah lingkaran Anda harus meningkat setiap kali pengulangan berjalan.\n\n###Lebih banyak pengendalian berarti Anda dapat memecahkan teka-teki jauh lebih cepat! \n\n---\n\n##**Kosa Kata untuk Diketahui**\n\n### **Lingkaran untuk** - Lingkaran untuk adalah lingkaran yang memiliki awal, akhir, dan tambahan yang telah ditentukan (interval langkah)\n\n"
         },
+        "courseF_markdown_forloops_end_2019_2020": {
+          "content1": "Tes Halaman Buku Teks Markdown",
+          "markdown": "#**Anda baru saja mempelajari \"lingkaran untuk\"!**\n\n###**Lingkaran untuk adalah lingkaran di mana Anda menetapkan nilai mulai, berhenti, dan langkah.**\n\n###Jenis lingkaran `ulangi` yang baru ini memberikan pengendalian lebih besar kepada Anda ketika pengulangan dimulai, ketika berakhir, dan apakah lingkaran Anda harus meningkat setiap kali pengulangan berjalan.\n\n###Lebih banyak pengendalian berarti Anda dapat memecahkan teka-teki jauh lebih cepat! \n\n---\n\n##**Kosa Kata untuk Diketahui**\n\n### **Lingkaran untuk** - Lingkaran untuk adalah lingkaran yang memiliki awal, akhir, dan tambahan yang telah ditentukan (interval langkah)\n\n"
+        },
         "courseF_markdown_forloops_intro": {
           "content1": "Tes Halaman Buku Teks Markdown",
           "markdown": "#**Dalam pelajaran ini...**\n\n###Hari ini Anda akan mempelajari jenis lingkaran `ulangi` yang baru. Ini adalah pratinjau dari blok yang akan Anda gunakan:\n\n![](https://images.code.org/d9cb4b829fe4e688b10c19e879cf4a4b-image-1531938148965.png)\n\n###* Untung*nya, lingkaran baru ini akan menjadikan memecahkan teka-teki seperti ini sangat mudah!\n\n![](https://images.code.org/072230b389feb9c6c6998619a245b8af-image-1524773190948.png)\n\n"
         },
         "courseF_markdown_forloops_intro_2019": {
+          "content1": "Tes Halaman Buku Teks Markdown",
+          "markdown": "#**Dalam pelajaran ini...**\n\n###Hari ini Anda akan mempelajari jenis lingkaran `ulangi` yang baru. Ini adalah pratinjau dari blok yang akan Anda gunakan:\n\n![](https://images.code.org/d9cb4b829fe4e688b10c19e879cf4a4b-image-1531938148965.png)\n\n###* Untung*nya, lingkaran baru ini akan menjadikan memecahkan teka-teki seperti ini sangat mudah!\n\n![](https://images.code.org/072230b389feb9c6c6998619a245b8af-image-1524773190948.png)\n\n"
+        },
+        "courseF_markdown_forloops_intro_2019_2020": {
           "content1": "Tes Halaman Buku Teks Markdown",
           "markdown": "#**Dalam pelajaran ini...**\n\n###Hari ini Anda akan mempelajari jenis lingkaran `ulangi` yang baru. Ini adalah pratinjau dari blok yang akan Anda gunakan:\n\n![](https://images.code.org/d9cb4b829fe4e688b10c19e879cf4a4b-image-1531938148965.png)\n\n###* Untung*nya, lingkaran baru ini akan menjadikan memecahkan teka-teki seperti ini sangat mudah!\n\n![](https://images.code.org/072230b389feb9c6c6998619a245b8af-image-1524773190948.png)\n\n"
         },
@@ -4113,11 +4784,19 @@
           "content1": "Tes Halaman Buku Teks Markdown",
           "markdown": "# **Anda baru saja mempelajari \"variabel\"!**\n\n###Untuk menggunakan variabel, perlu nama dan nilai. Nama tidak berubah, tetapi nilai dapat berubah. Dengan cara ini, Anda dapat menggunakan nama variabel sebagai tempat penampungan di mana pun Anda inginkan dalam program Anda! \n\n---\n\n##**Kosa Kata untuk Diketahui**\n\n###**Variabel** - Tempat penampungan untuk sepotong informasi yang dapat berubah\n\n"
         },
+        "courseF_markdown_variables_end_2019_2020": {
+          "content1": "Tes Halaman Buku Teks Markdown",
+          "markdown": "# **Anda baru saja mempelajari \"variabel\"!**\n\n###Untuk menggunakan variabel, perlu nama dan nilai. Nama tidak berubah, tetapi nilai dapat berubah. Dengan cara ini, Anda dapat menggunakan nama variabel sebagai tempat penampungan di mana pun Anda inginkan dalam program Anda! \n\n---\n\n##**Kosa Kata untuk Diketahui**\n\n###**Variabel** - Tempat penampungan untuk sepotong informasi yang dapat berubah\n\n"
+        },
         "courseF_markdown_variables_intro": {
           "content1": "Tes Halaman Buku Teks Markdown",
           "markdown": "#**Dalam pelajaran ini...**\n\n###*Variabel* adalah tempat penampungan untuk informasi yang dapat berubah. Memiliki tempat penampungan memungkinkan untuk menulis program, bahkan ketika Anda tidak akan mengetahui semua nilai Anda sampai nanti!\n\n\n---\n\n## **Blok untuk Diketahui**\n\n![](https://images.code.org/2e5804ee6783390a6b86b7b2d7153594-image-1524772405748.png)\n\n\n"
         },
         "courseF_markdown_variables_intro_2019": {
+          "content1": "Tes Halaman Buku Teks Markdown",
+          "markdown": "#**Dalam pelajaran ini...**\n\n###*Variabel* adalah tempat penampungan untuk informasi yang dapat berubah. Memiliki tempat penampungan memungkinkan untuk menulis program, bahkan ketika Anda tidak akan mengetahui semua nilai Anda sampai nanti!\n\n\n---\n\n## **Blok untuk Diketahui**\n\n![](https://images.code.org/2e5804ee6783390a6b86b7b2d7153594-image-1524772405748.png)\n\n\n"
+        },
+        "courseF_markdown_variables_intro_2019_2020": {
           "content1": "Tes Halaman Buku Teks Markdown",
           "markdown": "#**Dalam pelajaran ini...**\n\n###*Variabel* adalah tempat penampungan untuk informasi yang dapat berubah. Memiliki tempat penampungan memungkinkan untuk menulis program, bahkan ketika Anda tidak akan mengetahui semua nilai Anda sampai nanti!\n\n\n---\n\n## **Blok untuk Diketahui**\n\n![](https://images.code.org/2e5804ee6783390a6b86b7b2d7153594-image-1524772405748.png)\n\n\n"
         },
@@ -4176,6 +4855,33 @@
           ]
         },
         "courseF_multi_artist_for10_predict1_2018_2019": {
+          "answers": [
+            {
+              "text": "Artis akan menggambar garis lurus yang meningkat ketebalannya dari satu sisi ruang permainan ke ruang permainan lainnya.",
+              "feedback": "Salah. Artis berbelok di antara pengulangan loop `for`."
+            },
+            {
+              "text": "Artis akan menggambar spiral dan setiap kali melewati loop `for`, garisnya makin panjang dan makin tipis. ",
+              "feedback": "Salah. Setiap kali melewati loop `for`, artis menggambar garis lebih panjang yang juga lebih tebal."
+            },
+            {
+              "text": "Artis akan menggambar spiral dan setiap kali melewati loop `for`, garisnya makin panjang dan makin tebal.",
+              "correct": true,
+              "feedback": "Benar!"
+            },
+            {
+              "text": "Saya tidak tahu.",
+              "feedback": "Salah. Setiap kali melewati loop `for`, artis menggambar garis lebih panjang yang juga lebih tebal."
+            }
+          ],
+          "markdown": "Kami menggunakan penghitung dari lingkaran `untuk` kami guna mengubah lebar kuas pada gambar ini.  \n\n\n",
+          "questions": [
+            {
+              "text": "Apa yang akan terjadi ketika Anda mengklik \"Run\"?"
+            }
+          ]
+        },
+        "courseF_multi_artist_for10_predict1_2018_2019_2020": {
           "answers": [
             {
               "text": "Artis akan menggambar garis lurus yang meningkat ketebalannya dari satu sisi ruang permainan ke ruang permainan lainnya.",
@@ -4282,6 +4988,32 @@
           ]
         },
         "courseF_multi_artist_variables3a_predict1_2018_2019": {
+          "answers": [
+            {
+              "text": "Si artis akan menggambar segitiga dengan sisi 50 piksel.",
+              "correct": true,
+              "feedback": "Benar!"
+            },
+            {
+              "text": "Si artis akan menggambar poligon bersisi 50 dengan sisi 3 piksel.",
+              "feedback": "Salah. Variabel `length` perlu berada di dalam loop `repeat` agar bisa terjadi."
+            },
+            {
+              "text": "Si artis akan menggambar tiga sisi terbuka dengan belokan 50 derajat.",
+              "feedback": "Salah.  Variabel `length` perlu digunakan di dalam blok `turn` agar bisa terjadi."
+            },
+            {
+              "text": "Saya tidak tahu.",
+              "feedback": "Variabel `length` disetel ke 50 dan digunakan di blok `move forward by` sehingga artis akan menggambar segitiga dengan sisi 50 piksel."
+            }
+          ],
+          "questions": [
+            {
+              "text": "Kami telah menyetel variabel \"length\" ke 50. Apa yang akan terjadi ketika Anda mengklik \"Run\"?"
+            }
+          ]
+        },
+        "courseF_multi_artist_variables3a_predict1_2018_2019_2020": {
           "answers": [
             {
               "text": "Si artis akan menggambar segitiga dengan sisi 50 piksel.",
@@ -4442,6 +5174,33 @@
             }
           ]
         },
+        "courseF_multi_bee_for3_predict1_2018_2019_2020": {
+          "answers": [
+            {
+              "text": "Lebah akan bergerak maju dan mengumpulkan semua nektar dari setiap bunga. ",
+              "feedback": "Salah. Loop `for` akan mengizinkan lebah mengumpulkan nektar dalam jumlah yang tepat, tetapi hanya disetel untuk mencapai 4 bunga."
+            },
+            {
+              "text": "Lebah akan bergerak maju dan mengumpulkan semua nektar dari setiap bunga, kecuali satu. ",
+              "correct": true,
+              "feedback": "Benar!"
+            },
+            {
+              "text": "Lebah akan bergerak maju dan mengumpulkan satu nektar dari setiap bunga. ",
+              "feedback": "Salah. Loop `for` akan mengizinkan lebah mengumpulkan nektar dalam jumlah yang tepat, tetapi hanya disetel untuk mencapai 4 bunga."
+            },
+            {
+              "text": "Saya tidak tahu.",
+              "feedback": "Lingkaran `untuk` akan membuat lebah mengumpulkan jumlah madu bunga yang tepat, tetapi hanya diatur untuk mencapai 4 bunga."
+            }
+          ],
+          "markdown": "Ah!  Penggunaan lingkaran `untuk` menjadikan teka-teki ini jauh lebih mudah!\n\n\n",
+          "questions": [
+            {
+              "text": "Baca kode di bawah ini. Apa yang akan terjadi saat Anda mengklik \"Run\"?"
+            }
+          ]
+        },
         "courseF_multi_bee_fwp9_predict1": {
           "answers": [
             {
@@ -4499,6 +5258,9 @@
         "courseF_project_exemplars_2019": {
           "content1": "Tes Halaman Buku Teks Markdown",
           "markdown": "# Contoh proyek\n\n\nAnda hampir mulai di akhir proyek.Sebelum anda mulai,luangkan waktu untuk melihat contoh proyek.\n\n\n## Sprite Lab\n\n| Cupcake Game (Sprite Lab) | Helicopter Game (Sprite Lab) |\n|---|---|\n| [![#Bunny Game (Sprite Lab)](https://images.code.org/c90080aaf05349fb6e1fbb6861e815df-image-1556809855136.png)](https://studio.code.org/projects/spritelab/gXM_YU_qL_QWo1o5Wkam96oiFrYY5VUp27m2xKlp7EQ/view) | [![#Helicopter Game (Sprite Lab)](https://images.code.org/1a273fd447b952367792423a70c5087a-image-1556812149075.png)](https://studio.code.org/projects/spritelab/QeROTy1pNyjNPC-ZZdBN1mcpkmTEMUc2FYwXX0SOFAY/view) |\n| Try adding text or a score to this game! | Try adding text or a score to this game! |\n\n## Artist\n\n| Flowers (Artist) | Spiral (Arist) |\n|---|---|\n| [![Flowers (Artist)](https://images.code.org/0f5adf63c318eab8c8acb397d9db7f2a-image-1556821537577.png)](https://studio.code.org/projects/artist/MIMh2pV2IiLm1ZzaiA6N7kKvg534lFck3abLXTsvZU8/view) | [![Spiral (Artist)](https://images.code.org/06514571a8cf2f8b0346006ac1adc219-image-1556819399386.png)](https://studio.code.org/projects/artist/66scPDPWa8RNNHkcXDaXdA/view) |\n| Let's get creative with variables! | Let's get creative with For Loops! |\n\n"
+        },
+        "courseF_project_exemplars_2019_2020": {
+          "content1": "Tes Halaman Buku Teks Markdown"
         },
         "coursee_prediction_artistfunction2": {
           "answers": [
@@ -4578,6 +5340,41 @@
             }
           ]
         },
+        "coursee_prediction_artistfunction2_2018_2019_2020": {
+          "answers": [
+            {
+              "text": "Si artis akan memecahkan puzzle dengan benar.",
+              "feedback": "Salah. Loop menggunakan \"gambar poligon\" bukannya \"gambar garis poligon\"."
+            },
+            {
+              "text": "Artis akan menggambar empat persegi empat dengan pola jendela.",
+              "correct": true,
+              "feedback": "Benar!"
+            },
+            {
+              "text": "Artis hanya akan menggambar satu garis persegi empat.",
+              "feedback": "Salah. Program tidak memanggil \"gambar garis poligon\"."
+            },
+            {
+              "text": "Artis akan menggambar empat persegi empat saling bertumpuk.",
+              "feedback": "Salah. Loop belok 90 derajat di antara panggilan untuk \"menggambar poligon\"."
+            }
+          ],
+          "questions": [
+            {
+              "text": "Apa yang akan terjadi ketika Anda menekan tombol \"Run\"?"
+            }
+          ]
+        },
+        "csf_be_a_super_digital_citizen": {
+          "content1": "deskripsi di sini"
+        },
+        "csf_password_power-up": {
+          "content1": "deskripsi di sini"
+        },
+        "csf_putting_a_stop_to_online_meanness": {
+          "content1": "deskripsi di sini"
+        },
         "grade2_multi_collector_A_predict1": {
           "answers": [
             {
@@ -4631,6 +5428,32 @@
           ]
         },
         "grade2_multi_collector_A_predict1_2018_2019": {
+          "answers": [
+            {
+              "text": "Laurel akan mengumpulkan 4 buah harta karun menggunakan code ini.",
+              "feedback": "Salah.  Laurel mencoba mengumpulkan harta karun di tempat yang tidak ada sehingga muncul kesalahan."
+            },
+            {
+              "text": "Laurel akan mencoba mengumpulkan harta karun di tempat yang tidak ada satu pun sehingga muncul kesalahan.",
+              "correct": true,
+              "feedback": "Benar!"
+            },
+            {
+              "text": "Laurel akan mengumpulkan semua harta karun.",
+              "feedback": "Salah.  Laurel mencoba mengumpulkan harta karun di tempat yang tidak ada sehingga muncul kesalahan."
+            },
+            {
+              "text": "Saya tidak tahu.",
+              "feedback": "Laurel mencoba mengumpulkan harta karun di tempat yang tidak ada sehingga muncul kesalahan."
+            }
+          ],
+          "questions": [
+            {
+              "text": "Perhatikan kode berikut ini. Menurutmu apa yang akan terjadi saat programnya dijalankan?"
+            }
+          ]
+        },
+        "grade2_multi_collector_A_predict1_2018_2019_2020": {
           "answers": [
             {
               "text": "Laurel akan mengumpulkan 4 buah harta karun menggunakan code ini.",

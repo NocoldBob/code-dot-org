@@ -487,6 +487,11 @@
             "name": "bygg bru"
           }
         },
+        "Function intro Ryan_2020": {
+          "build bridge": {
+            "name": "bygg bru"
+          }
+        },
         "Geometric Sun": {
           "draw a door": {
             "name": "teikn ei dør"
@@ -618,6 +623,11 @@
             "name": "fjern bane"
           }
         },
+        "MC_HOC_2017_07_Cole_2020": {
+          "clear path": {
+            "name": "fjern bane"
+          }
+        },
         "MC_HOC_2017_Ali": {
           "build short bridge": {
             "name": "bygg kort bru"
@@ -634,6 +644,14 @@
             "name": "bygg lang bru"
           }
         },
+        "MC_HOC_2017_Ali_2020": {
+          "build short bridge": {
+            "name": "bygg kort bru"
+          },
+          "build long bridge": {
+            "name": "bygg lang bru"
+          }
+        },
         "MC_HOC_2017_FP20x20": {
           "function 1": {
             "name": "funksjon 1"
@@ -643,6 +661,14 @@
           }
         },
         "MC_HOC_2017_FP20x20_2019": {
+          "function 1": {
+            "name": "funksjon 1"
+          },
+          "function 2": {
+            "name": "funksjon 2"
+          }
+        },
+        "MC_HOC_2017_FP20x20_2020": {
           "function 1": {
             "name": "funksjon 1"
           },
@@ -1082,7 +1108,19 @@
             }
           }
         },
+        "courseC_artist_prog3_2020": {
+          "draw flame": {
+            "parameters": {
+              "x": "x"
+            }
+          }
+        },
         "courseC_data wizard": {
+          "do something": {
+            "name": "gjer noko"
+          }
+        },
+        "courseC_data wizard_2020": {
           "do something": {
             "name": "gjer noko"
           }
@@ -1173,6 +1211,17 @@
             "name": "teikn ei linje av sekskantar"
           }
         },
+        "courseE_artist_functions10_2020": {
+          "do something": {
+            "name": "gjer noko"
+          },
+          "draw hexagon": {
+            "name": "teikn sekskant"
+          },
+          "draw line of hexagons": {
+            "name": "teikn ei linje av sekskantar"
+          }
+        },
         "courseE_artist_functions2": {
           "draw a square": {
             "name": "teikn eit kvadrat"
@@ -1188,6 +1237,11 @@
             "name": "teikn eit kvadrat"
           }
         },
+        "courseE_artist_functions2_2020": {
+          "draw a square": {
+            "name": "teikn eit kvadrat"
+          }
+        },
         "courseE_artist_functions2_copy": {
           "draw a square": {
             "name": "teikn eit kvadrat"
@@ -1199,6 +1253,11 @@
           }
         },
         "courseE_artist_functions3_2019": {
+          "draw a star": {
+            "name": "teikn ei stjerne"
+          }
+        },
+        "courseE_artist_functions3_2020": {
           "draw a star": {
             "name": "teikn ei stjerne"
           }
@@ -1228,6 +1287,11 @@
             "name": "teikn ei stjerne"
           }
         },
+        "courseE_artist_functions5_2020": {
+          "draw a star": {
+            "name": "teikn ei stjerne"
+          }
+        },
         "courseE_artist_functions5_copy": {
           "draw a star": {
             "name": "teikn ei stjerne"
@@ -1239,6 +1303,11 @@
           }
         },
         "courseE_artist_functions7_2018": {
+          "draw a house": {
+            "name": "teikn eit hus"
+          }
+        },
+        "courseE_artist_functions7_2020": {
           "draw a house": {
             "name": "teikn eit hus"
           }
@@ -1282,6 +1351,20 @@
             "name": "teikn kvadrat"
           }
         },
+        "courseE_artist_functions8_2020": {
+          "do something": {
+            "name": "gjer noko"
+          },
+          "staggered squares": {
+            "name": "forskjøvne kvadrat"
+          },
+          "draw a line of squares": {
+            "name": "tegn en linje av firkanter"
+          },
+          "draw square": {
+            "name": "teikn kvadrat"
+          }
+        },
         "courseE_artist_functions8a_2018": {
           "draw a square": {
             "name": "teikn eit kvadrat"
@@ -1291,6 +1374,14 @@
           }
         },
         "courseE_artist_functions8a_2019": {
+          "draw a square": {
+            "name": "teikn eit kvadrat"
+          },
+          "do something": {
+            "name": "gjer noko"
+          }
+        },
+        "courseE_artist_functions8a_2020": {
           "draw a square": {
             "name": "teikn eit kvadrat"
           },
@@ -1310,6 +1401,17 @@
           }
         },
         "courseE_artist_functions8b_2019": {
+          "draw a line of squares": {
+            "name": "tegn en linje av firkanter"
+          },
+          "draw square": {
+            "name": "teikn kvadrat"
+          },
+          "do something": {
+            "name": "gjer noko"
+          }
+        },
+        "courseE_artist_functions8b_2020": {
           "draw a line of squares": {
             "name": "tegn en linje av firkanter"
           },
@@ -1348,6 +1450,20 @@
             "name": "forskjøvne kvadrat"
           }
         },
+        "courseE_artist_functions8c_2020": {
+          "draw a line of squares": {
+            "name": "tegn en linje av firkanter"
+          },
+          "draw square": {
+            "name": "teikn kvadrat"
+          },
+          "do something": {
+            "name": "gjer noko"
+          },
+          "staggered squares": {
+            "name": "forskjøvne kvadrat"
+          }
+        },
         "courseE_artist_functions9": {
           "do something": {
             "name": "gjer noko"
@@ -1365,6 +1481,14 @@
           }
         },
         "courseE_artist_functions9_2019": {
+          "do something": {
+            "name": "gjer noko"
+          },
+          "draw triangle": {
+            "name": "teikn trekant"
+          }
+        },
+        "courseE_artist_functions9_2020": {
           "do something": {
             "name": "gjer noko"
           },
@@ -1406,6 +1530,23 @@
             "name": "teikn kvadrat"
           }
         },
+        "courseE_artist_functionsProj_2020": {
+          "draw hexagon": {
+            "name": "teikn sekskant"
+          },
+          "draw line of hexagons": {
+            "name": "teikn ei linje av sekskantar"
+          },
+          "staggered squares": {
+            "name": "forskjøvne kvadrat"
+          },
+          "draw a line of squares": {
+            "name": "tegn en linje av firkanter"
+          },
+          "draw square": {
+            "name": "teikn kvadrat"
+          }
+        },
         "courseE_artist_functions_challenge1": {
           "do something": {
             "name": "gjer noko"
@@ -1417,6 +1558,11 @@
           }
         },
         "courseE_artist_functions_challenge1_2019": {
+          "do something": {
+            "name": "gjer noko"
+          }
+        },
+        "courseE_artist_functions_challenge1_2020": {
           "do something": {
             "name": "gjer noko"
           }
@@ -1436,6 +1582,11 @@
             "name": "gjer noko"
           }
         },
+        "courseE_artist_functions_challenge2_2020": {
+          "do something": {
+            "name": "gjer noko"
+          }
+        },
         "courseE_artist_functions_predict1": {
           "draw a square": {
             "name": "teikn eit kvadrat"
@@ -1447,6 +1598,11 @@
           }
         },
         "courseE_artist_functions_predict1_2019": {
+          "draw a square": {
+            "name": "teikn eit kvadrat"
+          }
+        },
+        "courseE_artist_functions_predict1_2020": {
           "draw a square": {
             "name": "teikn eit kvadrat"
           }
@@ -1479,6 +1635,17 @@
           }
         },
         "courseE_artist_functions_predict2_2019": {
+          "draw line of polygons": {
+            "name": "teikn linje av polygon"
+          },
+          "draw polygon": {
+            "name": "teikn polygon"
+          },
+          "do something": {
+            "name": "gjer noko"
+          }
+        },
+        "courseE_artist_functions_predict2_2020": {
           "draw line of polygons": {
             "name": "teikn linje av polygon"
           },
@@ -1610,6 +1777,20 @@
             "name": "gresskarkvadrat"
           }
         },
+        "courseE_farmer_functions10a1_2020": {
+          "pick along path": {
+            "name": "plukk opp langs banen"
+          },
+          "check square for corn": {
+            "name": "sjekk kvadrat for korn"
+          },
+          "get all pumpkins": {
+            "name": "få alle gresskar"
+          },
+          "pumpkin square": {
+            "name": "gresskarkvadrat"
+          }
+        },
         "courseE_farmer_functions10b": {
           "navigate": {
             "name": "naviger"
@@ -1660,6 +1841,23 @@
             "name": "få alle gresskar"
           }
         },
+        "courseE_farmer_functions11_predict_2020": {
+          "pick along path": {
+            "name": "plukk opp langs banen"
+          },
+          "pumpkin square": {
+            "name": "gresskarkvadrat"
+          },
+          "check square for corn": {
+            "name": "sjekk kvadrat for korn"
+          },
+          "get produce": {
+            "name": "få produksjon"
+          },
+          "get all pumpkins": {
+            "name": "få alle gresskar"
+          }
+        },
         "courseE_farmer_functions13_2018": {
           "pick along path": {
             "name": "plukk opp langs banen"
@@ -1688,6 +1886,20 @@
             "name": "salat trapper"
           }
         },
+        "courseE_farmer_functions13_2020": {
+          "pick along path": {
+            "name": "plukk opp langs banen"
+          },
+          "check for corn": {
+            "name": "sjekk for korn"
+          },
+          "corn rectangle": {
+            "name": "kornrektangel"
+          },
+          "lettuce stairs": {
+            "name": "salat trapper"
+          }
+        },
         "courseE_farmer_functions1a_2018": {
           "check square for corn": {
             "name": "sjekk kvadrat for korn"
@@ -1698,12 +1910,22 @@
             "name": "sjekk kvadrat for korn"
           }
         },
+        "courseE_farmer_functions1a_2020": {
+          "check square for corn": {
+            "name": "sjekk kvadrat for korn"
+          }
+        },
         "courseE_farmer_functions2b_2018": {
           "check square for corn": {
             "name": "sjekk kvadrat for korn"
           }
         },
         "courseE_farmer_functions2b_2019": {
+          "check square for corn": {
+            "name": "sjekk kvadrat for korn"
+          }
+        },
+        "courseE_farmer_functions2b_2020": {
           "check square for corn": {
             "name": "sjekk kvadrat for korn"
           }
@@ -1722,6 +1944,14 @@
           }
         },
         "courseE_farmer_functions2ba_2019": {
+          "check square for corn": {
+            "name": "sjekk kvadrat for korn"
+          },
+          "get all pumpkins": {
+            "name": "få alle gresskar"
+          }
+        },
+        "courseE_farmer_functions2ba_2020": {
           "check square for corn": {
             "name": "sjekk kvadrat for korn"
           },
@@ -1756,6 +1986,17 @@
             "name": "få alle gresskar"
           }
         },
+        "courseE_farmer_functions3c1_2020": {
+          "pick along path": {
+            "name": "plukk opp langs banen"
+          },
+          "check square for corn": {
+            "name": "sjekk kvadrat for korn"
+          },
+          "get all pumpkins": {
+            "name": "få alle gresskar"
+          }
+        },
         "courseE_farmer_functions3c_2018": {
           "check square for corn": {
             "name": "sjekk kvadrat for korn"
@@ -1765,6 +2006,14 @@
           }
         },
         "courseE_farmer_functions3c_2019": {
+          "check square for corn": {
+            "name": "sjekk kvadrat for korn"
+          },
+          "get all pumpkins": {
+            "name": "få alle gresskar"
+          }
+        },
+        "courseE_farmer_functions3c_2020": {
           "check square for corn": {
             "name": "sjekk kvadrat for korn"
           },
@@ -1797,12 +2046,22 @@
             "name": "hagekvadrat"
           }
         },
+        "courseE_farmer_functions7a1_2020": {
+          "garden square": {
+            "name": "hagekvadrat"
+          }
+        },
         "courseE_farmer_functions8a1_2018": {
           "garden square": {
             "name": "hagekvadrat"
           }
         },
         "courseE_farmer_functions8a1_2019": {
+          "garden square": {
+            "name": "hagekvadrat"
+          }
+        },
+        "courseE_farmer_functions8a1_2020": {
           "garden square": {
             "name": "hagekvadrat"
           }
@@ -1818,6 +2077,11 @@
           }
         },
         "courseE_farmer_functions9a1_2019": {
+          "garden square": {
+            "name": "hagekvadrat"
+          }
+        },
+        "courseE_farmer_functions9a1_2020": {
           "garden square": {
             "name": "hagekvadrat"
           }
@@ -2144,12 +2408,22 @@
             "name": "samle rad"
           }
         },
+        "courseF_bee_variables_1_2020": {
+          "collect row": {
+            "name": "samle rad"
+          }
+        },
         "courseF_bee_variables_2_2018": {
           "collect row": {
             "name": "samle rad"
           }
         },
         "courseF_bee_variables_2_2019": {
+          "collect row": {
+            "name": "samle rad"
+          }
+        },
+        "courseF_bee_variables_2_2020": {
           "collect row": {
             "name": "samle rad"
           }
@@ -2164,12 +2438,22 @@
             "name": "samle rad"
           }
         },
+        "courseF_bee_variables_3_2020": {
+          "collect row": {
+            "name": "samle rad"
+          }
+        },
         "courseF_bee_variables_4_2018": {
           "collect row": {
             "name": "samle rad"
           }
         },
         "courseF_bee_variables_4_2019": {
+          "collect row": {
+            "name": "samle rad"
+          }
+        },
+        "courseF_bee_variables_4_2020": {
           "collect row": {
             "name": "samle rad"
           }
@@ -2184,12 +2468,22 @@
             "name": "samle rad"
           }
         },
+        "courseF_bee_variables_5_2020": {
+          "collect row": {
+            "name": "samle rad"
+          }
+        },
         "courseF_bee_variables_6_2018": {
           "collect stairs": {
             "name": "samle trapper"
           }
         },
         "courseF_bee_variables_6_2019": {
+          "collect stairs": {
+            "name": "samle trapper"
+          }
+        },
+        "courseF_bee_variables_6_2020": {
           "collect stairs": {
             "name": "samle trapper"
           }
@@ -2204,6 +2498,11 @@
             "name": "samle"
           }
         },
+        "courseF_bee_variables_7_2020": {
+          "collect": {
+            "name": "samle"
+          }
+        },
         "courseF_bee_variables_8_2018": {
           "move and increment": {
             "name": "flytt og øk"
@@ -2213,6 +2512,14 @@
           }
         },
         "courseF_bee_variables_8_2019": {
+          "move and increment": {
+            "name": "flytt og øk"
+          },
+          "collect": {
+            "name": "samle"
+          }
+        },
+        "courseF_bee_variables_8_2020": {
           "move and increment": {
             "name": "flytt og øk"
           },

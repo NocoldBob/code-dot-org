@@ -858,6 +858,13 @@
             }
           }
         },
+        "courseC_artist_prog3_2020": {
+          "draw flame": {
+            "parameters": {
+              "x": "x"
+            }
+          }
+        },
         "courseC_artist_prog4": {
           "booster": {
             "name": "təkanverici"
@@ -873,7 +880,17 @@
             "name": "təkanverici"
           }
         },
+        "courseC_artist_prog4_2020": {
+          "booster": {
+            "name": "təkanverici"
+          }
+        },
         "courseC_data wizard": {
+          "do something": {
+            "name": "bir şey etmək"
+          }
+        },
+        "courseC_data wizard_2020": {
           "do something": {
             "name": "bir şey etmək"
           }
@@ -893,6 +910,11 @@
             "name": "çək"
           }
         },
+        "courseD_artist_binary1_2020": {
+          "draw": {
+            "name": "çək"
+          }
+        },
         "courseD_artist_binary2": {
           "draw": {
             "name": "çək"
@@ -904,6 +926,11 @@
           }
         },
         "courseD_artist_binary2_2019": {
+          "draw": {
+            "name": "çək"
+          }
+        },
+        "courseD_artist_binary2_2020": {
           "draw": {
             "name": "çək"
           }
@@ -923,6 +950,11 @@
             "name": "çək"
           }
         },
+        "courseD_artist_binary3_2020": {
+          "draw": {
+            "name": "çək"
+          }
+        },
         "courseD_artist_binary4": {
           "draw": {
             "name": "çək"
@@ -934,6 +966,11 @@
           }
         },
         "courseD_artist_binary4_2019": {
+          "draw": {
+            "name": "çək"
+          }
+        },
+        "courseD_artist_binary4_2020": {
           "draw": {
             "name": "çək"
           }
@@ -953,6 +990,11 @@
             "name": "çək"
           }
         },
+        "courseD_artist_binary5_2020": {
+          "draw": {
+            "name": "çək"
+          }
+        },
         "courseD_artist_binary6": {
           "draw": {
             "name": "çək"
@@ -964,6 +1006,11 @@
           }
         },
         "courseD_artist_binary6_2019": {
+          "draw": {
+            "name": "çək"
+          }
+        },
+        "courseD_artist_binary6_2020": {
           "draw": {
             "name": "çək"
           }
@@ -983,6 +1030,11 @@
             "name": "çək"
           }
         },
+        "courseD_artist_binary7_2020": {
+          "draw": {
+            "name": "çək"
+          }
+        },
         "courseD_artist_binary8": {
           "draw": {
             "name": "çək"
@@ -994,6 +1046,11 @@
           }
         },
         "courseD_artist_binary8_2019": {
+          "draw": {
+            "name": "çək"
+          }
+        },
+        "courseD_artist_binary8_2020": {
           "draw": {
             "name": "çək"
           }
@@ -1013,12 +1070,22 @@
             "name": "çək"
           }
         },
+        "courseD_artist_binary8_predict1_2020": {
+          "draw": {
+            "name": "çək"
+          }
+        },
         "courseD_artist_binaryFP_2018": {
           "draw": {
             "name": "çək"
           }
         },
         "courseD_artist_binaryFP_2019": {
+          "draw": {
+            "name": "çək"
+          }
+        },
+        "courseD_artist_binaryFP_2020": {
           "draw": {
             "name": "çək"
           }
@@ -1033,12 +1100,22 @@
             "name": "çək"
           }
         },
+        "courseD_artist_binary_challenge1_2020": {
+          "draw": {
+            "name": "çək"
+          }
+        },
         "courseD_artist_binary_challenge2_2018": {
           "draw": {
             "name": "çək"
           }
         },
         "courseD_artist_binary_challenge2_2019": {
+          "draw": {
+            "name": "çək"
+          }
+        },
+        "courseD_artist_binary_challenge2_2020": {
           "draw": {
             "name": "çək"
           }
@@ -1131,6 +1208,11 @@
             "name": "bir şey etmək"
           }
         },
+        "courseE_artist_functions10_2020": {
+          "do something": {
+            "name": "bir şey etmək"
+          }
+        },
         "courseE_artist_functions2": {
           "draw a square": {
             "name": "kvadrat çək"
@@ -1146,6 +1228,11 @@
             "name": "kvadrat çək"
           }
         },
+        "courseE_artist_functions2_2020": {
+          "draw a square": {
+            "name": "kvadrat çək"
+          }
+        },
         "courseE_artist_functions2_copy": {
           "draw a square": {
             "name": "kvadrat çək"
@@ -1157,6 +1244,11 @@
           }
         },
         "courseE_artist_functions3_2019": {
+          "draw a star": {
+            "name": "bir ulduz çək"
+          }
+        },
+        "courseE_artist_functions3_2020": {
           "draw a star": {
             "name": "bir ulduz çək"
           }
@@ -1186,6 +1278,11 @@
             "name": "bir ulduz çək"
           }
         },
+        "courseE_artist_functions5_2020": {
+          "draw a star": {
+            "name": "bir ulduz çək"
+          }
+        },
         "courseE_artist_functions5_copy": {
           "draw a star": {
             "name": "bir ulduz çək"
@@ -1197,6 +1294,11 @@
           }
         },
         "courseE_artist_functions7_2018": {
+          "draw a house": {
+            "name": "ev çək"
+          }
+        },
+        "courseE_artist_functions7_2020": {
           "draw a house": {
             "name": "ev çək"
           }
@@ -1225,6 +1327,14 @@
             "name": "bir kvadrat çək"
           }
         },
+        "courseE_artist_functions8_2020": {
+          "do something": {
+            "name": "bir şey etmək"
+          },
+          "draw square": {
+            "name": "bir kvadrat çək"
+          }
+        },
         "courseE_artist_functions8a_2018": {
           "draw a square": {
             "name": "kvadrat çək"
@@ -1234,6 +1344,14 @@
           }
         },
         "courseE_artist_functions8a_2019": {
+          "draw a square": {
+            "name": "kvadrat çək"
+          },
+          "do something": {
+            "name": "bir şey etmək"
+          }
+        },
+        "courseE_artist_functions8a_2020": {
           "draw a square": {
             "name": "kvadrat çək"
           },
@@ -1257,6 +1375,14 @@
             "name": "bir şey etmək"
           }
         },
+        "courseE_artist_functions8b_2020": {
+          "draw square": {
+            "name": "bir kvadrat çək"
+          },
+          "do something": {
+            "name": "bir şey etmək"
+          }
+        },
         "courseE_artist_functions8c_2018": {
           "draw square": {
             "name": "bir kvadrat çək"
@@ -1266,6 +1392,14 @@
           }
         },
         "courseE_artist_functions8c_2019": {
+          "draw square": {
+            "name": "bir kvadrat çək"
+          },
+          "do something": {
+            "name": "bir şey etmək"
+          }
+        },
+        "courseE_artist_functions8c_2020": {
           "draw square": {
             "name": "bir kvadrat çək"
           },
@@ -1297,12 +1431,25 @@
             "name": "üçbucaq çək"
           }
         },
+        "courseE_artist_functions9_2020": {
+          "do something": {
+            "name": "bir şey etmək"
+          },
+          "draw triangle": {
+            "name": "üçbucaq çək"
+          }
+        },
         "courseE_artist_functionsProj_2018": {
           "draw square": {
             "name": "bir kvadrat çək"
           }
         },
         "courseE_artist_functionsProj_2019": {
+          "draw square": {
+            "name": "bir kvadrat çək"
+          }
+        },
+        "courseE_artist_functionsProj_2020": {
           "draw square": {
             "name": "bir kvadrat çək"
           }
@@ -1322,6 +1469,11 @@
             "name": "bir şey etmək"
           }
         },
+        "courseE_artist_functions_challenge1_2020": {
+          "do something": {
+            "name": "bir şey etmək"
+          }
+        },
         "courseE_artist_functions_challenge2": {
           "do something": {
             "name": "bir şey etmək"
@@ -1337,6 +1489,11 @@
             "name": "bir şey etmək"
           }
         },
+        "courseE_artist_functions_challenge2_2020": {
+          "do something": {
+            "name": "bir şey etmək"
+          }
+        },
         "courseE_artist_functions_predict1": {
           "draw a square": {
             "name": "kvadrat çək"
@@ -1348,6 +1505,11 @@
           }
         },
         "courseE_artist_functions_predict1_2019": {
+          "draw a square": {
+            "name": "kvadrat çək"
+          }
+        },
+        "courseE_artist_functions_predict1_2020": {
           "draw a square": {
             "name": "kvadrat çək"
           }
@@ -1368,6 +1530,11 @@
           }
         },
         "courseE_artist_functions_predict2_2019": {
+          "do something": {
+            "name": "bir şey etmək"
+          }
+        },
+        "courseE_artist_functions_predict2_2020": {
           "do something": {
             "name": "bir şey etmək"
           }
@@ -1666,12 +1833,22 @@
             "name": "topla"
           }
         },
+        "courseF_bee_variables_7_2020": {
+          "collect": {
+            "name": "topla"
+          }
+        },
         "courseF_bee_variables_8_2018": {
           "collect": {
             "name": "topla"
           }
         },
         "courseF_bee_variables_8_2019": {
+          "collect": {
+            "name": "topla"
+          }
+        },
+        "courseF_bee_variables_8_2020": {
           "collect": {
             "name": "topla"
           }

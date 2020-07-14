@@ -381,6 +381,9 @@
         },
         "courseF_artist_for4_2019": {
           "courseF_artist_for4_a": "\\*\\*Kakšno je najmanjše število, ki ga potrebukeš?\nKakšno pa je največje?\nKako velik je korak po?\n\nTo so vprašanja, ki si jih moraš zastaviti, da boš lahko izpolnil polja v zanki 'za vsako število'."
+        },
+        "courseF_artist_for4_2020": {
+          "courseF_artist_for4_a": "\\*\\*Kakšno je najmanjše število, ki ga potrebukeš?\nKakšno pa je največje?\nKako velik je korak po?\n\nTo so vprašanja, ki si jih moraš zastaviti, da boš lahko izpolnil polja v zanki 'za vsako število'."
         }
       }
     }

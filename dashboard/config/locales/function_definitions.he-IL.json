@@ -565,6 +565,11 @@
             "name": "בנה גשר"
           }
         },
+        "Function intro Ryan_2020": {
+          "build bridge": {
+            "name": "בנה גשר"
+          }
+        },
         "Geometric Sun": {
           "draw a door": {
             "name": "צייר דלת"
@@ -696,6 +701,11 @@
             "name": "פנה דרך"
           }
         },
+        "MC_HOC_2017_07_Cole_2020": {
+          "clear path": {
+            "name": "פנה דרך"
+          }
+        },
         "MC_HOC_2017_10_RETRY": {
           "fix long path": {
             "name": "תקן דרך ארוכה"
@@ -705,6 +715,14 @@
           }
         },
         "MC_HOC_2017_10_RETRY_2019": {
+          "fix long path": {
+            "name": "תקן דרך ארוכה"
+          },
+          "fix short path": {
+            "name": "תקן דרך קצרה"
+          }
+        },
+        "MC_HOC_2017_10_RETRY_2020": {
           "fix long path": {
             "name": "תקן דרך ארוכה"
           },
@@ -728,6 +746,14 @@
             "name": "בנה גשר ארוך"
           }
         },
+        "MC_HOC_2017_Ali_2020": {
+          "build short bridge": {
+            "name": "בנה גשר קצר"
+          },
+          "build long bridge": {
+            "name": "בנה גשר ארוך"
+          }
+        },
         "MC_HOC_2017_FP20x20": {
           "function 1": {
             "name": "פונקציה 1"
@@ -737,6 +763,14 @@
           }
         },
         "MC_HOC_2017_FP20x20_2019": {
+          "function 1": {
+            "name": "פונקציה 1"
+          },
+          "function 2": {
+            "name": "פונקציה 2"
+          }
+        },
+        "MC_HOC_2017_FP20x20_2020": {
           "function 1": {
             "name": "פונקציה 1"
           },
@@ -1291,6 +1325,11 @@
             "name": "פוטנציאל לפתרון"
           }
         },
+        "courseB_artist_loops_challenge2_2020": {
+          "potential solution": {
+            "name": "פוטנציאל לפתרון"
+          }
+        },
         "courseC_artist_prog3": {
           "draw flame": {
             "name": "צייר להבה",
@@ -1324,6 +1363,17 @@
             "name": "צייר אש"
           }
         },
+        "courseC_artist_prog3_2020": {
+          "draw flame": {
+            "name": "צייר להבה",
+            "parameters": {
+              "x": "x"
+            }
+          },
+          "draw fire": {
+            "name": "צייר אש"
+          }
+        },
         "courseC_artist_prog4": {
           "booster": {
             "name": "מאיץ"
@@ -1339,7 +1389,17 @@
             "name": "מאיץ"
           }
         },
+        "courseC_artist_prog4_2020": {
+          "booster": {
+            "name": "מאיץ"
+          }
+        },
         "courseC_data wizard": {
+          "do something": {
+            "name": "עשה משהו"
+          }
+        },
+        "courseC_data wizard_2020": {
           "do something": {
             "name": "עשה משהו"
           }
@@ -1359,6 +1419,11 @@
             "name": "צייר"
           }
         },
+        "courseD_artist_binary1_2020": {
+          "draw": {
+            "name": "צייר"
+          }
+        },
         "courseD_artist_binary2": {
           "draw": {
             "name": "צייר"
@@ -1370,6 +1435,11 @@
           }
         },
         "courseD_artist_binary2_2019": {
+          "draw": {
+            "name": "צייר"
+          }
+        },
+        "courseD_artist_binary2_2020": {
           "draw": {
             "name": "צייר"
           }
@@ -1389,6 +1459,11 @@
             "name": "צייר"
           }
         },
+        "courseD_artist_binary3_2020": {
+          "draw": {
+            "name": "צייר"
+          }
+        },
         "courseD_artist_binary4": {
           "draw": {
             "name": "צייר"
@@ -1400,6 +1475,11 @@
           }
         },
         "courseD_artist_binary4_2019": {
+          "draw": {
+            "name": "צייר"
+          }
+        },
+        "courseD_artist_binary4_2020": {
           "draw": {
             "name": "צייר"
           }
@@ -1419,6 +1499,11 @@
             "name": "צייר"
           }
         },
+        "courseD_artist_binary5_2020": {
+          "draw": {
+            "name": "צייר"
+          }
+        },
         "courseD_artist_binary6": {
           "draw": {
             "name": "צייר"
@@ -1430,6 +1515,11 @@
           }
         },
         "courseD_artist_binary6_2019": {
+          "draw": {
+            "name": "צייר"
+          }
+        },
+        "courseD_artist_binary6_2020": {
           "draw": {
             "name": "צייר"
           }
@@ -1449,6 +1539,11 @@
             "name": "צייר"
           }
         },
+        "courseD_artist_binary7_2020": {
+          "draw": {
+            "name": "צייר"
+          }
+        },
         "courseD_artist_binary8": {
           "draw": {
             "name": "צייר"
@@ -1460,6 +1555,11 @@
           }
         },
         "courseD_artist_binary8_2019": {
+          "draw": {
+            "name": "צייר"
+          }
+        },
+        "courseD_artist_binary8_2020": {
           "draw": {
             "name": "צייר"
           }
@@ -1479,12 +1579,22 @@
             "name": "צייר"
           }
         },
+        "courseD_artist_binary8_predict1_2020": {
+          "draw": {
+            "name": "צייר"
+          }
+        },
         "courseD_artist_binaryFP_2018": {
           "draw": {
             "name": "צייר"
           }
         },
         "courseD_artist_binaryFP_2019": {
+          "draw": {
+            "name": "צייר"
+          }
+        },
+        "courseD_artist_binaryFP_2020": {
           "draw": {
             "name": "צייר"
           }
@@ -1499,12 +1609,22 @@
             "name": "צייר"
           }
         },
+        "courseD_artist_binary_challenge1_2020": {
+          "draw": {
+            "name": "צייר"
+          }
+        },
         "courseD_artist_binary_challenge2_2018": {
           "draw": {
             "name": "צייר"
           }
         },
         "courseD_artist_binary_challenge2_2019": {
+          "draw": {
+            "name": "צייר"
+          }
+        },
+        "courseD_artist_binary_challenge2_2020": {
           "draw": {
             "name": "צייר"
           }
@@ -1642,6 +1762,17 @@
             "name": "צייר קו של משושים"
           }
         },
+        "courseE_artist_functions10_2020": {
+          "do something": {
+            "name": "עשה משהו"
+          },
+          "draw hexagon": {
+            "name": "צייר משושה"
+          },
+          "draw line of hexagons": {
+            "name": "צייר קו של משושים"
+          }
+        },
         "courseE_artist_functions2": {
           "draw a square": {
             "name": "צייר ריבוע"
@@ -1657,6 +1788,11 @@
             "name": "צייר ריבוע"
           }
         },
+        "courseE_artist_functions2_2020": {
+          "draw a square": {
+            "name": "צייר ריבוע"
+          }
+        },
         "courseE_artist_functions2_copy": {
           "draw a square": {
             "name": "צייר ריבוע"
@@ -1668,6 +1804,11 @@
           }
         },
         "courseE_artist_functions3_2019": {
+          "draw a star": {
+            "name": "צייר כוכב"
+          }
+        },
+        "courseE_artist_functions3_2020": {
           "draw a star": {
             "name": "צייר כוכב"
           }
@@ -1697,6 +1838,11 @@
             "name": "צייר כוכב"
           }
         },
+        "courseE_artist_functions5_2020": {
+          "draw a star": {
+            "name": "צייר כוכב"
+          }
+        },
         "courseE_artist_functions5_copy": {
           "draw a star": {
             "name": "צייר כוכב"
@@ -1721,6 +1867,14 @@
         "courseE_artist_functions7_2019": {
           "draw a window": {
             "name": "צייר חלון"
+          }
+        },
+        "courseE_artist_functions7_2020": {
+          "draw a window": {
+            "name": "צייר חלון"
+          },
+          "draw a house": {
+            "name": "צייר בית"
           }
         },
         "courseE_artist_functions8": {
@@ -1762,6 +1916,20 @@
             "name": "צייר ריבוע"
           }
         },
+        "courseE_artist_functions8_2020": {
+          "do something": {
+            "name": "עשה משהו"
+          },
+          "staggered squares": {
+            "name": "נענע מרובעים"
+          },
+          "draw a line of squares": {
+            "name": "צייר קו של מרובעים"
+          },
+          "draw square": {
+            "name": "צייר ריבוע"
+          }
+        },
         "courseE_artist_functions8a_2018": {
           "draw a square": {
             "name": "צייר ריבוע"
@@ -1771,6 +1939,14 @@
           }
         },
         "courseE_artist_functions8a_2019": {
+          "draw a square": {
+            "name": "צייר ריבוע"
+          },
+          "do something": {
+            "name": "עשה משהו"
+          }
+        },
+        "courseE_artist_functions8a_2020": {
           "draw a square": {
             "name": "צייר ריבוע"
           },
@@ -1800,6 +1976,17 @@
             "name": "עשה משהו"
           }
         },
+        "courseE_artist_functions8b_2020": {
+          "draw a line of squares": {
+            "name": "צייר קו של מרובעים"
+          },
+          "draw square": {
+            "name": "צייר ריבוע"
+          },
+          "do something": {
+            "name": "עשה משהו"
+          }
+        },
         "courseE_artist_functions8c_2018": {
           "draw a line of squares": {
             "name": "צייר קו של מרובעים"
@@ -1815,6 +2002,20 @@
           }
         },
         "courseE_artist_functions8c_2019": {
+          "draw a line of squares": {
+            "name": "צייר קו של מרובעים"
+          },
+          "draw square": {
+            "name": "צייר ריבוע"
+          },
+          "do something": {
+            "name": "עשה משהו"
+          },
+          "staggered squares": {
+            "name": "נענע מרובעים"
+          }
+        },
+        "courseE_artist_functions8c_2020": {
           "draw a line of squares": {
             "name": "צייר קו של מרובעים"
           },
@@ -1861,6 +2062,17 @@
             "name": "צייר קו של משולשים"
           }
         },
+        "courseE_artist_functions9_2020": {
+          "do something": {
+            "name": "עשה משהו"
+          },
+          "draw triangle": {
+            "name": "צייר משולש"
+          },
+          "draw line of triangles": {
+            "name": "צייר קו של משולשים"
+          }
+        },
         "courseE_artist_functionsProj_2018": {
           "draw hexagon": {
             "name": "צייר משושה"
@@ -1879,6 +2091,23 @@
           }
         },
         "courseE_artist_functionsProj_2019": {
+          "draw hexagon": {
+            "name": "צייר משושה"
+          },
+          "draw line of hexagons": {
+            "name": "צייר קו של משושים"
+          },
+          "staggered squares": {
+            "name": "נענע מרובעים"
+          },
+          "draw a line of squares": {
+            "name": "צייר קו של מרובעים"
+          },
+          "draw square": {
+            "name": "צייר ריבוע"
+          }
+        },
+        "courseE_artist_functionsProj_2020": {
           "draw hexagon": {
             "name": "צייר משושה"
           },
@@ -1919,6 +2148,14 @@
             "name": "עשה משהו"
           }
         },
+        "courseE_artist_functions_challenge1_2020": {
+          "my design": {
+            "name": "העיצוב שלי"
+          },
+          "do something": {
+            "name": "עשה משהו"
+          }
+        },
         "courseE_artist_functions_challenge2": {
           "my design": {
             "name": "העיצוב שלי"
@@ -1943,6 +2180,14 @@
             "name": "עשה משהו"
           }
         },
+        "courseE_artist_functions_challenge2_2020": {
+          "my design": {
+            "name": "העיצוב שלי"
+          },
+          "do something": {
+            "name": "עשה משהו"
+          }
+        },
         "courseE_artist_functions_predict1": {
           "draw a square": {
             "name": "צייר ריבוע"
@@ -1954,6 +2199,11 @@
           }
         },
         "courseE_artist_functions_predict1_2019": {
+          "draw a square": {
+            "name": "צייר ריבוע"
+          }
+        },
+        "courseE_artist_functions_predict1_2020": {
           "draw a square": {
             "name": "צייר ריבוע"
           }
@@ -1986,6 +2236,17 @@
           }
         },
         "courseE_artist_functions_predict2_2019": {
+          "draw line of polygons": {
+            "name": "צייר קו של מצולע"
+          },
+          "draw polygon": {
+            "name": "צייר מצולע"
+          },
+          "do something": {
+            "name": "עשה משהו"
+          }
+        },
+        "courseE_artist_functions_predict2_2020": {
           "draw line of polygons": {
             "name": "צייר קו של מצולע"
           },
@@ -2123,6 +2384,20 @@
             "name": "מרובע דלעת"
           }
         },
+        "courseE_farmer_functions10a1_2020": {
+          "pick along path": {
+            "name": "אסוף לאורך הדרך"
+          },
+          "check square for corn": {
+            "name": "בדוק ריבוע עבור תירס"
+          },
+          "get all pumpkins": {
+            "name": "הבא את כל הדלועים"
+          },
+          "pumpkin square": {
+            "name": "מרובע דלעת"
+          }
+        },
         "courseE_farmer_functions10b": {
           "navigate": {
             "name": "נווט"
@@ -2173,6 +2448,23 @@
             "name": "הבא את כל הדלועים"
           }
         },
+        "courseE_farmer_functions11_predict_2020": {
+          "pick along path": {
+            "name": "אסוף לאורך הדרך"
+          },
+          "pumpkin square": {
+            "name": "מרובע דלעת"
+          },
+          "check square for corn": {
+            "name": "בדוק ריבוע עבור תירס"
+          },
+          "get produce": {
+            "name": "התחל לייצר"
+          },
+          "get all pumpkins": {
+            "name": "הבא את כל הדלועים"
+          }
+        },
         "courseE_farmer_functions13_2018": {
           "pick along path": {
             "name": "אסוף לאורך הדרך"
@@ -2201,6 +2493,20 @@
             "name": "מדרגות חסה"
           }
         },
+        "courseE_farmer_functions13_2020": {
+          "pick along path": {
+            "name": "אסוף לאורך הדרך"
+          },
+          "check for corn": {
+            "name": "בדוק עבור תירס"
+          },
+          "corn rectangle": {
+            "name": "ריבוע תירס"
+          },
+          "lettuce stairs": {
+            "name": "מדרגות חסה"
+          }
+        },
         "courseE_farmer_functions1a_2018": {
           "check square for corn": {
             "name": "בדוק ריבוע עבור תירס"
@@ -2211,12 +2517,22 @@
             "name": "בדוק ריבוע עבור תירס"
           }
         },
+        "courseE_farmer_functions1a_2020": {
+          "check square for corn": {
+            "name": "בדוק ריבוע עבור תירס"
+          }
+        },
         "courseE_farmer_functions2b_2018": {
           "check square for corn": {
             "name": "בדוק ריבוע עבור תירס"
           }
         },
         "courseE_farmer_functions2b_2019": {
+          "check square for corn": {
+            "name": "בדוק ריבוע עבור תירס"
+          }
+        },
+        "courseE_farmer_functions2b_2020": {
           "check square for corn": {
             "name": "בדוק ריבוע עבור תירס"
           }
@@ -2235,6 +2551,14 @@
           }
         },
         "courseE_farmer_functions2ba_2019": {
+          "check square for corn": {
+            "name": "בדוק ריבוע עבור תירס"
+          },
+          "get all pumpkins": {
+            "name": "הבא את כל הדלועים"
+          }
+        },
+        "courseE_farmer_functions2ba_2020": {
           "check square for corn": {
             "name": "בדוק ריבוע עבור תירס"
           },
@@ -2269,6 +2593,17 @@
             "name": "הבא את כל הדלועים"
           }
         },
+        "courseE_farmer_functions3c1_2020": {
+          "pick along path": {
+            "name": "אסוף לאורך הדרך"
+          },
+          "check square for corn": {
+            "name": "בדוק ריבוע עבור תירס"
+          },
+          "get all pumpkins": {
+            "name": "הבא את כל הדלועים"
+          }
+        },
         "courseE_farmer_functions3c_2018": {
           "check square for corn": {
             "name": "בדוק ריבוע עבור תירס"
@@ -2278,6 +2613,14 @@
           }
         },
         "courseE_farmer_functions3c_2019": {
+          "check square for corn": {
+            "name": "בדוק ריבוע עבור תירס"
+          },
+          "get all pumpkins": {
+            "name": "הבא את כל הדלועים"
+          }
+        },
+        "courseE_farmer_functions3c_2020": {
           "check square for corn": {
             "name": "בדוק ריבוע עבור תירס"
           },
@@ -2310,12 +2653,22 @@
             "name": "מרובע גינה"
           }
         },
+        "courseE_farmer_functions7a1_2020": {
+          "garden square": {
+            "name": "מרובע גינה"
+          }
+        },
         "courseE_farmer_functions8a1_2018": {
           "garden square": {
             "name": "מרובע גינה"
           }
         },
         "courseE_farmer_functions8a1_2019": {
+          "garden square": {
+            "name": "מרובע גינה"
+          }
+        },
+        "courseE_farmer_functions8a1_2020": {
           "garden square": {
             "name": "מרובע גינה"
           }
@@ -2331,6 +2684,11 @@
           }
         },
         "courseE_farmer_functions9a1_2019": {
+          "garden square": {
+            "name": "מרובע גינה"
+          }
+        },
+        "courseE_farmer_functions9a1_2020": {
           "garden square": {
             "name": "מרובע גינה"
           }
@@ -2605,6 +2963,11 @@
             "name": "זוז ואסוף צוף עם מונה"
           }
         },
+        "courseF_bee_for_challenge1_2020": {
+          "move and get nectar with counter": {
+            "name": "זוז ואסוף צוף עם מונה"
+          }
+        },
         "courseF_bee_functions2": {
           "get only nectar": {
             "name": "אסוף רק צוף"
@@ -2765,12 +3128,22 @@
             "name": "אסוף שורה"
           }
         },
+        "courseF_bee_variables_1_2020": {
+          "collect row": {
+            "name": "אסוף שורה"
+          }
+        },
         "courseF_bee_variables_2_2018": {
           "collect row": {
             "name": "אסוף שורה"
           }
         },
         "courseF_bee_variables_2_2019": {
+          "collect row": {
+            "name": "אסוף שורה"
+          }
+        },
+        "courseF_bee_variables_2_2020": {
           "collect row": {
             "name": "אסוף שורה"
           }
@@ -2785,12 +3158,22 @@
             "name": "אסוף שורה"
           }
         },
+        "courseF_bee_variables_3_2020": {
+          "collect row": {
+            "name": "אסוף שורה"
+          }
+        },
         "courseF_bee_variables_4_2018": {
           "collect row": {
             "name": "אסוף שורה"
           }
         },
         "courseF_bee_variables_4_2019": {
+          "collect row": {
+            "name": "אסוף שורה"
+          }
+        },
+        "courseF_bee_variables_4_2020": {
           "collect row": {
             "name": "אסוף שורה"
           }
@@ -2805,12 +3188,22 @@
             "name": "אסוף שורה"
           }
         },
+        "courseF_bee_variables_5_2020": {
+          "collect row": {
+            "name": "אסוף שורה"
+          }
+        },
         "courseF_bee_variables_6_2018": {
           "collect stairs": {
             "name": "אסוף מדרגות"
           }
         },
         "courseF_bee_variables_6_2019": {
+          "collect stairs": {
+            "name": "אסוף מדרגות"
+          }
+        },
+        "courseF_bee_variables_6_2020": {
           "collect stairs": {
             "name": "אסוף מדרגות"
           }
@@ -2825,6 +3218,11 @@
             "name": "אסוף"
           }
         },
+        "courseF_bee_variables_7_2020": {
+          "collect": {
+            "name": "אסוף"
+          }
+        },
         "courseF_bee_variables_8_2018": {
           "move and increment": {
             "name": "זוז והוסף"
@@ -2834,6 +3232,14 @@
           }
         },
         "courseF_bee_variables_8_2019": {
+          "move and increment": {
+            "name": "זוז והוסף"
+          },
+          "collect": {
+            "name": "אסוף"
+          }
+        },
+        "courseF_bee_variables_8_2020": {
           "move and increment": {
             "name": "זוז והוסף"
           },

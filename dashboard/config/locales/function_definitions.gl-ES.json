@@ -575,6 +575,11 @@
             "name": "facer algo"
           }
         },
+        "courseC_data wizard_2020": {
+          "do something": {
+            "name": "facer algo"
+          }
+        },
         "courseE_artist_concept1": {
           "do something": {
             "name": "facer algo"
@@ -623,6 +628,11 @@
             "name": "facer algo"
           }
         },
+        "courseE_artist_functions10_2020": {
+          "do something": {
+            "name": "facer algo"
+          }
+        },
         "courseE_artist_functions2": {
           "draw a square": {
             "name": "debuxar un cadrado"
@@ -638,6 +648,11 @@
             "name": "debuxar un cadrado"
           }
         },
+        "courseE_artist_functions2_2020": {
+          "draw a square": {
+            "name": "debuxar un cadrado"
+          }
+        },
         "courseE_artist_functions2_copy": {
           "draw a square": {
             "name": "debuxar un cadrado"
@@ -649,6 +664,11 @@
           }
         },
         "courseE_artist_functions3_2019": {
+          "draw a star": {
+            "name": "debuxar unha estrela"
+          }
+        },
+        "courseE_artist_functions3_2020": {
           "draw a star": {
             "name": "debuxar unha estrela"
           }
@@ -678,6 +698,11 @@
             "name": "debuxar unha estrela"
           }
         },
+        "courseE_artist_functions5_2020": {
+          "draw a star": {
+            "name": "debuxar unha estrela"
+          }
+        },
         "courseE_artist_functions5_copy": {
           "draw a star": {
             "name": "debuxar unha estrela"
@@ -693,6 +718,11 @@
             "name": "debuxar unha casa"
           }
         },
+        "courseE_artist_functions7_2020": {
+          "draw a house": {
+            "name": "debuxar unha casa"
+          }
+        },
         "courseE_artist_functions8": {
           "do something": {
             "name": "facer algo"
@@ -704,6 +734,11 @@
           }
         },
         "courseE_artist_functions8_2019": {
+          "do something": {
+            "name": "facer algo"
+          }
+        },
+        "courseE_artist_functions8_2020": {
           "do something": {
             "name": "facer algo"
           }
@@ -724,6 +759,14 @@
             "name": "facer algo"
           }
         },
+        "courseE_artist_functions8a_2020": {
+          "draw a square": {
+            "name": "debuxar un cadrado"
+          },
+          "do something": {
+            "name": "facer algo"
+          }
+        },
         "courseE_artist_functions8b_2018": {
           "do something": {
             "name": "facer algo"
@@ -734,12 +777,22 @@
             "name": "facer algo"
           }
         },
+        "courseE_artist_functions8b_2020": {
+          "do something": {
+            "name": "facer algo"
+          }
+        },
         "courseE_artist_functions8c_2018": {
           "do something": {
             "name": "facer algo"
           }
         },
         "courseE_artist_functions8c_2019": {
+          "do something": {
+            "name": "facer algo"
+          }
+        },
+        "courseE_artist_functions8c_2020": {
           "do something": {
             "name": "facer algo"
           }
@@ -759,6 +812,11 @@
             "name": "facer algo"
           }
         },
+        "courseE_artist_functions9_2020": {
+          "do something": {
+            "name": "facer algo"
+          }
+        },
         "courseE_artist_functions_challenge1": {
           "do something": {
             "name": "facer algo"
@@ -770,6 +828,11 @@
           }
         },
         "courseE_artist_functions_challenge1_2019": {
+          "do something": {
+            "name": "facer algo"
+          }
+        },
+        "courseE_artist_functions_challenge1_2020": {
           "do something": {
             "name": "facer algo"
           }
@@ -789,6 +852,11 @@
             "name": "facer algo"
           }
         },
+        "courseE_artist_functions_challenge2_2020": {
+          "do something": {
+            "name": "facer algo"
+          }
+        },
         "courseE_artist_functions_predict1": {
           "draw a square": {
             "name": "debuxar un cadrado"
@@ -800,6 +868,11 @@
           }
         },
         "courseE_artist_functions_predict1_2019": {
+          "draw a square": {
+            "name": "debuxar un cadrado"
+          }
+        },
+        "courseE_artist_functions_predict1_2020": {
           "draw a square": {
             "name": "debuxar un cadrado"
           }
@@ -820,6 +893,11 @@
           }
         },
         "courseE_artist_functions_predict2_2019": {
+          "do something": {
+            "name": "facer algo"
+          }
+        },
+        "courseE_artist_functions_predict2_2020": {
           "do something": {
             "name": "facer algo"
           }
@@ -1089,12 +1167,22 @@
             "name": "apañar"
           }
         },
+        "courseF_bee_variables_7_2020": {
+          "collect": {
+            "name": "apañar"
+          }
+        },
         "courseF_bee_variables_8_2018": {
           "collect": {
             "name": "apañar"
           }
         },
         "courseF_bee_variables_8_2019": {
+          "collect": {
+            "name": "apañar"
+          }
+        },
+        "courseF_bee_variables_8_2020": {
           "collect": {
             "name": "apañar"
           }

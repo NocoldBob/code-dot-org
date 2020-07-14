@@ -1110,13 +1110,26 @@
           "content1": "descrição aqui",
           "markdown": "# O Processo de Design\n\n<iframe src=\"https://docs.google.com/document/d/e/2PACX-1vS2GtTZLCnFf4QYXEswvBv_XHQBoYbyBDrqABx9FCRpHBndTD0VbpC34HuN56dBgQ6I3tMgKstI3r6G/pub?embedded=true\" style=\"width: 800px; height: 600px\"></iframe>\n"
         },
+        "Begin planning your project_2018_2019_2020": {
+          "content1": "descrição aqui",
+          "markdown": "# O Processo de Design\n\n<iframe src=\"https://docs.google.com/document/d/e/2PACX-1vS2GtTZLCnFf4QYXEswvBv_XHQBoYbyBDrqABx9FCRpHBndTD0VbpC34HuN56dBgQ6I3tMgKstI3r6G/pub?embedded=true\" style=\"width: 800px; height: 600px\"></iframe>\n"
+        },
         "BigEvent-Unplugged": {
           "markdown": "# O Grande Evento\n\nEm ciëncias da computação, eventos são ações que são monitoradas pelo computador. Nesta aula você irá reagir de forma diferente, dependendo de qual botão for pressionado.\n"
+        },
+        "BigEvent-Unplugged_2020": {
+          "markdown": "# O Grande Evento\n\nNa ciência da computação, eventos são ações que são monitoradas pelo computador. Nesta lição você irá reagir de forma diferente dependendo de qual botão for pressionado.\n"
         },
         "BinaryBracelets-Unplugged": {
           "markdown": "# Pulseiras Binárias\n\nCrie uma pulseira que represente seu nome de uma maneira que os computadores entendam!\n\n![](https://images.code.org/ed15a484276c0989e4adb5daf480f68a-image-1557870226222.png)\n"
         },
+        "BinaryBracelets-Unplugged_2020": {
+          "markdown": "# Pulseiras Binárias\n\nCrie uma pulseira que represente seu nome de uma maneira que os computadores entendam!\n\n![](https://images.code.org/ed15a484276c0989e4adb5daf480f68a-image-1557870226222.png)\n"
+        },
         "BinaryImages-Unplugged": {
+          "markdown": "# Imagens Binárias\n\nDescreva como recriar uma imagem usando somente dois valores simples.\n"
+        },
+        "BinaryImages-Unplugged_2020": {
           "markdown": "# Imagens Binárias\n\nDescreva como recriar uma imagem usando somente dois valores simples.\n"
         },
         "Building a UI with Design Mode": {
@@ -2469,6 +2482,9 @@
         "ConditionalsWithCards-Unplugged": {
           "markdown": "# Condicionais com Cartas\n\nJogue um jogo de cartas e crie regras como \"Se eu tirar uma carta vermelha, eu ganho um ponto\" e \"Se eu tirar uma carta preta, você ganha um ponto\"\n"
         },
+        "ConditionalsWithCards-Unplugged_2020": {
+          "markdown": "# Condicionais com Cartas\n\nJogue um jogo de cartas e crie regras como \"Se eu tirar uma carta vermelha, eu ganho um ponto\" e \"Se eu tirar uma carta preta, você ganha um ponto\"\n"
+        },
         "Crowdsourcing-Unplugged": {
           "markdown": "# Crowdsourcing\n\nVeja como o crowdsourcing, que é uma técnica comum para resolução de problemas em ciências da computação, pode ajudá-lo a completar uma tarefa juntos em uma sala de aula, de maneira mais eficiente do que se você tivesse que fazer sozinho.\n"
         },
@@ -2487,6 +2503,9 @@
         "DesigningForAccessibilityMarkdownLevel_2019": {
           "markdown": "# Desenhando para Acessibilidade\n\n* No mundo de ciências da computação, **acessibilidade** está relacionada à criação de tecnologia para pessoas com deficiências.\n* Deficiências incluem físicas, auditivas, visuais, e muitas outras.\n* Deficiências são variadas e impactam pessoas de maneiras diferentes, incluindo a forma como elas usam tecnologias como **applicativos de smartphones**.\n* Criar aplicativos que são acessíveis para pessoas com deficiências também torna estes aplicativos melhores para todos!!\n\n![](https://images.code.org/0c670d0d9078657a870df0ca799492cb-image-1557166420066.png)\n"
         },
+        "DesigningForAccessibilityMarkdownLevel_2019_2020": {
+          "markdown": "# Desenhando para Acessibilidade\n\n* No mundo de ciências da computação, **acessibilidade** está relacionada à criação de tecnologia para pessoas com deficiências.\n* Deficiências incluem físicas, auditivas, visuais, e muitas outras.\n* Deficiências são variadas e impactam pessoas de maneiras diferentes, incluindo a forma como elas usam tecnologias como **applicativos de smartphones**.\n* Criar aplicativos que são acessíveis para pessoas com deficiências também torna estes aplicativos melhores para todos!!\n\n![](https://images.code.org/0c670d0d9078657a870df0ca799492cb-image-1557166420066.png)\n"
+        },
         "DigitalCitizenship-Unplugged": {
           "markdown": "# Cidadania Digital\n\nAlgumas informações não podem ser compartilhadas online com segurança. Esta aula irá ajudá-lo a identificar a diferença entre informações seguras e proprietárias.\n"
         },
@@ -2496,7 +2515,13 @@
         "DigitalSharing-Unplugged": {
           "markdown": "# Compartilhamento Digital\n\nNesta aula você irá considerar os desafios e os benefícios de respeitar a propriedade e o copyright, em particular nos ambientes digitais.\n"
         },
+        "DigitalSharing-Unplugged_2020": {
+          "markdown": "# Compartilhamento Digital\n\nNesta aula você irá considerar os desafios e os benefícios de respeitar a propriedade e o copyright, em particular nos ambientes digitais.\n"
+        },
         "EnvelopeVariables-Unplugged": {
+          "markdown": "# Envelopes de Variáveis\n\nVariáveis nos dão muita liberdade em ciências da computação. Esta aula ajuda a explicar o que são variáveis e como nós podemos usá-las de muitas formas diferentes. \n"
+        },
+        "EnvelopeVariables-Unplugged_2020": {
           "markdown": "# Envelopes de Variáveis\n\nVariáveis nos dão muita liberdade em ciências da computação. Esta aula ajuda a explicar o que são variáveis e como nós podemos usá-las de muitas formas diferentes. \n"
         },
         "Example App Types_2018": {
@@ -2508,7 +2533,13 @@
         "ForLoopFun-Unplugged": {
           "markdown": "# Divirta-se com Laços For\n\nSabemos que os laços nos permiter fazer algo repetidas vezes, mas agora iremos aprender como usar laços com uma estrutura adicional diretamente integrada.\n"
         },
+        "ForLoopFun-Unplugged_2020": {
+          "markdown": "# Divirta-se com Laços For\n\nSabemos que os laços nos permiter fazer algo repetidas vezes, mas agora iremos aprender como usar laços com uma estrutura adicional diretamente integrada.\n"
+        },
         "GettingLoopy-Unplugged": {
+          "markdown": "# Dando Voltas\n\nEsta lição introduz o conceito de laços de repetição através de uma atividade de dança.\n"
+        },
+        "GettingLoopy-Unplugged_2020": {
           "markdown": "# Dando Voltas\n\nEsta lição introduz o conceito de laços de repetição através de uma atividade de dança.\n"
         },
         "GoingPlacesSafely-unplugged": {
@@ -2517,10 +2548,19 @@
         "GraphPaperProgramming-Unplugged": {
           "markdown": "# Programação de Gráficos em Papel\n\nEscreva algorítmos que seus colegas de classe podem usar para desenhar figuras.\n"
         },
+        "GraphPaperProgramming-Unplugged_2020": {
+          "markdown": "# Programação de Gráficos em Papel\n\nEscreva algorítmos que seus colegas de classe podem usar para desenhar figuras.\n"
+        },
         "HappyLoops-Unplugged": {
           "markdown": "# Laços Felizes\n\nNesta aula, você vai aprender sobre laços de repetição!\n\n![](https://images.code.org/6aac7f675f0c69033f42ccac6a733f68-image-1557769673400.png)\n"
         },
+        "HappyLoops-Unplugged_2020": {
+          "markdown": "# Laços Felizes\n\nNesta aula, você vai aprender sobre laços de repetição!\n\n![](https://images.code.org/6aac7f675f0c69033f42ccac6a733f68-image-1557769673400.png)\n"
+        },
         "HappyMaps-Unplugged": {
+          "markdown": "# Mapas Felizes\n\nCrie um algoritmo para mover um personagem por um labirinto.\n"
+        },
+        "HappyMaps-Unplugged_2020": {
           "markdown": "# Mapas Felizes\n\nCrie um algoritmo para mover um personagem por um labirinto.\n"
         },
         "Internet Simulator Setup": {
@@ -2536,6 +2576,9 @@
           "markdown": "# Internet Simulator: Perguntas frequentes\n\n#### Onde posso encontrar as atividades que você projetou para usar com o Internet Simulator?\nAs atividades que projetamos para o currículo dos Princípios de Ciência da Computação, incluindo as configurações específicas do Internet Simulator, podem ser encontradas nos planos de aula da Unidade [here](https://code.org/educate/csp). Muitos dos planos de aula têm \"Dicas e truques para professores\", vídeos de apoio que mostram demonstrações do Simulador de Internet usadas como parte das atividades da sala de aula. Você pode usar essas atividades como está, ou sinta-se à vontade para modificar para melhor se adequar à sua classe!\n\n#### Posso personalizar o Simulador de Internet para a minha turma?\nNo momento, infelizmente, não temos como pessoas fora do Code.org criar configurações e instruções específicas para o Simulador de Internet. Tentamos expor uma variedade de configurações diferentes que, esperamos, podem funcionar para sua sala de aula e atividade. A longo prazo, adoraríamos ter uma maneira de permitir que outras pessoas configurem a ferramenta.\n"
         },
         "Internet-Unplugged": {
+          "markdown": "# A Internet\n\nCrie sua própria internet na sala de aula, somente usando pedaços de papel.\n"
+        },
+        "Internet-Unplugged_2020": {
           "markdown": "# A Internet\n\nCrie sua própria internet na sala de aula, somente usando pedaços de papel.\n"
         },
         "K-1 Artist 1 Multi 1": {
@@ -3044,6 +3087,9 @@
         "MoveItMoveIt-Unplugged": {
           "markdown": "# Movimente-o, Movimente-o\n\nUse um mapa e dê comandos para atingir o objetivo.\n"
         },
+        "MoveItMoveIt-Unplugged_2020": {
+          "markdown": "# Movimente-o, Movimente-o\n\nUse um mapa e dê comandos para atingir o objetivo.\n"
+        },
         "Multi-Screen Apps": {
           "content1": "descrição aqui",
           "markdown": "# Criando Múltiplas Telas\n\nVocê pode imaginar que um aplicativo típico possui um número de \"telas\" ou visualizações que o usuário atravessa à medida que usa seu applicativo. Abaixo temos um exemplo típico com uma tela de abertura, uma tela que executa o jogo e uma tela de final de jogo.\n\n<img src=\"https://images.code.org/27065f81b2bf53dea099a76868f66e8e-image-1477324003598.png\" style=\"display: block; margin: auto\">\n\n## O que é uma tela, afinal?\n\nUma tela é somente um elemento de interface, como qualquer outro em Modo de Desenho. Mas ela possui algumas propriedades especiais:\n\n1. Uma tela é um elemento de UI que contém outros elementos de UI\n2. Somente uma tela pode estar visível em um determinado momento\n3. Somente elementos que \"pertencem\" à tela serão visíveis quando esta tela estiver ativa,\n4. **Múltiplas telas, mas somente uma área de codificação**\n * Mesmo quando seus *elementos de desenho* poderão estar espalhados através de múltiplas telas, seu código não irá se fragmentar desta maneira.\n * Existe somente uma área de codificação, que irá conter todo o código para o aplicativo.\n\n## Como Criar uma Nova Tela\n\n<div style=\"float: left; width: 33%\">\nHá duas maneiras para adicionar uma tela à sua aplicação. Primeiro, tenha certeza que você está em <em>Modo de Desenho</em>.\n<br><br>\n<span style=\"font-weight: bold; color: #00adbc; font-size: 200%;\">1.</span>\nSelecione <em>Nova Tela...</em> do menu de contexto no topo da área de exibição. <strong>Nota:</strong> Você também utiliza este menu de contexto para alternar entre telas em modo de desenho.\n<br><br>\n<span style=\"font-weight: bold; color: #00adbc; font-size: 200%;\">2.</span>\nOu arraste e solte um elemento UI de Tela da caixa de ferramentas. <strong>Cuidado: </strong>Assim que você soltar o elemento de tela, o aplicativo irá mostrar a você uma <strong>nova tela em branco.</strong> Você pode retornar às outras telas usando o menu de contexto que fica no topo.\n\n</div>\n\n![](https://images.code.org/ed8f45d70a65329597c1623ddd756249-image-1477165123570.png)\n\n## Defina as Propriedades da Tela\n\n<div style=\"column-count: 4; column-gap: 20px; column-rule: 0.5px solid #00adbc; -moz-column-count: 4; width: 100%\">\n\n<p><span style=\"font-weight: bold; color: #00adbc; font-size: 200%;\">1.</span>\nUse este menu de contexto para selecionar a tela em que você quer trabalhar. A lista irá conter os IDs de todas as telas que você criou.</p>\n\n<p style=\"break-after: always; -moz-column-break-after: always; -webkit-column-break-after: always;\"><span style=\"font-weight: bold; color: #00adbc; font-size: 200%;\">2.</span>\nClique sobre a área em branco ao fundo para selecionar a tela e definir suas propriedades. </p>\n\n<p style=\"break-after: always; -moz-column-break-after: always; -webkit-column-break-after: always;\"><span style=\"font-weight: bold; color: #00adbc; font-size: 200%;\">3.</span>\nTelas também possuem IDs. Como outros elementos de UI, é uma boa ideia <em>dar às suas telas IDs descritivos e significativos</em>. Isto torna muito mais fácil escrever codigo.</p>\n\n<p><span style=\"font-weight: bold; color: #00adbc; font-size: 200%;\">4.</span>\nSe a sua tela estiver repleta com elementos de UI e não houver área em branco para clicá-la e selecioná-la, use este menu de contexto. Ele relaciona todos os elementos de UI que fazem parte da tela, incluindo a tela em si.</p>\n</div>\n\n<img src=\"https://images.code.org/5f8934e6ae0fc2d9dfde8c9a0d93eec2-image-1477249243769.png\" style=\"display: block; margin: auto;\">\n\n<div style=\"column-count: 2; column-gap: 20px; column-rule: 0.5px solid #00adbc; -moz-column-count: 2; width: 50%; float: right\">\n\n<p><span style=\"font-weight: bold; color: #00adbc; font-size: 200%;\">5.</span>\nClique este botão para tornar a tela a \"tela padrão\", o que significa que a tela será será mostrada primeiro quando o aplicativo for iniciado.</p>\n\n\n\n<p><span style=\"font-weight: bold; color: #00adbc; font-size: 200%;\">6.</span>\nTelas não têm muitas propriedades, mas você pode definir o fundo da tela para uma cor ou uma imagem. Images são esticadas ou comprimidas para que caibam na tela.</p>\n\n</div>\n<div style=\"clear: both\">&nbsp;</div>\n\n## Usando o comando *defineTela* para alterar telas via código\n\nO comando `defineTela` altera a tela para exibir a tela que você quiser. Você especifica a tela pelo seu ID.\n\n<img src=\"https://images.code.org/005222ed01ade7940963ce149d637286-image-1477168080948.png\" style=\"display: block; margin: auto\">\n\n<div style=\"column-count: 3; column-gap: 20px; column-rule: 0.5px solid #00adbc; -moz-column-count: 3; width: 100%\">\n\n<p><span style=\"font-weight: bold; color: #00adbc; font-size: 200%;\">1.</span>\nLocalize <em>defineTela</em> na caixa de ferramentas dos elementos de UI e arraste-o para a área de codificação.</p>\n\n<p style=\"break-after: always; -moz-column-break-after: always; -webkit-column-break-after: always;\"><span style=\"font-weight: bold; color: #00adbc; font-size: 200%;\">2.</span>\nNa maioria das vezes você altera a tela em resposta a algum evento gerado pelo usuário. Neste caso <em>defineTela</em> está sendo adicionado a um tratador de evento \"clique\" para a imagem com Id: <em>smileyFace</em></p>\n\n<p style=\"break-after: always; -moz-column-break-after: always; -webkit-column-break-after: always;\"><span style=\"font-weight: bold; color: #00adbc; font-size: 200%;\">3.</span>\nSelecione o ID da tela que você quer exibir. Neste caso, quanto a tela smiley face é clicada, na tela onde aparece \"Olá\" nós queremos alterar a tela para que diga \"tchau\".</p>\n\n<p><span style=\"font-weight: bold; color: #00adbc; font-size: 200%;\">4.</span>\n<strong>Ideia chave: Múltiplas Telas - Área de Códificação Única.</strong> Teste é o código que trata o evento \"clique\" para uma <em>imagem que está localizada em uma tela diferente</em> - a <em>goodbyeScreen</em>. Você não pode ver a image neste momento, ou a tela, porque a tela não está selecionada. Entretanto, o código para ela é colocado aqui.</p>\n\n</div>\n"
@@ -3051,7 +3097,13 @@
         "MyLoopyRoboticFriends-Unplugged": {
           "markdown": "# Meus Amigos Robôs Entrelaçados\n\nTorne seus programas mais curtos usando laços de repetição!\n"
         },
+        "MyLoopyRoboticFriends-Unplugged_2020": {
+          "markdown": "# Meus Amigos Robôs Entrelaçados\n\nTorne seus programas mais curtos usando laços de repetição!\n"
+        },
         "MyRoboticFriends-Unplugged": {
+          "markdown": "# Meus Amigos Robôs\n\nAprenda a programar escrevendo código para seus amigos!\n"
+        },
+        "MyRoboticFriends-Unplugged_2020": {
           "markdown": "# Meus Amigos Robôs\n\nAprenda a programar escrevendo código para seus amigos!\n"
         },
         "New Challenge Introduction": {
@@ -3299,6 +3351,9 @@
         "PicturingData-Unplugged": {
           "markdown": "# Retratando Dados\n\nUse um projeto Play Lab para coletar dados e fazer predições.\n\n![](https://images.code.org/606a78c09a01133a1bbc1aa9c76f3320-image-1557334268558.png)\n"
         },
+        "PicturingData-Unplugged_2020": {
+          "markdown": "# Retratando Dados\n\nUse um projeto Play Lab para coletar dados e fazer predições.\n\n![](https://images.code.org/606a78c09a01133a1bbc1aa9c76f3320-image-1557334268558.png)\n"
+        },
         "PowerOfWords-Unplugged": {
           "markdown": "# A Força das Palavras\n\nHoje você irá aprender sobre o que fazer se alguém estiver sendo mau online.\n"
         },
@@ -3318,6 +3373,9 @@
         "RelayProgramming-Unplugged": {
           "markdown": "# Programação por Revesamento\n\nDivida-se em equipes e trabalhe junto para escrever programas que desenhem figuras.\n"
         },
+        "RelayProgramming-Unplugged_2020": {
+          "markdown": "# Programação por Revesamento\n\nDivida-se em equipes e trabalhe junto para escrever programas que desenhem figuras.\n"
+        },
         "Responding to User Input": {
           "markdown": "# Respondendo à Entrada do Usuário\n\nO Modo de Desenho torna realmente fácil desenhar a Interface de Usuário para sua aplicação, mas teremos que mergulhar no Modo de Codificação para fazer o programa responder aos usuários.\n\nNo Laboratório de Jogos o laço de Desenho simplesmente rodou código, usando condicionais para checar interações do usuário. O Laboratório de Aplicativos, por outro lado, aguarda para responder a determinados **eventos** que ocorrem em um programa. Esta é a maneira do Laboratório de Aplicativos dizer \"Oi! Algo acabou de acontecer!\". Isso significa que não precisa haver qualquer código rodando quando você não estiver interagindo diretamente com um aplicativo, e seu código pode responder a estes eventos à medida em que ocorrem.\n\nDe forma geral, as tarefas de codificação envolvidas em fazer seu aplicativo responder a eventos através do acionamento de funções são chamadas **Tratamento de Eventos**. \n\nNo Laboratório de Aplicativos todo o tratamento de eventos começa através da adicção de um bloco de código especial chamado `onEvent`. Aqui está a forma de fazer isso:\n\n<br><br>\n\n<div style=\"column-count: 4; column-gap: 20px; column-rule: 0.5px solid #00adbc; -moz-column-count: 4; width: 100%\">\n\n<p><span style=\"font-weight: bold; color: #00adbc; font-size: 200%;\">1.</span>\nAtive o Modo de Desenho</p>\n\n<p><span style=\"font-weight: bold; color: #00adbc; font-size: 200%;\">2.</span>\nArraste um bloco <code>onEvent</code> da caixa de ferramentas para a área de trabalho.</p>\n\n<p><span style=\"font-weight: bold; color: #00adbc; font-size: 200%;\">3.</span>\nUse o menu de contexto para selecionar o <em>ID</em> do elemento da UI que você quer configurar para responder a algum evento. Os IDs de todos os elementos da UI adicionados em modo de desenho serão listados aqui.</p>\n<p><span style=\"font-weight: bold; color: #00adbc; font-size: 200%;\">4.</span>\nUse o menu de contexto para selecionar o <em>tipo</em> de evento a que você quer responder. (Use somente \"click\" por enquanto).</p>\n\n<p><span style=\"font-weight: bold; color: #00adbc; font-size: 200%;\">5.</span>\nAdicione código dentro da função que você quer executar <em>quando</em> o usuário aciona o evento. A função irá executar uma vez a cada vez que o usuário ativa o evento específico.</p>\n\n</div>\n\n![](https://images.code.org/9b506faaaadf61338dc738a4eafb66b2-image-1476740205599.png)\n\n### Alterando Telas com um \"Clique\"\n\nEm programação orientada a eventos, é importante entender que:\n\n* **Usuários acionam eventos** - Eventos ocorrem quando os usuários clicam um botão, tocam a tela, movem o mouse, digitam uma tecla no teclado, etc.\n* **Eventos acionam código** - Quanto um evento ocorre ou \"é ativado\" ele pode ser usado para acionar uma função javascript específica.\n\nO bloco `onEvent` do Laboratório de Aplicativos é um tipo de função para tratamento de eventos chamada **Ouvidor de Eventos**. Ele contém toda a configuração necessária para tratar eventos em um único comando, que possui várias partes. Aqui está um exemplo com anotações completas:\n\n<img src=\"//curriculum.code.org/images/applab/onEvent_diagram.png\" style=\"display: block; margin: 20px auto\">\n\n<div style=\"column-count: 3; column-gap: 20px; column-rule: 0.5px solid #00adbc; -moz-column-count: 3; width: 100%\">\n\n<p><span style=\"font-weight: bold; color: #00adbc; font-size: 200%;\">1.</span>\nCódigo para executar quando a função callback é acionada quando o usuário clica em <em>botão1</em>. Neste caso, simplesmente mova a tartaruga para a frente em 27 pixels. O código para tratamento de eventos terá tipicamente mais que uma linha. Isto é somente um exemplo simples para começar.</p>\n\n<p><span style=\"font-weight: bold; color: #00adbc; font-size: 200%;\">2.</span>\nNote que esta função, diferentemente de outras que vimos, não tem um nome. Ela é também chamada de <em>função callback</em> que é um termo estranho. O que faz uma função callback ser diferente de uma função comum é que você não chama ela diretamente do seu código. Ao invés disso, a função callback é <strong>chamada pelo sistema</strong> ao mesmo tempo em que um evento específico ocorre. Funções callback são um padrão comum em programação orientada a eventos.</p>\n</div>\n\n\n### Você irá experimentar isto em seguida!\n\n"
         },
@@ -3327,10 +3385,16 @@
         "SimonSays-Unplugged": {
           "markdown": "# Simão Diz\n\nJogue um jogo e pense sobre quais comandos são necessários para obter o resultado certo.\n"
         },
+        "SimonSays-Unplugged_2020": {
+          "markdown": "# Simão Diz\n\nJogue um jogo e pense sobre quais comandos são necessários para obter o resultado certo.\n"
+        },
         "Social Sleuth_2018_2019": {
           "markdown": "# Investigação Social\n\nVocê vai precisar da <a href=\"https://docs.google.com/document/d/1A9q31rwrBA7tZZcZ3KZqjMb30UncM-eycwMvYgj9os4/edit#\">Planilha de investigação social</a> para completar essa atividade.\n\n## Perfis\n\nClique na foto de cada perfil para abrir-lo.\n\n### FaceSpace\n\n| FaceSpace: Lizzie Dell  |  FaceSpace: John T | FaceSpace: Haley G.  |\n| ---------  | ------ |  ------ |\n| <a href=\"https://codeprojects.org/F-S5X0IfPmaq09YxGCbOFt3yo4N4PibaA1FBsc4iSdU/\" target=\"_blank\">  <img src=\"https://images.code.org/178adb09adb079a9cf8f465453f9da34-image-1480624941354.42.11 PM.png\" style=\"width:400px\"> </a> | <a href=\"https://codeprojects.org/6qyeEpRZRNkkrkkEduW8G_VO0Y-W2Z6B2Xn5pbLsUpw/\" target=\"_blank\"><img src=\"https://images.code.org/5d141433497fc107a60f0c2e3c63cca8-image-1480624947223.41.59 PM.png\" style=\"width:400px\"></a>  |<a href=\"https://codeprojects.org/7vPoGl6YA2bop1bPaIwpYX4_ubrkEBBFau_8s3JGMoo/\" target=\"_blank\">  <img src=\"https://images.code.org/ced7e2ae3c4fc17b6e278de8339e9498-image-1480626229324.02.56 PM.png\" style=\"width:400px\"> </a> |\n\n\n### Chirpr\n\n| Chirpr: @johnsnow  |  Chirpr:@flyinghail | Chirpr: @lillizard |\n| ---------  | ------ |  ------ |\n| <a href=\"https://codeprojects.org/F-CPrGMcIPZF27RUX8Z_0Qb4KFSCvlU96VSWV7IBD98/\" target=\"_blank\">  <img src=\"https://images.code.org/3a5e7e1136382288f1122354cf494783-image-1480625415782.49.59 PM.png\" style=\"width:400px\"> </a> | <a href=\"https://codeprojects.org/Kff1I24rG71I-TnC--Uw5hTqZUAWO3iTzzHRHQ3h90U/\" target=\"_blank\">  <img src=\"https://images.code.org/c4ae8d208cfd5cb211d74f1ca4259210-image-1480627944701.31.37 PM.png\" style=\"width:400px\"> </a> |<a href=\"https://codeprojects.org/c4e3JuM-nCcmYF4XbbxpJ4pX51wyClVZCDYr6HiMyHg/\" target=\"_blank\">  <img src=\"https://images.code.org/42fc1b77b07fbcb4d143a32f1208296f-image-1493301869142.03.52 AM.png\" style=\"width:400px\"> </a> |\n\n\n### instantframe\n\n| instantframe: johnsnow  | instantframe: @photolizzie | instantframe:@desertrider |\n| ---------  | ------ |  ------ |\n| <a href=\"https://codeprojects.org/5Zw4FvstrOYxANYH2HFbV_mVuY-QWfrsdgga9S3DGxs/\" target=\"_blank\">  <img src=\"https://images.code.org/290cb1409343d57ab5ab9be93085004d-image-1480625573589.51.31 PM.png\" style=\"width:400px\"> </a> | <a href=\"https://codeprojects.org/JXB8ULbAJJHzC-hHoiiZFxZBT4S32HwF0krGoXSzdE8/\" target=\"_blank\">  <img src=\"https://images.code.org/8e7de383b0747275a075ed9839a118d0-image-1480625641547.53.30 PM.png\" style=\"width:400px\"> </a> |<a href=\"https://codeprojects.org/xnZk6nZxi0FKMVkwKrsQjvbGWDIwqBW9zDmuCCseMpc/\" target=\"_blank\">  <img src=\"https://images.code.org/c52c51816ce248336a86e3e7f6ec2209-image-1480626143808.01.54 PM.png\" style=\"width:400px\"> </a> |\n\n"
         },
         "Songwriting-Unplugged": {
+          "markdown": "# Composição Musical\n\nUse o conceito do refrão em uma música para aprender sobre definição e chamada de funções.\n"
+        },
+        "Songwriting-Unplugged_2020": {
           "markdown": "# Composição Musical\n\nUse o conceito do refrão em uma música para aprender sobre definição e chamada de funções.\n"
         },
         "Technique: Frequency Analysis": {
@@ -3344,6 +3408,9 @@
         "TheRightAppMarkdownLevel_2019": {
           "markdown": "# O App Certo\n\n* Todo mundo usa computadores hoje em dia, especialmente smartphones.\n* Aplicativos para smartphone ajudam as pessoas a fazerem coisas como conversar com amigos, ouvir música, fazer compras, ou somente explorar a web.\n* É importante que os programadores entendam as necessidades dos outros e criem aplicativos com isso em mente!\n\n![](https://images.code.org/fb17eeb9238d2f26c6ab40c9841517a7-image-1555611687284.png)\n"
         },
+        "TheRightAppMarkdownLevel_2019_2020": {
+          "markdown": "# O App Certo\n\n* Todo mundo usa computadores hoje em dia, especialmente smartphones.\n* Aplicativos para smartphone ajudam as pessoas a fazerem coisas como conversar com amigos, ouvir música, fazer compras, ou somente explorar a web.\n* É importante que os programadores entendam as necessidades dos outros e criem aplicativos com isso em mente!\n\n![](https://images.code.org/fb17eeb9238d2f26c6ab40c9841517a7-image-1555611687284.png)\n"
+        },
         "Unit 1 Lesson 2 Overview": {
           "markdown": "# Visão Geral\n\nNesta lição, você aprenderá um processo formal de solução de problemas que ajudará você a estruturar uma abordagem para vários problemas.\n\n\n## Recursos\n\n* [O Processo de Solução de Problemas - Guia de Atividade](https://docs.google.com/document/d/1xEPMYIDy70fWCgyLymBNmxkE-6uJ7BYOXSmV8Vyt-SQ/export?format=pdf)\n"
         },
@@ -3354,8 +3421,7 @@
           "markdown": "# Visão Geral\nNesta aula, você começará a pensar como computadores ajudam a resolver certos tipos de problemas e aprenderá as características principais de cada computador.\n\n## Recursos\n\n* [O que é um Computador - Guia de Atividade](https://docs.google.com/document/d/1g4dPcsx2xADEZI0FiMYApLr0hh3_-89NDWd2y86sS6I/export?format=pdf)\n"
         },
         "Unit 1 Lesson 6 Overview": {
-          "markdown": "# Solução de problemas - Computadores e lógica: Lição 6 - Processando com bits\n\n## Fundo\n\nNesta lição, você aprenderá como os computadores processam informações binárias ao projetar filtros no nível de bit de imagens simples.\n\n# Recursos\n\n* [Filtragem de pixels] (https://docs.google.com/document/d/1R92qKHBC8Bz3P3YXVSziyfpijJ0gMYob2j5RncWdWsA/edit?usp=sharing) - Guia de atividades ([PDF] (https://docs.google.com/document/d/1R92qKHBC8Bz3P3YXVSziyfpijJ0gMYob2j5RncWdWsA/export?format=pdf) | [DOCX] (https://docs.google.com/document/d/1R92qKHBC8Bz3P3YXVSziyfpijJ0gMYob2j5RncWdWsA/export?format=doc))\n",
-          "teacher_markdown": "* [Pixel Filtering](https://drive.google.com/open?id=1D3VELqNLAyrPeDl3o-PWxOPV8VD9bwdhoMIH0E9fLM8) - Soluções"
+          "markdown": "# Solução de problemas - Computadores e lógica: Lição 6 - Processando com bits\n\n## Fundo\n\nNesta lição, você aprenderá como os computadores processam informações binárias ao projetar filtros no nível de bit de imagens simples.\n\n# Recursos\n\n* [Filtragem de pixels] (https://docs.google.com/document/d/1R92qKHBC8Bz3P3YXVSziyfpijJ0gMYob2j5RncWdWsA/edit?usp=sharing) - Guia de atividades ([PDF] (https://docs.google.com/document/d/1R92qKHBC8Bz3P3YXVSziyfpijJ0gMYob2j5RncWdWsA/export?format=pdf) | [DOCX] (https://docs.google.com/document/d/1R92qKHBC8Bz3P3YXVSziyfpijJ0gMYob2j5RncWdWsA/export?format=doc))\n"
         },
         "Unit 2 Lesson 10 Overview": {
           "markdown": "# Visão global\n\nEsta lição aborda classes CSS e cores personalizadas. Os alunos primeiro aprendem a especificar cores personalizadas usando valores RGB (vermelho, verde, azul) e depois aplicam essas cores a uma nova página da web do Four Seasons, que usa aulas de CSS. Nas aulas, os alunos adicionam mais estilos à página da web do Four Seasons e os usam para estilizar seus sites pessoais.\n## Vocabulário\n\n* ** Classe HTML ** - Permite definir estilos iguais para elementos, dando a todos o mesmo nome de classe.\n\n## Código Introduzido\n\n* [Cor RGB] (// docs.code.org/weblab/rgb-color/)\n\n## Recursos\n\n* [Cores RGB - Guia de atividades] (https://docs.google.com/document/d/1zTamyJ71sVJ2JM2A2meX6kwPu4FS82KA_TJEliTPIFo/export?format=pdf)\n"
@@ -3395,7 +3461,59 @@
             }
           ]
         },
+        "behaviors 1 predict_2020": {
+          "answers": [
+            {
+              "text": "O sprite girará",
+              "feedback": "Incorreto."
+            },
+            {
+              "text": "O sprite irá encolher.",
+              "correct": true,
+              "feedback": "Correto!"
+            },
+            {
+              "text": "O sprite se moverá.",
+              "feedback": "Incorreto."
+            },
+            {
+              "text": "O sprit mudará as cores.",
+              "feedback": "Incorreto"
+            }
+          ],
+          "questions": [
+            {
+              "text": "Clique em \"editar\" para ver como o 'comportamento misterioso' funciona. Estude o código e então faça uma predição."
+            }
+          ]
+        },
         "behaviors 4 predict": {
+          "answers": [
+            {
+              "text": "À esquerda e para baixo",
+              "feedback": "Incorreto."
+            },
+            {
+              "text": "Na diagonal",
+              "correct": true,
+              "feedback": "Correto!"
+            },
+            {
+              "text": "Zigzag",
+              "feedback": "Incorreto. "
+            },
+            {
+              "text": "Abaixo e à esquerda",
+              "feedback": "Incorreto"
+            }
+          ],
+          "questions": [
+            {
+              "text": "Tente adivinhar! Por qual caminho o satélite irá se mover em direção ao sistema solar?"
+            }
+          ]
+        },
+        "behaviors 4 predict_2020": {
           "answers": [
             {
               "text": "À esquerda e para baixo",
@@ -3499,6 +3617,32 @@
             }
           ]
         },
+        "courseC_multi_artist_prog6_predict1_2018_2019_2020": {
+          "answers": [
+            {
+              "text": "O artista desenhará um triângulo com três lados iguais.",
+              "feedback": "Incorreto. O artista desenha um quadrado."
+            },
+            {
+              "text": "O artista desenhará uma única linha.",
+              "feedback": "Incorreto. O artista desenha um quadrado."
+            },
+            {
+              "text": "O artista desenhará um quadrado.",
+              "correct": true,
+              "feedback": "Correto!"
+            },
+            {
+              "text": "Eu não sei.",
+              "feedback": "O artista desenha um quadrado."
+            }
+          ],
+          "questions": [
+            {
+              "text": "Olhe cuidadosamente para o código abaixo. O que acontecerá quando você clicar em \"Executar\"?"
+            }
+          ]
+        },
         "courseC_multi_harvester_loops11_predict1": {
           "answers": [
             {
@@ -3552,6 +3696,32 @@
           ]
         },
         "courseC_multi_harvester_loops11_predict1_2018_2019": {
+          "answers": [
+            {
+              "text": "4",
+              "feedback": "Incorreto. O fazendeiro irá coletar 4 abóboras em cada um dos três laços de repetição. 4 vezes 3 é 12!"
+            },
+            {
+              "text": "12",
+              "correct": true,
+              "feedback": "Correto!"
+            },
+            {
+              "text": "15",
+              "feedback": "Incorreto. O fazendeiro irá coletar 4 abóboras em cada um dos três laços de repetição. 4 vezes 3 é 12!"
+            },
+            {
+              "text": "Eu não sei.",
+              "feedback": "O fazendeiro irá coletar 4 abóboras em cada um dos 3 laços de repetição. 4 vezes 3 é 12!"
+            }
+          ],
+          "questions": [
+            {
+              "text": "Olhe atentamente para o código abaixo. Quantas abóboras o fazendeiro irá coletar após você apertar o \"Executar\"?"
+            }
+          ]
+        },
+        "courseC_multi_harvester_loops11_predict1_2018_2019_2020": {
           "answers": [
             {
               "text": "4",
@@ -3655,6 +3825,32 @@
             }
           ]
         },
+        "courseC_multi_maze_debugging8_predict1_2018_2019_2020": {
+          "answers": [
+            {
+              "text": "O programa não falhará. Scrat vai chegar à bolota.",
+              "feedback": "Incorreto. Scrat irá para o caminho errado após sua última volta."
+            },
+            {
+              "text": "Scrat irá para o caminho errado depois da sua última volta.",
+              "correct": true,
+              "feedback": "Correto!"
+            },
+            {
+              "text": "Scrat dá poucos passos e acaba com a bolota.",
+              "feedback": "Incorreta. Dar apenas alguns passos acontece depois que Scrat vira na direção errada."
+            },
+            {
+              "text": "Eu não sei.",
+              "feedback": "O primeiro erro é que o Scrat segue o caminho errado após a sua volta final. "
+            }
+          ],
+          "questions": [
+            {
+              "text": "Olhe atentamente para o código abaixo. Qual é o primeiro bug que irá fazer o programa falhar? "
+            }
+          ]
+        },
         "courseC_multi_maze_programming8_predict1": {
           "answers": [
             {
@@ -3708,6 +3904,32 @@
           ]
         },
         "courseC_multi_maze_programming8_predict1_2018_2019": {
+          "answers": [
+            {
+              "text": "O pássaro vai acabar um passo antes do porco.",
+              "feedback": "Incorreto. Este código leva o pássaro perfeitamente ao porco."
+            },
+            {
+              "text": "O pássaro chegará até o porco.",
+              "correct": true,
+              "feedback": "Correto!"
+            },
+            {
+              "text": "O pássaro vai correr para o TNT.",
+              "feedback": "Incorreto. Este código leva o pássaro perfeitamente ao porco."
+            },
+            {
+              "text": "Eu não sei.",
+              "feedback": "Este código leva o pássaro perfeitamente ao porco."
+            }
+          ],
+          "questions": [
+            {
+              "text": "Leia o código abaixo com muito cuidado. O que acontecerá quando você clicar em \"Executar\"?"
+            }
+          ]
+        },
+        "courseC_multi_maze_programming8_predict1_2018_2019_2020": {
           "answers": [
             {
               "text": "O pássaro vai acabar um passo antes do porco.",
@@ -3811,6 +4033,32 @@
             }
           ]
         },
+        "courseC_multi_starWars_predict1_2018_2019_2020": {
+          "answers": [
+            {
+              "text": "BB-8 não irá se mover.",
+              "feedback": "Incorreto. O bloco repetir irá mover BB-8 para frente 5 vezes."
+            },
+            {
+              "text": "BB-8 irá se mover apenas um espaço",
+              "feedback": "Incorreto. O bloco repetir irá mover BB-8 para frente 5 vezes."
+            },
+            {
+              "text": "BB-8 irá se mover 5 vezes e pegará toda a sucata",
+              "correct": true,
+              "feedback": "Correto!"
+            },
+            {
+              "text": "Eu não sei",
+              "feedback": "O bloco repetir irá mover BB-8 parar frente 5 vezes."
+            }
+          ],
+          "questions": [
+            {
+              "text": "O que acha que vai acontecer quando você clicar em \"Executar\"?"
+            }
+          ]
+        },
         "courseC_multi_starWars_predict2": {
           "answers": [
             {
@@ -3889,6 +4137,32 @@
             }
           ]
         },
+        "courseC_multi_starWars_predict2_2018_2019_2020": {
+          "answers": [
+            {
+              "text": "BB-8 irá muito longe no primeiro laço.",
+              "feedback": "Incorreto. O primeiro loop só permite que o BB-8 avance 2 espaços, quando precisa avançar 3 espaços."
+            },
+            {
+              "text": "O BB-8 não viajará o suficiente no primeiro laço para pegar toda a sucata.",
+              "correct": true,
+              "feedback": "Correto!"
+            },
+            {
+              "text": "BB-8 irá coletar todos os pedaços de metal sem nenhum problema.",
+              "feedback": "Incorreto. O primeiro loop só permite que o BB-8 avance 2 espaços, quando precisa avançar 3 espaços."
+            },
+            {
+              "text": "Eu não sei.",
+              "feedback": "O primeiro laço só permite que o BB-8 avance 2 espaços, quando na realidade precisa avançar 3 espaços."
+            }
+          ],
+          "questions": [
+            {
+              "text": "Observe atentamente o código abaixo. O que acontecerá quando você clicar em \"Executar\"?"
+            }
+          ]
+        },
         "courseD_external_binary1": {
           "markdown": "<h1>Desenhe com Binário</h1>\n \n<h3>Binário é uma forma de representar informação usando somente duas opções. Neste caso, <b>desligado</b> e <b>ligado</b>.\n<br/>\nAqui, nós iremos usar o número <b>0</b> como código para \"desligado\" e o número <b>1</b> como código para \"ligado\".\n<br/>\n<table>\n<tr><td><img src=\"https://images.code.org/50283881d577c17ac6f1d1648d8f361f-image-1483640342574.09.14.png\" width=\"75px\"/></td><td><img src=\"https://images.code.org/ba6f0a000b18f2dd87160e6255e8a71c-image-1483640355103.09.24.png\" width=\"90px\"/></td></tr>\n<tr padding=\"0px\"><td align=\"center\"><b>0</b></td><td align=\"center\"><b>1</b></td></tr>\n</table><img src=\"https://images.code.org/934883837aa59bca1d5c1ded0e0ac675-image-1483640120036.51.06.png\" float=\"left\"/><h3>Nesta etapa, nós fornecemos a você uma grade com \"pixels\" que você pode percorrer e fazer desenhos ligando quadrados específicos!</h3>\n\n![](https://images.code.org/c53e00cde9acbae72d02fb9cc2a20e53-image-1483639858942.png)\n\n\n"
         },
@@ -3896,6 +4170,9 @@
           "markdown": "<h1>Desenhe com Binário</h1>\n \n<h3>Binário é uma forma de representar informação usando somente duas opções. Neste caso, <b>desligado</b> e <b>ligado</b>.\n<br/>\nAqui, nós iremos usar o número <b>0</b> como código para \"desligado\" e o número <b>1</b> como código para \"ligado\".\n<br/>\n<table>\n<tr><td><img src=\"https://images.code.org/50283881d577c17ac6f1d1648d8f361f-image-1483640342574.09.14.png\" width=\"75px\"/></td><td><img src=\"https://images.code.org/ba6f0a000b18f2dd87160e6255e8a71c-image-1483640355103.09.24.png\" width=\"90px\"/></td></tr>\n<tr padding=\"0px\"><td align=\"center\"><b>0</b></td><td align=\"center\"><b>1</b></td></tr>\n</table><img src=\"https://images.code.org/934883837aa59bca1d5c1ded0e0ac675-image-1483640120036.51.06.png\" float=\"left\"/><h3>Nesta etapa, nós fornecemos a você uma grade com \"pixels\" que você pode percorrer e fazer desenhos ligando quadrados específicos!</h3>\n\n![](https://images.code.org/c53e00cde9acbae72d02fb9cc2a20e53-image-1483639858942.png)\n\n\n"
         },
         "courseD_external_binary1_2018_2019": {
+          "markdown": "<h1>Desenhe com Binário</h1>\n \n<h3>Binário é uma forma de representar informação usando somente duas opções. Neste caso, <b>desligado</b> e <b>ligado</b>.\n<br/>\nAqui, nós iremos usar o número <b>0</b> como código para \"desligado\" e o número <b>1</b> como código para \"ligado\".\n<br/>\n<table>\n<tr><td><img src=\"https://images.code.org/50283881d577c17ac6f1d1648d8f361f-image-1483640342574.09.14.png\" width=\"75px\"/></td><td><img src=\"https://images.code.org/ba6f0a000b18f2dd87160e6255e8a71c-image-1483640355103.09.24.png\" width=\"90px\"/></td></tr>\n<tr padding=\"0px\"><td align=\"center\"><b>0</b></td><td align=\"center\"><b>1</b></td></tr>\n</table><img src=\"https://images.code.org/934883837aa59bca1d5c1ded0e0ac675-image-1483640120036.51.06.png\" float=\"left\"/><h3>Nesta etapa, nós fornecemos a você uma grade com \"pixels\" que você pode percorrer e fazer desenhos ligando quadrados específicos!</h3>\n\n![](https://images.code.org/c53e00cde9acbae72d02fb9cc2a20e53-image-1483639858942.png)\n\n\n"
+        },
+        "courseD_external_binary1_2018_2019_2020": {
           "markdown": "<h1>Desenhe com Binário</h1>\n \n<h3>Binário é uma forma de representar informação usando somente duas opções. Neste caso, <b>desligado</b> e <b>ligado</b>.\n<br/>\nAqui, nós iremos usar o número <b>0</b> como código para \"desligado\" e o número <b>1</b> como código para \"ligado\".\n<br/>\n<table>\n<tr><td><img src=\"https://images.code.org/50283881d577c17ac6f1d1648d8f361f-image-1483640342574.09.14.png\" width=\"75px\"/></td><td><img src=\"https://images.code.org/ba6f0a000b18f2dd87160e6255e8a71c-image-1483640355103.09.24.png\" width=\"90px\"/></td></tr>\n<tr padding=\"0px\"><td align=\"center\"><b>0</b></td><td align=\"center\"><b>1</b></td></tr>\n</table><img src=\"https://images.code.org/934883837aa59bca1d5c1ded0e0ac675-image-1483640120036.51.06.png\" float=\"left\"/><h3>Nesta etapa, nós fornecemos a você uma grade com \"pixels\" que você pode percorrer e fazer desenhos ligando quadrados específicos!</h3>\n\n![](https://images.code.org/c53e00cde9acbae72d02fb9cc2a20e53-image-1483639858942.png)\n\n\n"
         },
         "courseD_multi_artist_binary8_predict1": {
@@ -3953,6 +4230,33 @@
           ]
         },
         "courseD_multi_artist_binary8_predict1_2018_2019": {
+          "answers": [
+            {
+              "text": "A",
+              "feedback": "Incorreto."
+            },
+            {
+              "text": "B",
+              "feedback": "Incorreto."
+            },
+            {
+              "text": "C",
+              "feedback": "Incorreto."
+            },
+            {
+              "text": "D",
+              "correct": true,
+              "feedback": "Correto!"
+            }
+          ],
+          "markdown": "<table>\n<tr>\n\n<td style=\"padding: 0 30px 0 0;\"> <b>A)</b> <img src=\"https://images.code.org/ca3e26e5b3008075d06db82c2831ab0b-image-1489438562132.43.39a.png\" width=\"100px\"/></td>\n\n<td style=\"padding: 0 20px 0 0;\"> <b>B)</b> <img src=\"https://images.code.org/6da194be0b14a041291648c12a307495-image-1489438503416.43.39.png\" width=\"100px\"/></td>\n\n<td style=\"padding: 0 20px 0 0;\"> <b>C)</b> <img src=\"https://images.code.org/dfaa00e3a6260742671d1ac4455fb5d5-image-1489438562133.43.39b.png\" width=\"100px\"/></td>\n\n\n<td style=\"padding: 0 20px 0 0;\"> <b>D)</b> <img src=\"https://images.code.org/7fc63ed5875b9f9785d0e88aec6eae47-image-1489439110649.43.39d.png\" width=\"100px\"/></td>\n</tr></table>\n<br/>\n\n",
+          "questions": [
+            {
+              "text": "Olhe com atenção o código abaixo. Qual imagem será criada quando você clicar em \"Executar\"?"
+            }
+          ]
+        },
+        "courseD_multi_artist_binary8_predict1_2018_2019_2020": {
           "answers": [
             {
               "text": "A",
@@ -4060,6 +4364,33 @@
             }
           ]
         },
+        "courseD_multi_artist_nestedLoops9_predict1_2018_2019_2020": {
+          "answers": [
+            {
+              "text": "A",
+              "correct": true,
+              "feedback": "Correto!"
+            },
+            {
+              "text": "B",
+              "feedback": "Incorreta. O laço interno faz um pentágono, e o laço externo o repete 4 vezes em um círculo."
+            },
+            {
+              "text": "C",
+              "feedback": "Incorreta. O laço interno faz um pentágono, e o laço externo o repete 4 vezes em um círculo."
+            },
+            {
+              "text": "Eu não sei.",
+              "feedback": "O laço interno faz um pentágono, e o laço externo o repete 4 vezes em um círculo."
+            }
+          ],
+          "markdown": "<table>\n<tr><td>A</td><td><img src=\"https://images.code.org/cfc3f8206438a60afe3be9afe7fc0a22-image-1489118742610.10.15.png\" width=\"100px\" style=\"mix-blend-mode: multiply;\"/></td><td>&nbsp;&nbsp;&nbsp;&nbsp;</td><td>B</td><td><img src=\"https://images.code.org/975b027684d2f5411b960bf82987663e-image-1489119999013.11.13.png\" width=\"100px\" style=\"mix-blend-mode: multiply;\"/></td><td>&nbsp;&nbsp;&nbsp;&nbsp;</td><td>C</td><td><img src=\"https://images.code.org/635ac54ed7cb2e2d24eb341b3ec4eecb-image-1489120024059.12.00.png\" width=\"80px\" style=\"mix-blend-mode: multiply; clip: rect(0px,0px,0px,40px);\"/></td></tr>\n</table>\n\n<br/><br/>\n\n",
+          "questions": [
+            {
+              "text": "Olhe com atenção o código abaixo. Qual desenho será feito quando você clicar em \"Executar\"?"
+            }
+          ]
+        },
         "courseD_multi_bee_conditionals1_predict1": {
           "answers": [
             {
@@ -4113,6 +4444,32 @@
           ]
         },
         "courseD_multi_bee_conditionals1_predict1_2018_2019": {
+          "answers": [
+            {
+              "text": "A abelha se moverá para a nuvem e tentará obter o néctar, não importa o que aconteça. ",
+              "feedback": "Incorreto. O bloco 'se na flor' assegura que a abelha só tentará obter néctar se houver uma flor embaixo da nuvem."
+            },
+            {
+              "text": "A abelha se moverá para a nuvem e só tentará obter o néctar se houver uma flor por baixo.",
+              "correct": true,
+              "feedback": "Correto!"
+            },
+            {
+              "text": "A abelha se moverá para a nuvem e não fará nada, não importa o quê. ",
+              "feedback": "Incorreta. O bloco 'if na flor' assegura que a abelha tentará obter néctar se houver uma flor embaixo da nuvem."
+            },
+            {
+              "text": "Eu não sei.",
+              "feedback": "O bloco 'if na flor' assegura que a abelha só tentará obter néctar se houver uma flor embaixo da nuvem."
+            }
+          ],
+          "questions": [
+            {
+              "text": "A nuvem está bloqueando a vista. Poderia haver uma flor sob esta nuvem. Se houver uma flor, a abelha precisará coletar néctar uma vez. Se não houver uma flor, a abelha não deve fazer nada. Dê uma boa olhada no código abaixo. O que você acha que acontecerá depois que você clicar em \"Executar\"?"
+            }
+          ]
+        },
+        "courseD_multi_bee_conditionals1_predict1_2018_2019_2020": {
           "answers": [
             {
               "text": "A abelha se moverá para a nuvem e tentará obter o néctar, não importa o que aconteça. ",
@@ -4238,6 +4595,28 @@
             }
           ]
         },
+        "courseD_multi_bee_conditionals7_predict2_2018_2019_2020": {
+          "answers": [
+            {
+              "correct": true,
+              "feedback": "Correto!"
+            },
+            {
+              "text": "A abelha tentará obter o néctar das flores e do favo de mel."
+            },
+            {
+              "text": "A abelha tentará obter mel de ambas as flores e do favo de mel."
+            },
+            {
+              "text": "Eu não sei."
+            }
+          ],
+          "questions": [
+            {
+              "text": "Observe atentamente o código abaixo. O que você acha que acontecerá depois que você clicar em \"Executar\"? Lembre-se: sempre haverá *um* favo de mel ou *uma* flor atrás de cada nuvem."
+            }
+          ]
+        },
         "courseD_multi_bee_nestedLoops2_predict1": {
           "answers": [
             {
@@ -4316,6 +4695,32 @@
             }
           ]
         },
+        "courseD_multi_bee_nestedLoops2_predict1_2018_2019_2020": {
+          "answers": [
+            {
+              "text": "A abelha avançará e obterá néctar apenas uma vez.",
+              "feedback": "Incorreto. A abelha faz o laço da ação em laço de avançar e coletar o néctar, permitindo que ele resolva o quebra-cabeça."
+            },
+            {
+              "text": "A abelha receberá apenas 2 unidades de néctar.",
+              "feedback": "Incorreto. A abelha faz o laço da ação em laço de avançar e coletar o néctar, permitindo que ele resolva o quebra-cabeça."
+            },
+            {
+              "text": "A abelha coletará todo o nectar.",
+              "correct": true,
+              "feedback": "Correto!"
+            },
+            {
+              "text": "Eu não sei.",
+              "feedback": "A abelha faz o laço da ação durante o laço de avançar e coletar o néctar, permitindo que o quebra-cabeça seja resolvido."
+            }
+          ],
+          "questions": [
+            {
+              "text": "Olhe atentamente para os laços aninhados abaixo. O que acontecerá quando você clicar em \"Executar\"?"
+            }
+          ]
+        },
         "courseD_multi_bee_nestedLoops9_predict2": {
           "answers": [
             {
@@ -4369,6 +4774,32 @@
           ]
         },
         "courseD_multi_bee_nestedLoops9_predict2_2018_2019": {
+          "answers": [
+            {
+              "text": "4",
+              "feedback": "Incorreta. A abelha recolhe 2 néctar em um laço de repetição avançando, depois 2 néctar em um loop para baixo. Isso tudo ocorre dentro de outro laço de repetição que acontece duas vezes. 4 vezes 2 é 8!"
+            },
+            {
+              "text": "8",
+              "correct": true,
+              "feedback": "Correto!"
+            },
+            {
+              "text": "12",
+              "feedback": "Incorreta. A abelha recolhe 2 néctar em um laço de repetição avançando, depois 2 néctar em um loop para baixo. Isso tudo ocorre dentro de outro laço de repetição que acontece duas vezes. 4 vezes 2 é 8!"
+            },
+            {
+              "text": "Eu não sei.",
+              "feedback": "A abelha recolhe 2 néctar em um laço de repetição avançando, depois 2 néctar em um laço de repetição para baixo. Isso tudo ocorre dentro de outro laço de repetição que acontece duas vezes. 4 vezes 2 é 8!"
+            }
+          ],
+          "questions": [
+            {
+              "text": "Observe atentamente o código abaixo. Quanto mel a abelha fará quando clicar em \"Executar\"?"
+            }
+          ]
+        },
+        "courseD_multi_bee_nestedLoops9_predict2_2018_2019_2020": {
           "answers": [
             {
               "text": "4",
@@ -4501,6 +4932,33 @@
             }
           ]
         },
+        "courseD_multi_farmer_condLoops9_predict1_2018_2019_2020": {
+          "answers": [
+            {
+              "text": "A colheitadeira recolherá todas as colheitas.",
+              "feedback": "Incorreto. Não há código aqui para pegar a abóbora."
+            },
+            {
+              "text": "A colheitadeira não pegará nenhuma das colheitas com o caminho que ela está tomando.",
+              "feedback": "Incorreto. O código fará com que a agricultora faça repetidamente um padrão de degrau e colha o máximo possível de alface e milho que ela encontrar no caminho. Ela não irá colher a abóbora."
+            },
+            {
+              "text": "A colheitadeira pegará todas as colheitas, exceto a abóbora.",
+              "correct": true,
+              "feedback": "Correto!"
+            },
+            {
+              "text": "Eu não sei.",
+              "feedback": "O código fará com que a agricultora faça repetidamente um padrão de degrau e colha o máximo possível de alface e milho que ela encontrar no caminho. Ela não irá colher a abóbora."
+            }
+          ],
+          "markdown": "Os brotos deste desafio serão milho ou alface.\n<br/>\n",
+          "questions": [
+            {
+              "text": "Observe atentamente o código abaixo. O que acontecerá depois que você clicar em \"Executar\"?"
+            }
+          ]
+        },
         "courseD_multi_farmer_ramp13": {
           "answers": [
             {
@@ -4605,6 +5063,32 @@
             }
           ]
         },
+        "courseD_multi_farmer_while10_predict2_2018_2019_2020": {
+          "answers": [
+            {
+              "text": "Nada. Este código deixará apenas no nível do solo.",
+              "feedback": "Incorreto. Não há código para remover a sujeira da pilha."
+            },
+            {
+              "text": "Este código deixará a pilha completamente intocada.",
+              "correct": true,
+              "feedback": "Correto!"
+            },
+            {
+              "text": "Este código deixará os buracos completamente intocados.",
+              "feedback": "Incorreto. O laço `enquanto` irá lidar com qualquer laço, mas não há código para remover a sujeira da pilha."
+            },
+            {
+              "text": "Eu não sei.",
+              "feedback": "O laço `enquanto` irá lidar com qualquer laço, mas não há código para remover a sujeira da pilha."
+            }
+          ],
+          "questions": [
+            {
+              "text": "Dê uma boa olhada no código abaixo. O que será deixado no final deste enigma?"
+            }
+          ]
+        },
         "courseD_multi_farmer_while4_predict1": {
           "answers": [
             {
@@ -4658,6 +5142,32 @@
           ]
         },
         "courseD_multi_farmer_while4_predict1_2018_2019": {
+          "answers": [
+            {
+              "text": "Nada acontecerá.",
+              "feedback": "Incorreto. O fazendeiro removerá a sujeira contanto que haja uma pilha, depois vai parar quando não houver mais pilha"
+            },
+            {
+              "text": "O agricultor nunca irá parar de remover a sujeira.",
+              "feedback": "Incorreto. O fazendeiro removerá a sujeira contanto que haja uma pilha, depois vai parar quando não houver mais pilha"
+            },
+            {
+              "text": "O fazendeiro removerá a sujeira contanto que haja uma pilha, depois vai parar quando não houver pilha.",
+              "correct": true,
+              "feedback": "Correto!"
+            },
+            {
+              "text": "Eu não sei.",
+              "feedback": "O fazendeiro removerá a sujeira contanto que haja uma pilha, depois vai parar quando não houver pilha."
+            }
+          ],
+          "questions": [
+            {
+              "text": "Observe atentamente o código abaixo. O que acontecerá depois que você clicar em \"Executar\"?"
+            }
+          ]
+        },
+        "courseD_multi_farmer_while4_predict1_2018_2019_2020": {
           "answers": [
             {
               "text": "Nada acontecerá.",
@@ -4761,6 +5271,32 @@
             }
           ]
         },
+        "courseD_multi_maze_until10_predict2_2018_2019_2020": {
+          "answers": [
+            {
+              "text": "O zombie irá andar no caminho correto e terminará indo e voltando eternamente.",
+              "correct": true,
+              "feedback": "Correto!"
+            },
+            {
+              "text": "O zumbi chegará até o girassol.",
+              "feedback": "Incorreto. O zombie irá andar no caminho correto e terminará indo e voltando eternamente."
+            },
+            {
+              "text": "O zumbi vai virar à direita no primeiro caminho e ficar andando em círculos para sempre.",
+              "feedback": "Incorreto. O zombie irá andar no caminho correto e terminará indo e voltando eternamente."
+            },
+            {
+              "text": "Eu não sei.",
+              "feedback": "Neste código, o zombie irá andar no caminho correto e terminará indo e voltando eternamente."
+            }
+          ],
+          "questions": [
+            {
+              "text": "Observe atentamente o código abaixo. O que acontecerá depois que você clicar em \"Executar\"?"
+            }
+          ]
+        },
         "courseD_multi_maze_until2_predict1": {
           "answers": [
             {
@@ -4839,6 +5375,32 @@
             }
           ]
         },
+        "courseD_multi_maze_until2_predict1_2018_2019_2020": {
+          "answers": [
+            {
+              "text": "O pássaro não se moverá de forma alguma.",
+              "feedback": "Incorreta. O código faz o pássaro avançar enquanto houver um caminho, depois vira à esquerda. Ele continua fazendo isso até atingir o porco!"
+            },
+            {
+              "text": "O pássaro chegará até o porco.",
+              "correct": true,
+              "feedback": "Correto!"
+            },
+            {
+              "text": "O pássaro vai avançar e correr em direção ao TNT.",
+              "feedback": "Incorreta. O código faz o pássaro avançar enquanto houver um caminho seguro, depois vira à esquerda. Continua fazendo isso até atingir o porco!"
+            },
+            {
+              "text": "Eu não sei.",
+              "feedback": "? Incorreto. O código faz a ave avançar enquanto há um caminho e depois virar à esquerda. Isso continua acontecendo até chegar ao porco!."
+            }
+          ],
+          "questions": [
+            {
+              "text": "Olhe mais de perto para o código abaixo. O que você acha que acontecerá quando você clicar em \"Executar\"?"
+            }
+          ]
+        },
         "courseD_multi_scrat_predict1": {
           "answers": [
             {
@@ -4864,6 +5426,9 @@
               "text": "O código faz uso de um novo bloco. O que você acha que irá acontecer quando você clicar em \"Executar\"?"
             }
           ]
+        },
+        "courseD_project_exemplars_2020_2021": {
+          "content1": "Teste a Página da Apostila de Markdown"
         },
         "courseE_multi_bee_functions_predict1": {
           "answers": [
@@ -4969,6 +5534,32 @@
             }
           ]
         },
+        "courseE_multi_farmer_functions11_predict_2018_2019_2020": {
+          "answers": [
+            {
+              "text": "O colheitadora irá pegar duas abóboras.",
+              "feedback": "Incorreto. O colheitadora irá seguir o caminho até o fim, então vira-se e volte até coletar a alface."
+            },
+            {
+              "text": "O harvester vai pegar todas as abóboras.",
+              "feedback": "Incorreto. O colheitadora irá seguir o caminho até o fim, então vira-se e volte até coletar a alface."
+            },
+            {
+              "text": "A colheitadora irá pegar a alface.",
+              "correct": true,
+              "feedback": "Correto!"
+            },
+            {
+              "text": "O colheitadora irá pegar o milho.",
+              "feedback": "Incorreto. O colheitadora irá seguir o caminho até o fim, então vira-se e volte até coletar a alface."
+            }
+          ],
+          "questions": [
+            {
+              "text": "Veja as funções definidas abaixo. O que a colheitadeira escolherá?"
+            }
+          ]
+        },
         "courseE_prediction_artistFunction1": {
           "answers": [
             {
@@ -5047,6 +5638,32 @@
             }
           ]
         },
+        "courseE_prediction_artistFunction1_2018_2019_2020": {
+          "answers": [
+            {
+              "text": "Nada. A função não é chamada neste programa.",
+              "feedback": "Incorreto. Na verdade, a função é chamada duas vezes no programa."
+            },
+            {
+              "text": "O artista desenhará um único quadrado.",
+              "feedback": "Incorreto. Na verdade, a função é chamada duas vezes no programa."
+            },
+            {
+              "text": "O artista irá desenhar dois quadrados que se sobrepõem.",
+              "feedback": "Incorreto. A largura de cada lado do quadrado é apenas 100 pixels, mas o artista faz saltos de 175 pixels entre funções."
+            },
+            {
+              "text": "O artista irá desenhar dois quadrados com um pequeno espaço entre eles.",
+              "correct": true,
+              "feedback": "Correto! A função é chamada duas vezes no programa, com um salto entre elas."
+            }
+          ],
+          "questions": [
+            {
+              "text": "O que irá acontecer quando você pressionar o \"Executar\"?"
+            }
+          ]
+        },
         "courseE_prediction_artistFunction1_copy": {
           "answers": [
             {
@@ -5076,6 +5693,9 @@
         "courseE_project_exemplars_2019": {
           "content1": "Teste a Página da Apostila de Markdown",
           "markdown": "# Exemplos de Projetos\n\nVocê está prestes a iniciar seu último projeto. Antes de começar, gaste algum tempo observando os projetos de exemplo:\n\n## Sprite Lab\n\n| Dança do Monstro (Sprite Lab) | Jogo do Cupcake (Sprite Lab) |\n|---|---|\n| [![Dança do Monstro (Sprite Lab)](https://images.code.org/85838ca11b728dce3e1513515c4510e3-image-1556826303297.png \"Dança do Monstro (Sprite Lab\")](https://studio.code.org/projects/spritelab/S2l_b6LHSmSULTBF7CibJm1rTsngztJyu5pgORe7GBs/view) | [![Jogo do Cupcake (Sprite Lab)](https://images.code.org/c90080aaf05349fb6e1fbb6861e815df-image-1556809855136.png \"Jogo do Cupcake (Sprite Lab\")](https://studio.code.org/projects/spritelab/gXM_YU_qL_QWo1o5Wkam96oiFrYY5VUp27m2xKlp7EQ/view) |\n| Tente acrescentar texto ou pontuação a este jogo! | Tente acrescentar texto ou pontuação a este jogo! |\n\n## Artista\n\n| Padrão (Artista) | Flores de Função (Arista) |\n|---|---|\n| [![Padrão (Artista)](https://images.code.org/2432878706891dda080b69428ddc4a20-image-1556822714214.png \"Padrão (Artista)\")](https://studio.code.org/projects/artist/TznMeJRa4SnHWJvUBEoNUw/view) | [![Flores de Função (Artista)](https://images.code.org/1e6da38baf996dace44581572895a4b8-image-1556822184973.png \"Flores de Função (Artista)\")](https://studio.code.org/projects/artist/4uGqFaTnc7V9B6IqCqj21Q/view) |\n| Vamos ser criativos com laços aninhados! | Vamos ser criativos com funções! |\n\n"
+        },
+        "courseE_project_exemplars_2019_2020": {
+          "content1": "Teste a Página da Apostila de Markdown"
         },
         "courseF_bee_variables_8a_2018": {
           "answers": [
@@ -5131,6 +5751,33 @@
           ],
           "title": "Variáveis Abelha Multi"
         },
+        "courseF_bee_variables_8a_2018_2019_2020": {
+          "answers": [
+            {
+              "text": "A abelha não coletará nenhum néctar porque a variável não é chamada \"reunir\".",
+              "feedback": "Incorreta. O nome da sua variável não afeta seu valor."
+            },
+            {
+              "text": "A abelha coletará apenas 2 néctares.",
+              "correct": true,
+              "feedback": "Correto!"
+            },
+            {
+              "text": "A abelha coletará todo o néctar.",
+              "feedback": "Incorreta. A variável é ajustada para 0 antes das últimas duas chamadas de função."
+            },
+            {
+              "text": "Eu não sei.",
+              "feedback": "A variável volta a ser 0 antes das duas últimas chamadas de função, onde 1 é adicionado a cada vez. A abelha recolhe 2 unidades de néctar."
+            }
+          ],
+          "questions": [
+            {
+              "text": "Veja o código abaixo. Quantas unidades de néctar a abelha coletará no final?"
+            }
+          ],
+          "title": "Variáveis Abelha Multi"
+        },
         "courseF_external_variableConstant": {
           "markdown": "<h2>Mais sobre Variáveis</h2>\n\n<img src=\"https://images.code.org/082c757f5c939bd353eacda9589ca54f-image-1477349401281.35.08.png\" style=\"padding-left: 30px; width:300px; float:right;\"/>\n<h3>Você acaba de aprender um ótimo jeito de usar uma variável... Como uma constante!\nQuando você usa uma variável como uma constante, você define um valor uma vez, e então usa o *mesmo* valor várias vezes no seu programa, sem mudá-lo após clicar em \"Executar\"</h3>\n<br/><hr/>\n<h3>Na próxima parte do curso, você programará com variáveis que *mudam* dentro do programa.</h3>\n\n"
         },
@@ -5138,6 +5785,9 @@
           "markdown": "<h2>Mais sobre Variáveis</h2>\n\n\n<img src=\"https://images.code.org/082c757f5c939bd353eacda9589ca54f-image-1477349401281.35.08.png\" style=\"padding-left: 30px; width:300px; float:right;\"/>\n<h3>Você acaba de aprender um ótimo jeito de usar uma variável... Como uma constante!\nQuando você usa uma variável como uma constante, você configura o valor uma vez e então usa o *mesmo* valor várias vezes no seu programa sem mudá-lo após clicar em \"Executar\".</h3>\n<br/><hr/>\n<h3>Nas próximas etapas, você vai escrever códigos com variáveis que *mudam* dentro do programa.</h3>\n\n"
         },
         "courseF_external_variableConstant_2018_2019": {
+          "markdown": "<h2>Mais sobre Variáveis</h2>\n\n\n<img src=\"https://images.code.org/082c757f5c939bd353eacda9589ca54f-image-1477349401281.35.08.png\" style=\"padding-left: 30px; width:300px; float:right;\"/>\n<h3>Você acaba de aprender um ótimo jeito de usar uma variável... Como uma constante!\nQuando você usa uma variável como uma constante, você configura o valor uma vez e então usa o *mesmo* valor várias vezes no seu programa sem mudá-lo após clicar em \"Executar\".</h3>\n<br/><hr/>\n<h3>Nas próximas etapas, você vai escrever códigos com variáveis que *mudam* dentro do programa.</h3>\n\n"
+        },
+        "courseF_external_variableConstant_2018_2019_2020": {
           "markdown": "<h2>Mais sobre Variáveis</h2>\n\n\n<img src=\"https://images.code.org/082c757f5c939bd353eacda9589ca54f-image-1477349401281.35.08.png\" style=\"padding-left: 30px; width:300px; float:right;\"/>\n<h3>Você acaba de aprender um ótimo jeito de usar uma variável... Como uma constante!\nQuando você usa uma variável como uma constante, você configura o valor uma vez e então usa o *mesmo* valor várias vezes no seu programa sem mudá-lo após clicar em \"Executar\".</h3>\n<br/><hr/>\n<h3>Nas próximas etapas, você vai escrever códigos com variáveis que *mudam* dentro do programa.</h3>\n\n"
         },
         "courseF_markdown_algorithms_end": {
@@ -5172,11 +5822,19 @@
           "content1": "Teste a Página da Apostila de Markdown",
           "markdown": "# **Você acabou de aprender sobre as \"repetições para\"!**\n\n### **Repetições \"para\" são repetições onde você configura o início, a parada e valores das repetições.**\n\n### Esse novo tipo de repetição dá mais controle sobre quando a repetição começa, quando ela termina, e de quanto em quanto sua repetição deve aumentar toda vez que é executada.\n\n### Mais controle significa que você pode resolver os desafios muito mais rápido! \n\n---\n\n## **Vocabulário para conhecer**\n\n### **Repetição \"para\"** - Repetições \"para\" são laços de repetição com inícios, paradas e incrementações (intervalos entre cada volta) predefinidos\n\n"
         },
+        "courseF_markdown_forloops_end_2019_2020": {
+          "content1": "Teste a Página da Apostila de Markdown",
+          "markdown": "# **Você acabou de aprender sobre as \"repetições para\"!**\n\n### **Repetições \"para\" são repetições onde você configura o início, a parada e valores das repetições.**\n\n### Esse novo tipo de repetição dá mais controle sobre quando a repetição começa, quando ela termina, e de quanto em quanto sua repetição deve aumentar toda vez que é executada.\n\n### Mais controle significa que você pode resolver os desafios muito mais rápido! \n\n---\n\n## **Vocabulário para conhecer**\n\n### **Repetição \"para\"** - Repetições \"para\" são laços de repetição com inícios, paradas e incrementações (intervalos entre cada volta) predefinidos\n\n"
+        },
         "courseF_markdown_forloops_intro": {
           "content1": "Teste a Página da Apostila de Markdown",
           "markdown": "# **Nesta fase...**\n\n### Hoje você vai aprender sobre um novo tipo de laço de repetição. Aqui está uma prévia do bloco que você usará:\n\n![](https://images.code.org/d9cb4b829fe4e688b10c19e879cf4a4b-image-1531938148965.png)\n\n### *Para* a sua sorte, essa nova repetição vai tornar bem fácil a resolução de desafios como esse!\n\n![](https://images.code.org/072230b389feb9c6c6998619a245b8af-image-1524773190948.png)\n\n"
         },
         "courseF_markdown_forloops_intro_2019": {
+          "content1": "Teste a Página da Apostila de Markdown",
+          "markdown": "# **Nesta fase...**\n\n### Hoje você vai aprender sobre um novo tipo de laço de repetição. Aqui está uma prévia do bloco que você usará:\n\n![](https://images.code.org/d9cb4b829fe4e688b10c19e879cf4a4b-image-1531938148965.png)\n\n### *Para* a sua sorte, essa nova repetição vai tornar bem fácil a resolução de desafios como esse!\n\n![](https://images.code.org/072230b389feb9c6c6998619a245b8af-image-1524773190948.png)\n\n"
+        },
+        "courseF_markdown_forloops_intro_2019_2020": {
           "content1": "Teste a Página da Apostila de Markdown",
           "markdown": "# **Nesta fase...**\n\n### Hoje você vai aprender sobre um novo tipo de laço de repetição. Aqui está uma prévia do bloco que você usará:\n\n![](https://images.code.org/d9cb4b829fe4e688b10c19e879cf4a4b-image-1531938148965.png)\n\n### *Para* a sua sorte, essa nova repetição vai tornar bem fácil a resolução de desafios como esse!\n\n![](https://images.code.org/072230b389feb9c6c6998619a245b8af-image-1524773190948.png)\n\n"
         },
@@ -5204,11 +5862,19 @@
           "content1": "Teste a Página da Apostila de Markdown",
           "markdown": "# **Você acabou de aprender \"variáveis\"!**\n\n### Para usar uma variável, esta precisa de um nome e um valor. O nome não muda, mas o valor pode mudar. Desta forma você pode usar o nome da variável como um espaço reservado aonde você quiser no seu programa! \n\n---\n\n## **Vocabulário a conhecer**\n\n### **Variável** - Um espaço reservado para uma parte da informação que pode mudar\n\n"
         },
+        "courseF_markdown_variables_end_2019_2020": {
+          "content1": "Teste a Página da Apostila de Markdown",
+          "markdown": "# **Você acabou de aprender \"variáveis\"!**\n\n### Para usar uma variável, esta precisa de um nome e um valor. O nome não muda, mas o valor pode mudar. Desta forma você pode usar o nome da variável como um espaço reservado aonde você quiser no seu programa! \n\n---\n\n## **Vocabulário a conhecer**\n\n### **Variável** - Um espaço reservado para uma parte da informação que pode mudar\n\n"
+        },
         "courseF_markdown_variables_intro": {
           "content1": "Teste a Página da Apostila de Markdown",
           "markdown": "# **Nesta fase...**\n\n### *Variáveis* são campos reservados para informações que podem mudar. Ter uma variável torna possível a escrita de um programa, mesmo quando você só saberá os valores mais tarde.\n\n\n---\n\n## **Blocos para conhecer**\n\n![](https://images.code.org/2e5804ee6783390a6b86b7b2d7153594-image-1524772405748.png)\n\n\n"
         },
         "courseF_markdown_variables_intro_2019": {
+          "content1": "Teste a Página da Apostila de Markdown",
+          "markdown": "# **Nesta fase...**\n\n### *Variáveis* são campos reservados para informações que podem mudar. Ter uma variável torna possível a escrita de um programa, mesmo quando você só saberá os valores mais tarde.\n\n\n---\n\n## **Blocos para conhecer**\n\n![](https://images.code.org/2e5804ee6783390a6b86b7b2d7153594-image-1524772405748.png)\n\n\n"
+        },
+        "courseF_markdown_variables_intro_2019_2020": {
           "content1": "Teste a Página da Apostila de Markdown",
           "markdown": "# **Nesta fase...**\n\n### *Variáveis* são campos reservados para informações que podem mudar. Ter uma variável torna possível a escrita de um programa, mesmo quando você só saberá os valores mais tarde.\n\n\n---\n\n## **Blocos para conhecer**\n\n![](https://images.code.org/2e5804ee6783390a6b86b7b2d7153594-image-1524772405748.png)\n\n\n"
         },
@@ -5267,6 +5933,33 @@
           ]
         },
         "courseF_multi_artist_for10_predict1_2018_2019": {
+          "answers": [
+            {
+              "text": "O artista desenhará uma linha reta que aumenta em espessura de um lado do espaço de jogo para o outro.",
+              "feedback": "Incorreta. O artista alterna entre as iterações do loop 'for'."
+            },
+            {
+              "text": "O artista irá desenhar uma espiral e a cada repetição do laço de repetição \"Para\", a linha irá ficar mais longa e fina. ",
+              "feedback": "Incorreta. A cada vez, através do loop `for`, o artista desenha uma linha mais longa que também é mais grossa."
+            },
+            {
+              "text": "O artista irá desenhar uma espiral e a cada repetição do laço de repetição \"Para\", a linha irá ficar mais longa e grossa.",
+              "correct": true,
+              "feedback": "Correto!"
+            },
+            {
+              "text": "Eu não sei.",
+              "feedback": "Incorreta. A cada vez, através do loop `for`, o artista desenha uma linha mais longa que também é mais grossa."
+            }
+          ],
+          "markdown": "Nós usamos o contador do nosso laço de repetição `para` para mudar o tamanho do pincel no desenho.\n\n\n",
+          "questions": [
+            {
+              "text": "O que acontecerá quando você clicar em \"Executar\"?"
+            }
+          ]
+        },
+        "courseF_multi_artist_for10_predict1_2018_2019_2020": {
           "answers": [
             {
               "text": "O artista desenhará uma linha reta que aumenta em espessura de um lado do espaço de jogo para o outro.",
@@ -5373,6 +6066,32 @@
           ]
         },
         "courseF_multi_artist_variables3a_predict1_2018_2019": {
+          "answers": [
+            {
+              "text": "O artista desenhará um triângulo com lados de 50 pixels.",
+              "correct": true,
+              "feedback": "Correto!"
+            },
+            {
+              "text": "O artista desenhará um polígono de 50 lados com 3 de pixels cada.",
+              "feedback": "Incorreto. A variável comprimento precisaria ser usada no laço de repetição 'repetir' para isso acontecer."
+            },
+            {
+              "text": "O artista desenhará três lados abertos com giros de 50 graus.",
+              "feedback": "Incorreto. A variável comprimento precisaria ser usada no bloco 'virar' para isso acontecer."
+            },
+            {
+              "text": "Eu não sei.",
+              "feedback": "A variável `tamanho` está com o valor de 50 e está sendo utilizada no bloco `avance`, para que o artista consiga desenhar um triângulo de 50 pixels laterais."
+            }
+          ],
+          "questions": [
+            {
+              "text": "Colocamos o valor variável comprimento como 50. O que irá acontecer se pressionarmos o \"Executar\"?"
+            }
+          ]
+        },
+        "courseF_multi_artist_variables3a_predict1_2018_2019_2020": {
           "answers": [
             {
               "text": "O artista desenhará um triângulo com lados de 50 pixels.",
@@ -5533,6 +6252,33 @@
             }
           ]
         },
+        "courseF_multi_bee_for3_predict1_2018_2019_2020": {
+          "answers": [
+            {
+              "text": "A abelha irá se mover em frente e coletará todo o nectar de cada flor. ",
+              "feedback": "Incorreto. O laço de repetição \"para\" fará com que a abelha colete a quantidade correta de nectar, mas apenas chegará à 3 flores."
+            },
+            {
+              "text": "A abelha irá se mover em frente e coletará todo o nectar de cada flor, com excessão de uma.",
+              "correct": true,
+              "feedback": "Correto!"
+            },
+            {
+              "text": "A abelha irá se mover em frente e coletará um nectar de cada flor. ",
+              "feedback": "Incorreto. O laço de repetição \"para\" fará com que a abelha colete a quantidade correta de nectar, mas apenas chegará à 3 flores."
+            },
+            {
+              "text": "Eu não sei. ",
+              "feedback": "O laço de repetição irá fazer com que a abelha colete a quantidade correta de nectar, mas apenas coletará de 4 flores."
+            }
+          ],
+          "markdown": "Ah! O uso de laços de repetição `para` deixam esse desafio muito mais fácil!\n\n\n",
+          "questions": [
+            {
+              "text": "Leia o código abaixo. O que acontecerá quando você clicar em \"Executar\"?"
+            }
+          ]
+        },
         "courseF_multi_bee_fwp9_predict1": {
           "answers": [
             {
@@ -5591,6 +6337,9 @@
           "content1": "Teste a Página da Apostila de Markdown",
           "markdown": "# Exemplos de Projetos\n\nVocê está prestes a iniciar seu último projeto. Antes de começar, gaste algum tempo observando os projetos de exemplo.\n\n## Sprite Lab\n\n| Jogo do Cupcake (Sprite Lab) | Jogo do Helicóptero (Sprite Lab) |\n|---|---|\n| [![#Jogo do Coelhinho (Sprite Lab)](https://images.code.org/c90080aaf05349fb6e1fbb6861e815df-image-1556809855136.png)](https://studio.code.org/projects/spritelab/gXM_YU_qL_QWo1o5Wkam96oiFrYY5VUp27m2xKlp7EQ/view) | [![#Jogo do Helicóptero (Sprite Lab)](https://images.code.org/1a273fd447b952367792423a70c5087a-image-1556812149075.png)](https://studio.code.org/projects/spritelab/QeROTy1pNyjNPC-ZZdBN1mcpkmTEMUc2FYwXX0SOFAY/view) |\n| Tente adicionar texto ou pontuação a este jogo! | Tente adicionar texto ou pontuação a este jogo! |\n\n## Artista\n\n| Flores (Artista) | Espiral (Artista) |\n|---|---|\n| [![Flores (Artista)](https://images.code.org/0f5adf63c318eab8c8acb397d9db7f2a-image-1556821537577.png)](https://studio.code.org/projects/artist/MIMh2pV2IiLm1ZzaiA6N7kKvg534lFck3abLXTsvZU8/view) | [![Espiral (Artista)](https://images.code.org/06514571a8cf2f8b0346006ac1adc219-image-1556819399386.png)](https://studio.code.org/projects/artist/66scPDPWa8RNNHkcXDaXdA/view) |\n| Vamos ser criativos com variáveis! | Vamos ser criativos com laços for! |\n\n"
         },
+        "courseF_project_exemplars_2019_2020": {
+          "content1": "Teste a Página da Apostila de Markdown"
+        },
         "coursee_prediction_artistfunction2": {
           "answers": [
             {
@@ -5644,6 +6393,32 @@
           ]
         },
         "coursee_prediction_artistfunction2_2018_2019": {
+          "answers": [
+            {
+              "text": "O artista resolverá o quebra-cabeça corretamente.",
+              "feedback": "Incorreta. O loop usa \"desenhar polígono\" em vez de \"desenhar linha de polígonos\"."
+            },
+            {
+              "text": "O artista desenhará quatro quadrados em um padrão de janela.",
+              "correct": true,
+              "feedback": "Correto!"
+            },
+            {
+              "text": "O artista desenhará apenas uma linha dos quadrados.",
+              "feedback": "Incorreta. O programa não chama \"desenhar linha de polígonos\"."
+            },
+            {
+              "text": "O artista desenhará quatro quadrados um em cima do outro.",
+              "feedback": "Incorreta. O loop gira 90 graus entre as chamadas para \"desenhar polígono\"."
+            }
+          ],
+          "questions": [
+            {
+              "text": "O que acontecerá quando você pressionar o botão \"Executar\"?"
+            }
+          ]
+        },
+        "coursee_prediction_artistfunction2_2018_2019_2020": {
           "answers": [
             {
               "text": "O artista resolverá o quebra-cabeça corretamente.",
@@ -5780,6 +6555,15 @@
         "csd-pulse-check-survey-1-levelgroup U6Ch2_2018_2019": {
           "title": "\nPesquisa rápida do CS Discoveries!"
         },
+        "csf_be_a_super_digital_citizen": {
+          "content1": "descrição aqui"
+        },
+        "csf_password_power-up": {
+          "content1": "descrição aqui"
+        },
+        "csf_putting_a_stop_to_online_meanness": {
+          "content1": "descrição aqui"
+        },
         "grade2_multi_collector_A_predict1": {
           "answers": [
             {
@@ -5833,6 +6617,32 @@
           ]
         },
         "grade2_multi_collector_A_predict1_2018_2019": {
+          "answers": [
+            {
+              "text": "Laurel irá coletar 4 peças do tesouro usando este código.",
+              "feedback": "Incorreta. Laurel tenta recolher o tesouro onde não há nenhum e isso causa um erro."
+            },
+            {
+              "text": "Laurel tentará coletar o tesouro onde não há nenhum e isso causa um erro.",
+              "correct": true,
+              "feedback": "Correto!"
+            },
+            {
+              "text": "Laurel coletará todo o tesouro.",
+              "feedback": "Incorreta. Laurel tenta recolher o tesouro onde não há nenhum e isso causa um erro."
+            },
+            {
+              "text": "Eu não sei.",
+              "feedback": "Laurel tenta recolher o tesouro onde não há nenhum e isso causa um erro."
+            }
+          ],
+          "questions": [
+            {
+              "text": "Olhe para este código cuidadosamente. O que você acha que irá acontecer quando este programa for executado?"
+            }
+          ]
+        },
+        "grade2_multi_collector_A_predict1_2018_2019_2020": {
           "answers": [
             {
               "text": "Laurel irá coletar 4 peças do tesouro usando este código.",

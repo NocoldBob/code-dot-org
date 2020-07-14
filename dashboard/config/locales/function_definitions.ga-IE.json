@@ -228,6 +228,11 @@
             "name": "tóg droichead"
           }
         },
+        "Function intro Ryan_2020": {
+          "build bridge": {
+            "name": "tóg droichead"
+          }
+        },
         "Geometric Sun": {
           "diamond": {
             "name": "ar chruth diamaint"
@@ -283,6 +288,11 @@
             "name": "glan cosán"
           }
         },
+        "MC_HOC_2017_07_Cole_2020": {
+          "clear path": {
+            "name": "glan cosán"
+          }
+        },
         "MC_HOC_2017_10_RETRY": {
           "fix long path": {
             "name": "deisigh cosán fada"
@@ -292,6 +302,14 @@
           }
         },
         "MC_HOC_2017_10_RETRY_2019": {
+          "fix long path": {
+            "name": "deisigh cosán fada"
+          },
+          "fix short path": {
+            "name": "deisigh cosán gearr"
+          }
+        },
+        "MC_HOC_2017_10_RETRY_2020": {
           "fix long path": {
             "name": "deisigh cosán fada"
           },
@@ -315,6 +333,14 @@
             "name": "tóg droichead fada"
           }
         },
+        "MC_HOC_2017_Ali_2020": {
+          "build short bridge": {
+            "name": "tóg droichead gearr"
+          },
+          "build long bridge": {
+            "name": "tóg droichead fada"
+          }
+        },
         "MC_HOC_2017_FP20x20": {
           "function 1": {
             "name": "feidhm 1"
@@ -324,6 +350,14 @@
           }
         },
         "MC_HOC_2017_FP20x20_2019": {
+          "function 1": {
+            "name": "feidhm 1"
+          },
+          "function 2": {
+            "name": "feidhm 2"
+          }
+        },
+        "MC_HOC_2017_FP20x20_2020": {
           "function 1": {
             "name": "feidhm 1"
           },
@@ -709,7 +743,19 @@
             }
           }
         },
+        "courseC_artist_prog3_2020": {
+          "draw flame": {
+            "parameters": {
+              "x": "x"
+            }
+          }
+        },
         "courseC_data wizard": {
+          "do something": {
+            "name": "rud éigin a dhéanamh"
+          }
+        },
+        "courseC_data wizard_2020": {
           "do something": {
             "name": "rud éigin a dhéanamh"
           }
@@ -762,6 +808,11 @@
             "name": "rud éigin a dhéanamh"
           }
         },
+        "courseE_artist_functions10_2020": {
+          "do something": {
+            "name": "rud éigin a dhéanamh"
+          }
+        },
         "courseE_artist_functions2": {
           "draw a square": {
             "name": "tarraing cearnóg"
@@ -777,6 +828,11 @@
             "name": "tarraing cearnóg"
           }
         },
+        "courseE_artist_functions2_2020": {
+          "draw a square": {
+            "name": "tarraing cearnóg"
+          }
+        },
         "courseE_artist_functions2_copy": {
           "draw a square": {
             "name": "tarraing cearnóg"
@@ -788,6 +844,11 @@
           }
         },
         "courseE_artist_functions3_2019": {
+          "draw a star": {
+            "name": "tarraing réalta"
+          }
+        },
+        "courseE_artist_functions3_2020": {
           "draw a star": {
             "name": "tarraing réalta"
           }
@@ -817,6 +878,11 @@
             "name": "tarraing réalta"
           }
         },
+        "courseE_artist_functions5_2020": {
+          "draw a star": {
+            "name": "tarraing réalta"
+          }
+        },
         "courseE_artist_functions5_copy": {
           "draw a star": {
             "name": "tarraing réalta"
@@ -832,6 +898,11 @@
             "name": "tarraing teach"
           }
         },
+        "courseE_artist_functions7_2020": {
+          "draw a house": {
+            "name": "tarraing teach"
+          }
+        },
         "courseE_artist_functions8": {
           "do something": {
             "name": "rud éigin a dhéanamh"
@@ -843,6 +914,11 @@
           }
         },
         "courseE_artist_functions8_2019": {
+          "do something": {
+            "name": "rud éigin a dhéanamh"
+          }
+        },
+        "courseE_artist_functions8_2020": {
           "do something": {
             "name": "rud éigin a dhéanamh"
           }
@@ -863,6 +939,14 @@
             "name": "rud éigin a dhéanamh"
           }
         },
+        "courseE_artist_functions8a_2020": {
+          "draw a square": {
+            "name": "tarraing cearnóg"
+          },
+          "do something": {
+            "name": "rud éigin a dhéanamh"
+          }
+        },
         "courseE_artist_functions8b_2018": {
           "do something": {
             "name": "rud éigin a dhéanamh"
@@ -873,12 +957,22 @@
             "name": "rud éigin a dhéanamh"
           }
         },
+        "courseE_artist_functions8b_2020": {
+          "do something": {
+            "name": "rud éigin a dhéanamh"
+          }
+        },
         "courseE_artist_functions8c_2018": {
           "do something": {
             "name": "rud éigin a dhéanamh"
           }
         },
         "courseE_artist_functions8c_2019": {
+          "do something": {
+            "name": "rud éigin a dhéanamh"
+          }
+        },
+        "courseE_artist_functions8c_2020": {
           "do something": {
             "name": "rud éigin a dhéanamh"
           }
@@ -898,6 +992,11 @@
             "name": "rud éigin a dhéanamh"
           }
         },
+        "courseE_artist_functions9_2020": {
+          "do something": {
+            "name": "rud éigin a dhéanamh"
+          }
+        },
         "courseE_artist_functions_challenge1": {
           "do something": {
             "name": "rud éigin a dhéanamh"
@@ -909,6 +1008,11 @@
           }
         },
         "courseE_artist_functions_challenge1_2019": {
+          "do something": {
+            "name": "rud éigin a dhéanamh"
+          }
+        },
+        "courseE_artist_functions_challenge1_2020": {
           "do something": {
             "name": "rud éigin a dhéanamh"
           }
@@ -928,6 +1032,11 @@
             "name": "rud éigin a dhéanamh"
           }
         },
+        "courseE_artist_functions_challenge2_2020": {
+          "do something": {
+            "name": "rud éigin a dhéanamh"
+          }
+        },
         "courseE_artist_functions_predict1": {
           "draw a square": {
             "name": "tarraing cearnóg"
@@ -939,6 +1048,11 @@
           }
         },
         "courseE_artist_functions_predict1_2019": {
+          "draw a square": {
+            "name": "tarraing cearnóg"
+          }
+        },
+        "courseE_artist_functions_predict1_2020": {
           "draw a square": {
             "name": "tarraing cearnóg"
           }
@@ -959,6 +1073,11 @@
           }
         },
         "courseE_artist_functions_predict2_2019": {
+          "do something": {
+            "name": "rud éigin a dhéanamh"
+          }
+        },
+        "courseE_artist_functions_predict2_2020": {
           "do something": {
             "name": "rud éigin a dhéanamh"
           }
@@ -1220,6 +1339,11 @@
             "name": "téigh agus bailigh neachtar le háiritheoir"
           }
         },
+        "courseF_bee_for_challenge1_2020": {
+          "move and get nectar with counter": {
+            "name": "téigh agus bailigh neachtar le háiritheoir"
+          }
+        },
         "courseF_bee_functions8a": {
           "do something": {
             "name": "rud éigin a dhéanamh"
@@ -1291,12 +1415,22 @@
             "name": "bailigh"
           }
         },
+        "courseF_bee_variables_7_2020": {
+          "collect": {
+            "name": "bailigh"
+          }
+        },
         "courseF_bee_variables_8_2018": {
           "collect": {
             "name": "bailigh"
           }
         },
         "courseF_bee_variables_8_2019": {
+          "collect": {
+            "name": "bailigh"
+          }
+        },
+        "courseF_bee_variables_8_2020": {
           "collect": {
             "name": "bailigh"
           }

@@ -612,6 +612,11 @@
             "name": "建一个桥"
           }
         },
+        "Function intro Ryan_2020": {
+          "build bridge": {
+            "name": "建一个桥"
+          }
+        },
         "Geometric Sun": {
           "draw a door": {
             "name": "画一个门"
@@ -743,6 +748,11 @@
             "name": "清除路径"
           }
         },
+        "MC_HOC_2017_07_Cole_2020": {
+          "clear path": {
+            "name": "清除路径"
+          }
+        },
         "MC_HOC_2017_10_RETRY": {
           "fix long path": {
             "name": "固定长路径"
@@ -752,6 +762,14 @@
           }
         },
         "MC_HOC_2017_10_RETRY_2019": {
+          "fix long path": {
+            "name": "固定长路径"
+          },
+          "fix short path": {
+            "name": "固定短路径"
+          }
+        },
+        "MC_HOC_2017_10_RETRY_2020": {
           "fix long path": {
             "name": "固定长路径"
           },
@@ -775,6 +793,14 @@
             "name": "造一个长桥"
           }
         },
+        "MC_HOC_2017_Ali_2020": {
+          "build short bridge": {
+            "name": "造一个短桥"
+          },
+          "build long bridge": {
+            "name": "造一个长桥"
+          }
+        },
         "MC_HOC_2017_FP20x20": {
           "function 1": {
             "name": "函数1"
@@ -784,6 +810,14 @@
           }
         },
         "MC_HOC_2017_FP20x20_2019": {
+          "function 1": {
+            "name": "函数1"
+          },
+          "function 2": {
+            "name": "函数2"
+          }
+        },
+        "MC_HOC_2017_FP20x20_2020": {
           "function 1": {
             "name": "函数1"
           },
@@ -1344,6 +1378,11 @@
             "name": "可能的解决方案"
           }
         },
+        "courseB_artist_loops_challenge2_2020": {
+          "potential solution": {
+            "name": "可能的解决方案"
+          }
+        },
         "courseC_artist_prog3": {
           "draw flame": {
             "name": "绘制火焰",
@@ -1377,6 +1416,17 @@
             "name": "绘制火焰"
           }
         },
+        "courseC_artist_prog3_2020": {
+          "draw flame": {
+            "name": "绘制火焰",
+            "parameters": {
+              "x": "x"
+            }
+          },
+          "draw fire": {
+            "name": "绘制火焰"
+          }
+        },
         "courseC_artist_prog4": {
           "booster": {
             "name": "助推器"
@@ -1392,7 +1442,17 @@
             "name": "助推器"
           }
         },
+        "courseC_artist_prog4_2020": {
+          "booster": {
+            "name": "助推器"
+          }
+        },
         "courseC_data wizard": {
+          "do something": {
+            "name": "做点什么"
+          }
+        },
+        "courseC_data wizard_2020": {
           "do something": {
             "name": "做点什么"
           }
@@ -1414,6 +1474,14 @@
           }
         },
         "courseD_artist_binary1_2019": {
+          "draw bit": {
+            "name": "绘制比特"
+          },
+          "draw": {
+            "name": "画"
+          }
+        },
+        "courseD_artist_binary1_2020": {
           "draw bit": {
             "name": "绘制比特"
           },
@@ -1445,6 +1513,14 @@
             "name": "绘制比特"
           }
         },
+        "courseD_artist_binary2_2020": {
+          "draw": {
+            "name": "画"
+          },
+          "draw bit": {
+            "name": "绘制比特"
+          }
+        },
         "courseD_artist_binary3": {
           "draw": {
             "name": "画"
@@ -1462,6 +1538,14 @@
           }
         },
         "courseD_artist_binary3_2019": {
+          "draw": {
+            "name": "画"
+          },
+          "draw bit": {
+            "name": "绘制比特"
+          }
+        },
+        "courseD_artist_binary3_2020": {
           "draw": {
             "name": "画"
           },
@@ -1493,6 +1577,14 @@
             "name": "绘制比特"
           }
         },
+        "courseD_artist_binary4_2020": {
+          "draw": {
+            "name": "画"
+          },
+          "draw bit": {
+            "name": "绘制比特"
+          }
+        },
         "courseD_artist_binary5": {
           "draw": {
             "name": "画"
@@ -1510,6 +1602,14 @@
           }
         },
         "courseD_artist_binary5_2019": {
+          "draw": {
+            "name": "画"
+          },
+          "draw bit": {
+            "name": "绘制比特"
+          }
+        },
+        "courseD_artist_binary5_2020": {
           "draw": {
             "name": "画"
           },
@@ -1541,6 +1641,14 @@
             "name": "绘制比特"
           }
         },
+        "courseD_artist_binary6_2020": {
+          "draw": {
+            "name": "画"
+          },
+          "draw bit": {
+            "name": "绘制比特"
+          }
+        },
         "courseD_artist_binary7": {
           "draw": {
             "name": "画"
@@ -1558,6 +1666,14 @@
           }
         },
         "courseD_artist_binary7_2019": {
+          "draw": {
+            "name": "画"
+          },
+          "draw bit": {
+            "name": "绘制比特"
+          }
+        },
+        "courseD_artist_binary7_2020": {
           "draw": {
             "name": "画"
           },
@@ -1589,6 +1705,14 @@
             "name": "绘制比特"
           }
         },
+        "courseD_artist_binary8_2020": {
+          "draw": {
+            "name": "画"
+          },
+          "draw bit": {
+            "name": "绘制比特"
+          }
+        },
         "courseD_artist_binary8_predict1": {
           "draw": {
             "name": "画"
@@ -1613,6 +1737,14 @@
             "name": "绘制比特"
           }
         },
+        "courseD_artist_binary8_predict1_2020": {
+          "draw": {
+            "name": "画"
+          },
+          "draw bit": {
+            "name": "绘制比特"
+          }
+        },
         "courseD_artist_binaryFP_2018": {
           "draw": {
             "name": "画"
@@ -1622,6 +1754,14 @@
           }
         },
         "courseD_artist_binaryFP_2019": {
+          "draw": {
+            "name": "画"
+          },
+          "draw bit": {
+            "name": "绘制比特"
+          }
+        },
+        "courseD_artist_binaryFP_2020": {
           "draw": {
             "name": "画"
           },
@@ -1645,6 +1785,14 @@
             "name": "绘制比特"
           }
         },
+        "courseD_artist_binary_challenge1_2020": {
+          "draw": {
+            "name": "画"
+          },
+          "draw bit": {
+            "name": "绘制比特"
+          }
+        },
         "courseD_artist_binary_challenge2_2018": {
           "draw": {
             "name": "画"
@@ -1654,6 +1802,14 @@
           }
         },
         "courseD_artist_binary_challenge2_2019": {
+          "draw": {
+            "name": "画"
+          },
+          "draw bit": {
+            "name": "绘制比特"
+          }
+        },
+        "courseD_artist_binary_challenge2_2020": {
           "draw": {
             "name": "画"
           },
@@ -1826,6 +1982,17 @@
             "name": "画一列六边形"
           }
         },
+        "courseE_artist_functions10_2020": {
+          "do something": {
+            "name": "做点什么"
+          },
+          "draw hexagon": {
+            "name": "画六边形"
+          },
+          "draw line of hexagons": {
+            "name": "画一列六边形"
+          }
+        },
         "courseE_artist_functions1_copy": {
           "draw ear stems": {
             "name": "画穗柄"
@@ -1855,6 +2022,14 @@
             "name": "画穗柄"
           }
         },
+        "courseE_artist_functions2_2020": {
+          "draw a square": {
+            "name": "画一个正方形"
+          },
+          "draw ear stems": {
+            "name": "画穗柄"
+          }
+        },
         "courseE_artist_functions2_copy": {
           "draw a square": {
             "name": "画一个正方形"
@@ -1869,6 +2044,11 @@
           }
         },
         "courseE_artist_functions3_2019": {
+          "draw a star": {
+            "name": "画一个星星"
+          }
+        },
+        "courseE_artist_functions3_2020": {
           "draw a star": {
             "name": "画一个星星"
           }
@@ -1898,6 +2078,11 @@
             "name": "画一个星星"
           }
         },
+        "courseE_artist_functions5_2020": {
+          "draw a star": {
+            "name": "画一个星星"
+          }
+        },
         "courseE_artist_functions5_copy": {
           "draw a star": {
             "name": "画一个星星"
@@ -1922,6 +2107,14 @@
         "courseE_artist_functions7_2019": {
           "draw a window": {
             "name": "画一个窗口"
+          }
+        },
+        "courseE_artist_functions7_2020": {
+          "draw a window": {
+            "name": "画一个窗口"
+          },
+          "draw a house": {
+            "name": "画一个房子"
           }
         },
         "courseE_artist_functions8": {
@@ -1963,6 +2156,20 @@
             "name": "画一个正方形"
           }
         },
+        "courseE_artist_functions8_2020": {
+          "do something": {
+            "name": "做点什么"
+          },
+          "staggered squares": {
+            "name": "叠起来的正方形"
+          },
+          "draw a line of squares": {
+            "name": "画一条正方形线"
+          },
+          "draw square": {
+            "name": "画一个正方形"
+          }
+        },
         "courseE_artist_functions8a_2018": {
           "draw a square": {
             "name": "画一个正方形"
@@ -1972,6 +2179,14 @@
           }
         },
         "courseE_artist_functions8a_2019": {
+          "draw a square": {
+            "name": "画一个正方形"
+          },
+          "do something": {
+            "name": "做点什么"
+          }
+        },
+        "courseE_artist_functions8a_2020": {
           "draw a square": {
             "name": "画一个正方形"
           },
@@ -2001,6 +2216,17 @@
             "name": "做点什么"
           }
         },
+        "courseE_artist_functions8b_2020": {
+          "draw a line of squares": {
+            "name": "画一条正方形线"
+          },
+          "draw square": {
+            "name": "画一个正方形"
+          },
+          "do something": {
+            "name": "做点什么"
+          }
+        },
         "courseE_artist_functions8c_2018": {
           "draw a line of squares": {
             "name": "画一条正方形线"
@@ -2016,6 +2242,20 @@
           }
         },
         "courseE_artist_functions8c_2019": {
+          "draw a line of squares": {
+            "name": "画一条正方形线"
+          },
+          "draw square": {
+            "name": "画一个正方形"
+          },
+          "do something": {
+            "name": "做点什么"
+          },
+          "staggered squares": {
+            "name": "叠起来的正方形"
+          }
+        },
+        "courseE_artist_functions8c_2020": {
           "draw a line of squares": {
             "name": "画一条正方形线"
           },
@@ -2062,6 +2302,17 @@
             "name": "画一列三角形"
           }
         },
+        "courseE_artist_functions9_2020": {
+          "do something": {
+            "name": "做点什么"
+          },
+          "draw triangle": {
+            "name": "绘制三角形"
+          },
+          "draw line of triangles": {
+            "name": "画一列三角形"
+          }
+        },
         "courseE_artist_functionsProj_2018": {
           "draw hexagon": {
             "name": "画六边形"
@@ -2080,6 +2331,23 @@
           }
         },
         "courseE_artist_functionsProj_2019": {
+          "draw hexagon": {
+            "name": "画六边形"
+          },
+          "draw line of hexagons": {
+            "name": "画一列六边形"
+          },
+          "staggered squares": {
+            "name": "叠起来的正方形"
+          },
+          "draw a line of squares": {
+            "name": "画一条正方形线"
+          },
+          "draw square": {
+            "name": "画一个正方形"
+          }
+        },
+        "courseE_artist_functionsProj_2020": {
           "draw hexagon": {
             "name": "画六边形"
           },
@@ -2120,6 +2388,14 @@
             "name": "做点什么"
           }
         },
+        "courseE_artist_functions_challenge1_2020": {
+          "my design": {
+            "name": "我的设计"
+          },
+          "do something": {
+            "name": "做点什么"
+          }
+        },
         "courseE_artist_functions_challenge2": {
           "my design": {
             "name": "我的设计"
@@ -2144,6 +2420,14 @@
             "name": "做点什么"
           }
         },
+        "courseE_artist_functions_challenge2_2020": {
+          "my design": {
+            "name": "我的设计"
+          },
+          "do something": {
+            "name": "做点什么"
+          }
+        },
         "courseE_artist_functions_predict1": {
           "draw a square": {
             "name": "画一个正方形"
@@ -2161,6 +2445,14 @@
           }
         },
         "courseE_artist_functions_predict1_2019": {
+          "draw a square": {
+            "name": "画一个正方形"
+          },
+          "draw ear stems": {
+            "name": "画穗柄"
+          }
+        },
+        "courseE_artist_functions_predict1_2020": {
           "draw a square": {
             "name": "画一个正方形"
           },
@@ -2199,6 +2491,17 @@
           }
         },
         "courseE_artist_functions_predict2_2019": {
+          "draw line of polygons": {
+            "name": "画一列多边形"
+          },
+          "draw polygon": {
+            "name": "画多边形"
+          },
+          "do something": {
+            "name": "做点什么"
+          }
+        },
+        "courseE_artist_functions_predict2_2020": {
           "draw line of polygons": {
             "name": "画一列多边形"
           },
@@ -2336,6 +2639,20 @@
             "name": "南瓜广场"
           }
         },
+        "courseE_farmer_functions10a1_2020": {
+          "pick along path": {
+            "name": "沿路径选取"
+          },
+          "check square for corn": {
+            "name": "搜查广场上的玉米"
+          },
+          "get all pumpkins": {
+            "name": "收获所有的南瓜"
+          },
+          "pumpkin square": {
+            "name": "南瓜广场"
+          }
+        },
         "courseE_farmer_functions10b": {
           "navigate": {
             "name": "导航"
@@ -2386,6 +2703,23 @@
             "name": "收获所有的南瓜"
           }
         },
+        "courseE_farmer_functions11_predict_2020": {
+          "pick along path": {
+            "name": "沿路径选取"
+          },
+          "pumpkin square": {
+            "name": "南瓜广场"
+          },
+          "check square for corn": {
+            "name": "搜查广场上的玉米"
+          },
+          "get produce": {
+            "name": "获取产品"
+          },
+          "get all pumpkins": {
+            "name": "收获所有的南瓜"
+          }
+        },
         "courseE_farmer_functions13_2018": {
           "pick along path": {
             "name": "沿路径选取"
@@ -2414,6 +2748,20 @@
             "name": "生菜梯子"
           }
         },
+        "courseE_farmer_functions13_2020": {
+          "pick along path": {
+            "name": "沿路径选取"
+          },
+          "check for corn": {
+            "name": "查看玉米"
+          },
+          "corn rectangle": {
+            "name": "玉米矩形"
+          },
+          "lettuce stairs": {
+            "name": "生菜梯子"
+          }
+        },
         "courseE_farmer_functions1a_2018": {
           "check square for corn": {
             "name": "搜查广场上的玉米"
@@ -2424,12 +2772,22 @@
             "name": "搜查广场上的玉米"
           }
         },
+        "courseE_farmer_functions1a_2020": {
+          "check square for corn": {
+            "name": "搜查广场上的玉米"
+          }
+        },
         "courseE_farmer_functions2b_2018": {
           "check square for corn": {
             "name": "搜查广场上的玉米"
           }
         },
         "courseE_farmer_functions2b_2019": {
+          "check square for corn": {
+            "name": "搜查广场上的玉米"
+          }
+        },
+        "courseE_farmer_functions2b_2020": {
           "check square for corn": {
             "name": "搜查广场上的玉米"
           }
@@ -2448,6 +2806,14 @@
           }
         },
         "courseE_farmer_functions2ba_2019": {
+          "check square for corn": {
+            "name": "搜查广场上的玉米"
+          },
+          "get all pumpkins": {
+            "name": "收获所有的南瓜"
+          }
+        },
+        "courseE_farmer_functions2ba_2020": {
           "check square for corn": {
             "name": "搜查广场上的玉米"
           },
@@ -2482,6 +2848,17 @@
             "name": "收获所有的南瓜"
           }
         },
+        "courseE_farmer_functions3c1_2020": {
+          "pick along path": {
+            "name": "沿路径选取"
+          },
+          "check square for corn": {
+            "name": "搜查广场上的玉米"
+          },
+          "get all pumpkins": {
+            "name": "收获所有的南瓜"
+          }
+        },
         "courseE_farmer_functions3c_2018": {
           "check square for corn": {
             "name": "搜查广场上的玉米"
@@ -2491,6 +2868,14 @@
           }
         },
         "courseE_farmer_functions3c_2019": {
+          "check square for corn": {
+            "name": "搜查广场上的玉米"
+          },
+          "get all pumpkins": {
+            "name": "收获所有的南瓜"
+          }
+        },
+        "courseE_farmer_functions3c_2020": {
           "check square for corn": {
             "name": "搜查广场上的玉米"
           },
@@ -2523,12 +2908,22 @@
             "name": "花园广场"
           }
         },
+        "courseE_farmer_functions7a1_2020": {
+          "garden square": {
+            "name": "花园广场"
+          }
+        },
         "courseE_farmer_functions8a1_2018": {
           "garden square": {
             "name": "花园广场"
           }
         },
         "courseE_farmer_functions8a1_2019": {
+          "garden square": {
+            "name": "花园广场"
+          }
+        },
+        "courseE_farmer_functions8a1_2020": {
           "garden square": {
             "name": "花园广场"
           }
@@ -2544,6 +2939,11 @@
           }
         },
         "courseE_farmer_functions9a1_2019": {
+          "garden square": {
+            "name": "花园广场"
+          }
+        },
+        "courseE_farmer_functions9a1_2020": {
           "garden square": {
             "name": "花园广场"
           }
@@ -2822,6 +3222,11 @@
             "name": "用计数器移动并获取花蜜"
           }
         },
+        "courseF_bee_for_challenge1_2020": {
+          "move and get nectar with counter": {
+            "name": "用计数器移动并获取花蜜"
+          }
+        },
         "courseF_bee_functions2": {
           "get only nectar": {
             "name": "只获取花蜜"
@@ -2982,12 +3387,22 @@
             "name": "按行收集"
           }
         },
+        "courseF_bee_variables_1_2020": {
+          "collect row": {
+            "name": "按行收集"
+          }
+        },
         "courseF_bee_variables_2_2018": {
           "collect row": {
             "name": "按行收集"
           }
         },
         "courseF_bee_variables_2_2019": {
+          "collect row": {
+            "name": "按行收集"
+          }
+        },
+        "courseF_bee_variables_2_2020": {
           "collect row": {
             "name": "按行收集"
           }
@@ -3002,12 +3417,22 @@
             "name": "按行收集"
           }
         },
+        "courseF_bee_variables_3_2020": {
+          "collect row": {
+            "name": "按行收集"
+          }
+        },
         "courseF_bee_variables_4_2018": {
           "collect row": {
             "name": "按行收集"
           }
         },
         "courseF_bee_variables_4_2019": {
+          "collect row": {
+            "name": "按行收集"
+          }
+        },
+        "courseF_bee_variables_4_2020": {
           "collect row": {
             "name": "按行收集"
           }
@@ -3022,12 +3447,22 @@
             "name": "按行收集"
           }
         },
+        "courseF_bee_variables_5_2020": {
+          "collect row": {
+            "name": "按行收集"
+          }
+        },
         "courseF_bee_variables_6_2018": {
           "collect stairs": {
             "name": "手机梯子"
           }
         },
         "courseF_bee_variables_6_2019": {
+          "collect stairs": {
+            "name": "手机梯子"
+          }
+        },
+        "courseF_bee_variables_6_2020": {
           "collect stairs": {
             "name": "手机梯子"
           }
@@ -3042,6 +3477,11 @@
             "name": "收集"
           }
         },
+        "courseF_bee_variables_7_2020": {
+          "collect": {
+            "name": "收集"
+          }
+        },
         "courseF_bee_variables_8_2018": {
           "move and increment": {
             "name": "移动放大"
@@ -3051,6 +3491,14 @@
           }
         },
         "courseF_bee_variables_8_2019": {
+          "move and increment": {
+            "name": "移动放大"
+          },
+          "collect": {
+            "name": "收集"
+          }
+        },
+        "courseF_bee_variables_8_2020": {
           "move and increment": {
             "name": "移动放大"
           },

@@ -581,6 +581,11 @@
             "name": "építs hidat"
           }
         },
+        "Function intro Ryan_2020": {
+          "build bridge": {
+            "name": "építs hidat"
+          }
+        },
         "Geometric Sun": {
           "draw a door": {
             "name": "rajzolj ajtót"
@@ -705,6 +710,11 @@
             "name": "tisztítsd meg az ösvényt"
           }
         },
+        "MC_HOC_2017_07_Cole_2020": {
+          "clear path": {
+            "name": "tisztítsd meg az ösvényt"
+          }
+        },
         "MC_HOC_2017_10_RETRY": {
           "fix long path": {
             "name": "javítsd meg a hosszú utat"
@@ -714,6 +724,14 @@
           }
         },
         "MC_HOC_2017_10_RETRY_2019": {
+          "fix long path": {
+            "name": "javítsd meg a hosszú utat"
+          },
+          "fix short path": {
+            "name": "javítsd meg a rövid utat"
+          }
+        },
+        "MC_HOC_2017_10_RETRY_2020": {
           "fix long path": {
             "name": "javítsd meg a hosszú utat"
           },
@@ -737,6 +755,14 @@
             "name": "építs hosszú hidat"
           }
         },
+        "MC_HOC_2017_Ali_2020": {
+          "build short bridge": {
+            "name": "építs rövid hidat"
+          },
+          "build long bridge": {
+            "name": "építs hosszú hidat"
+          }
+        },
         "MC_HOC_2017_FP20x20": {
           "function 1": {
             "name": "függvény 1"
@@ -746,6 +772,14 @@
           }
         },
         "MC_HOC_2017_FP20x20_2019": {
+          "function 1": {
+            "name": "függvény 1"
+          },
+          "function 2": {
+            "name": "függvény 2"
+          }
+        },
+        "MC_HOC_2017_FP20x20_2020": {
           "function 1": {
             "name": "függvény 1"
           },
@@ -1303,6 +1337,11 @@
             "name": "lehetséges megoldás"
           }
         },
+        "courseB_artist_loops_challenge2_2020": {
+          "potential solution": {
+            "name": "lehetséges megoldás"
+          }
+        },
         "courseC_artist_prog3": {
           "draw flame": {
             "name": "rajzolj lángot",
@@ -1336,7 +1375,23 @@
             "name": "rajzolj tüzet"
           }
         },
+        "courseC_artist_prog3_2020": {
+          "draw flame": {
+            "name": "rajzolj lángot",
+            "parameters": {
+              "x": "x"
+            }
+          },
+          "draw fire": {
+            "name": "rajzolj tüzet"
+          }
+        },
         "courseC_data wizard": {
+          "do something": {
+            "name": "csinálj valamit"
+          }
+        },
+        "courseC_data wizard_2020": {
           "do something": {
             "name": "csinálj valamit"
           }
@@ -1358,6 +1413,14 @@
           }
         },
         "courseD_artist_binary1_2019": {
+          "draw bit": {
+            "name": "rajzolj bitet"
+          },
+          "draw": {
+            "name": "rajzolj"
+          }
+        },
+        "courseD_artist_binary1_2020": {
           "draw bit": {
             "name": "rajzolj bitet"
           },
@@ -1389,6 +1452,14 @@
             "name": "rajzolj bitet"
           }
         },
+        "courseD_artist_binary2_2020": {
+          "draw": {
+            "name": "rajzolj"
+          },
+          "draw bit": {
+            "name": "rajzolj bitet"
+          }
+        },
         "courseD_artist_binary3": {
           "draw": {
             "name": "rajzolj"
@@ -1406,6 +1477,14 @@
           }
         },
         "courseD_artist_binary3_2019": {
+          "draw": {
+            "name": "rajzolj"
+          },
+          "draw bit": {
+            "name": "rajzolj bitet"
+          }
+        },
+        "courseD_artist_binary3_2020": {
           "draw": {
             "name": "rajzolj"
           },
@@ -1437,6 +1516,14 @@
             "name": "rajzolj bitet"
           }
         },
+        "courseD_artist_binary4_2020": {
+          "draw": {
+            "name": "rajzolj"
+          },
+          "draw bit": {
+            "name": "rajzolj bitet"
+          }
+        },
         "courseD_artist_binary5": {
           "draw": {
             "name": "rajzolj"
@@ -1454,6 +1541,14 @@
           }
         },
         "courseD_artist_binary5_2019": {
+          "draw": {
+            "name": "rajzolj"
+          },
+          "draw bit": {
+            "name": "rajzolj bitet"
+          }
+        },
+        "courseD_artist_binary5_2020": {
           "draw": {
             "name": "rajzolj"
           },
@@ -1485,6 +1580,14 @@
             "name": "rajzolj bitet"
           }
         },
+        "courseD_artist_binary6_2020": {
+          "draw": {
+            "name": "rajzolj"
+          },
+          "draw bit": {
+            "name": "rajzolj bitet"
+          }
+        },
         "courseD_artist_binary7": {
           "draw": {
             "name": "rajzolj"
@@ -1502,6 +1605,14 @@
           }
         },
         "courseD_artist_binary7_2019": {
+          "draw": {
+            "name": "rajzolj"
+          },
+          "draw bit": {
+            "name": "rajzolj bitet"
+          }
+        },
+        "courseD_artist_binary7_2020": {
           "draw": {
             "name": "rajzolj"
           },
@@ -1533,6 +1644,14 @@
             "name": "rajzolj bitet"
           }
         },
+        "courseD_artist_binary8_2020": {
+          "draw": {
+            "name": "rajzolj"
+          },
+          "draw bit": {
+            "name": "rajzolj bitet"
+          }
+        },
         "courseD_artist_binary8_predict1": {
           "draw": {
             "name": "rajzolj"
@@ -1557,6 +1676,14 @@
             "name": "rajzolj bitet"
           }
         },
+        "courseD_artist_binary8_predict1_2020": {
+          "draw": {
+            "name": "rajzolj"
+          },
+          "draw bit": {
+            "name": "rajzolj bitet"
+          }
+        },
         "courseD_artist_binaryFP_2018": {
           "draw": {
             "name": "rajzolj"
@@ -1566,6 +1693,14 @@
           }
         },
         "courseD_artist_binaryFP_2019": {
+          "draw": {
+            "name": "rajzolj"
+          },
+          "draw bit": {
+            "name": "rajzolj bitet"
+          }
+        },
+        "courseD_artist_binaryFP_2020": {
           "draw": {
             "name": "rajzolj"
           },
@@ -1589,6 +1724,14 @@
             "name": "rajzolj bitet"
           }
         },
+        "courseD_artist_binary_challenge1_2020": {
+          "draw": {
+            "name": "rajzolj"
+          },
+          "draw bit": {
+            "name": "rajzolj bitet"
+          }
+        },
         "courseD_artist_binary_challenge2_2018": {
           "draw": {
             "name": "rajzolj"
@@ -1598,6 +1741,14 @@
           }
         },
         "courseD_artist_binary_challenge2_2019": {
+          "draw": {
+            "name": "rajzolj"
+          },
+          "draw bit": {
+            "name": "rajzolj bitet"
+          }
+        },
+        "courseD_artist_binary_challenge2_2020": {
           "draw": {
             "name": "rajzolj"
           },
@@ -1759,6 +1910,17 @@
             "name": "rajzolj egy sor hatszöget"
           }
         },
+        "courseE_artist_functions10_2020": {
+          "do something": {
+            "name": "csinálj valamit"
+          },
+          "draw hexagon": {
+            "name": "rajzolj hatszöget"
+          },
+          "draw line of hexagons": {
+            "name": "rajzolj egy sor hatszöget"
+          }
+        },
         "courseE_artist_functions2": {
           "draw a square": {
             "name": "rajzoljon egy négyzetet"
@@ -1774,6 +1936,11 @@
             "name": "rajzoljon egy négyzetet"
           }
         },
+        "courseE_artist_functions2_2020": {
+          "draw a square": {
+            "name": "rajzoljon egy négyzetet"
+          }
+        },
         "courseE_artist_functions2_copy": {
           "draw a square": {
             "name": "rajzoljon egy négyzetet"
@@ -1785,6 +1952,11 @@
           }
         },
         "courseE_artist_functions3_2019": {
+          "draw a star": {
+            "name": "rajzolj egy csillagot"
+          }
+        },
+        "courseE_artist_functions3_2020": {
           "draw a star": {
             "name": "rajzolj egy csillagot"
           }
@@ -1814,6 +1986,11 @@
             "name": "rajzolj egy csillagot"
           }
         },
+        "courseE_artist_functions5_2020": {
+          "draw a star": {
+            "name": "rajzolj egy csillagot"
+          }
+        },
         "courseE_artist_functions5_copy": {
           "draw a star": {
             "name": "rajzolj egy csillagot"
@@ -1838,6 +2015,14 @@
         "courseE_artist_functions7_2019": {
           "draw a window": {
             "name": "rajzolj ablakot"
+          }
+        },
+        "courseE_artist_functions7_2020": {
+          "draw a window": {
+            "name": "rajzolj ablakot"
+          },
+          "draw a house": {
+            "name": "rajzoljon egy házat"
           }
         },
         "courseE_artist_functions8": {
@@ -1873,6 +2058,17 @@
             "name": "rajzolj négyzetet"
           }
         },
+        "courseE_artist_functions8_2020": {
+          "do something": {
+            "name": "csinálj valamit"
+          },
+          "draw a line of squares": {
+            "name": "rajzolj egy sor négyzetet"
+          },
+          "draw square": {
+            "name": "rajzolj négyzetet"
+          }
+        },
         "courseE_artist_functions8a_2018": {
           "draw a square": {
             "name": "rajzoljon egy négyzetet"
@@ -1882,6 +2078,14 @@
           }
         },
         "courseE_artist_functions8a_2019": {
+          "draw a square": {
+            "name": "rajzoljon egy négyzetet"
+          },
+          "do something": {
+            "name": "csinálj valamit"
+          }
+        },
+        "courseE_artist_functions8a_2020": {
           "draw a square": {
             "name": "rajzoljon egy négyzetet"
           },
@@ -1911,6 +2115,17 @@
             "name": "csinálj valamit"
           }
         },
+        "courseE_artist_functions8b_2020": {
+          "draw a line of squares": {
+            "name": "rajzolj egy sor négyzetet"
+          },
+          "draw square": {
+            "name": "rajzolj négyzetet"
+          },
+          "do something": {
+            "name": "csinálj valamit"
+          }
+        },
         "courseE_artist_functions8c_2018": {
           "draw a line of squares": {
             "name": "rajzolj egy sor négyzetet"
@@ -1923,6 +2138,17 @@
           }
         },
         "courseE_artist_functions8c_2019": {
+          "draw a line of squares": {
+            "name": "rajzolj egy sor négyzetet"
+          },
+          "draw square": {
+            "name": "rajzolj négyzetet"
+          },
+          "do something": {
+            "name": "csinálj valamit"
+          }
+        },
+        "courseE_artist_functions8c_2020": {
           "draw a line of squares": {
             "name": "rajzolj egy sor négyzetet"
           },
@@ -1966,6 +2192,17 @@
             "name": "rajzolj vonalat és háromszöget"
           }
         },
+        "courseE_artist_functions9_2020": {
+          "do something": {
+            "name": "csinálj valamit"
+          },
+          "draw triangle": {
+            "name": "rajzolj háromszöget"
+          },
+          "draw line of triangles": {
+            "name": "rajzolj vonalat és háromszöget"
+          }
+        },
         "courseE_artist_functionsProj_2018": {
           "draw hexagon": {
             "name": "rajzolj hatszöget"
@@ -1981,6 +2218,20 @@
           }
         },
         "courseE_artist_functionsProj_2019": {
+          "draw hexagon": {
+            "name": "rajzolj hatszöget"
+          },
+          "draw line of hexagons": {
+            "name": "rajzolj egy sor hatszöget"
+          },
+          "draw a line of squares": {
+            "name": "rajzolj egy sor négyzetet"
+          },
+          "draw square": {
+            "name": "rajzolj négyzetet"
+          }
+        },
+        "courseE_artist_functionsProj_2020": {
           "draw hexagon": {
             "name": "rajzolj hatszöget"
           },
@@ -2018,6 +2269,14 @@
             "name": "csinálj valamit"
           }
         },
+        "courseE_artist_functions_challenge1_2020": {
+          "my design": {
+            "name": "az én tervem"
+          },
+          "do something": {
+            "name": "csinálj valamit"
+          }
+        },
         "courseE_artist_functions_challenge2": {
           "my design": {
             "name": "az én tervem"
@@ -2042,6 +2301,14 @@
             "name": "csinálj valamit"
           }
         },
+        "courseE_artist_functions_challenge2_2020": {
+          "my design": {
+            "name": "az én tervem"
+          },
+          "do something": {
+            "name": "csinálj valamit"
+          }
+        },
         "courseE_artist_functions_predict1": {
           "draw a square": {
             "name": "rajzoljon egy négyzetet"
@@ -2053,6 +2320,11 @@
           }
         },
         "courseE_artist_functions_predict1_2019": {
+          "draw a square": {
+            "name": "rajzoljon egy négyzetet"
+          }
+        },
+        "courseE_artist_functions_predict1_2020": {
           "draw a square": {
             "name": "rajzoljon egy négyzetet"
           }
@@ -2085,6 +2357,17 @@
           }
         },
         "courseE_artist_functions_predict2_2019": {
+          "draw line of polygons": {
+            "name": "rajzolj egy sor sokszöget"
+          },
+          "draw polygon": {
+            "name": "rajzolj sokszöget"
+          },
+          "do something": {
+            "name": "csinálj valamit"
+          }
+        },
+        "courseE_artist_functions_predict2_2020": {
           "draw line of polygons": {
             "name": "rajzolj egy sor sokszöget"
           },
@@ -2210,6 +2493,14 @@
             "name": "sütőtök négyzet"
           }
         },
+        "courseE_farmer_functions10a1_2020": {
+          "get all pumpkins": {
+            "name": "gyűjtsd be az összes sütőtököt"
+          },
+          "pumpkin square": {
+            "name": "sütőtök négyzet"
+          }
+        },
         "courseE_farmer_functions10b": {
           "navigate": {
             "name": "navigálj"
@@ -2239,6 +2530,14 @@
             "name": "gyűjtsd be az összes sütőtököt"
           }
         },
+        "courseE_farmer_functions11_predict_2020": {
+          "pumpkin square": {
+            "name": "sütőtök négyzet"
+          },
+          "get all pumpkins": {
+            "name": "gyűjtsd be az összes sütőtököt"
+          }
+        },
         "courseE_farmer_functions13_2018": {
           "check for corn": {
             "name": "ellenőrizd kukoricát"
@@ -2251,6 +2550,17 @@
           }
         },
         "courseE_farmer_functions13_2019": {
+          "check for corn": {
+            "name": "ellenőrizd kukoricát"
+          },
+          "corn rectangle": {
+            "name": "kukorica téglalap"
+          },
+          "lettuce stairs": {
+            "name": "saláta lépcsők"
+          }
+        },
+        "courseE_farmer_functions13_2020": {
           "check for corn": {
             "name": "ellenőrizd kukoricát"
           },
@@ -2276,6 +2586,11 @@
             "name": "gyűjtsd be az összes sütőtököt"
           }
         },
+        "courseE_farmer_functions2ba_2020": {
+          "get all pumpkins": {
+            "name": "gyűjtsd be az összes sütőtököt"
+          }
+        },
         "courseE_farmer_functions3c": {
           "corn and pumpkin": {
             "name": "kukorica és sütőtök"
@@ -2291,12 +2606,22 @@
             "name": "gyűjtsd be az összes sütőtököt"
           }
         },
+        "courseE_farmer_functions3c1_2020": {
+          "get all pumpkins": {
+            "name": "gyűjtsd be az összes sütőtököt"
+          }
+        },
         "courseE_farmer_functions3c_2018": {
           "get all pumpkins": {
             "name": "gyűjtsd be az összes sütőtököt"
           }
         },
         "courseE_farmer_functions3c_2019": {
+          "get all pumpkins": {
+            "name": "gyűjtsd be az összes sütőtököt"
+          }
+        },
+        "courseE_farmer_functions3c_2020": {
           "get all pumpkins": {
             "name": "gyűjtsd be az összes sütőtököt"
           }
@@ -2586,6 +2911,11 @@
             "name": "menj és gyűjts nektárt számlálóval"
           }
         },
+        "courseF_bee_for_challenge1_2020": {
+          "move and get nectar with counter": {
+            "name": "menj és gyűjts nektárt számlálóval"
+          }
+        },
         "courseF_bee_functions2": {
           "get only nectar": {
             "name": "csak nektárt gyűjts"
@@ -2744,12 +3074,22 @@
             "name": "gyűjtsd be a sort"
           }
         },
+        "courseF_bee_variables_1_2020": {
+          "collect row": {
+            "name": "gyűjtsd be a sort"
+          }
+        },
         "courseF_bee_variables_2_2018": {
           "collect row": {
             "name": "gyűjtsd be a sort"
           }
         },
         "courseF_bee_variables_2_2019": {
+          "collect row": {
+            "name": "gyűjtsd be a sort"
+          }
+        },
+        "courseF_bee_variables_2_2020": {
           "collect row": {
             "name": "gyűjtsd be a sort"
           }
@@ -2764,12 +3104,22 @@
             "name": "gyűjtsd be a sort"
           }
         },
+        "courseF_bee_variables_3_2020": {
+          "collect row": {
+            "name": "gyűjtsd be a sort"
+          }
+        },
         "courseF_bee_variables_4_2018": {
           "collect row": {
             "name": "gyűjtsd be a sort"
           }
         },
         "courseF_bee_variables_4_2019": {
+          "collect row": {
+            "name": "gyűjtsd be a sort"
+          }
+        },
+        "courseF_bee_variables_4_2020": {
           "collect row": {
             "name": "gyűjtsd be a sort"
           }
@@ -2784,12 +3134,22 @@
             "name": "gyűjtsd be a sort"
           }
         },
+        "courseF_bee_variables_5_2020": {
+          "collect row": {
+            "name": "gyűjtsd be a sort"
+          }
+        },
         "courseF_bee_variables_7_2018": {
           "collect": {
             "name": "begyűjtés"
           }
         },
         "courseF_bee_variables_7_2019": {
+          "collect": {
+            "name": "begyűjtés"
+          }
+        },
+        "courseF_bee_variables_7_2020": {
           "collect": {
             "name": "begyűjtés"
           }
@@ -2803,6 +3163,14 @@
           }
         },
         "courseF_bee_variables_8_2019": {
+          "move and increment": {
+            "name": "menj és növeld"
+          },
+          "collect": {
+            "name": "begyűjtés"
+          }
+        },
+        "courseF_bee_variables_8_2020": {
           "move and increment": {
             "name": "menj és növeld"
           },

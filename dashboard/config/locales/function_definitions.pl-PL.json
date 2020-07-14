@@ -532,6 +532,11 @@
             "name": "zbuduj most"
           }
         },
+        "Function intro Ryan_2020": {
+          "build bridge": {
+            "name": "zbuduj most"
+          }
+        },
         "Geometric Sun": {
           "diamond": {
             "name": "diament"
@@ -597,6 +602,11 @@
             "name": "wyczyść ścieżkę"
           }
         },
+        "MC_HOC_2017_07_Cole_2020": {
+          "clear path": {
+            "name": "wyczyść ścieżkę"
+          }
+        },
         "MC_HOC_2017_10_RETRY": {
           "fix long path": {
             "name": "napraw długą ścieżkę"
@@ -613,6 +623,14 @@
             "name": "napraw krótką ścieżkę"
           }
         },
+        "MC_HOC_2017_10_RETRY_2020": {
+          "fix long path": {
+            "name": "napraw długą ścieżkę"
+          },
+          "fix short path": {
+            "name": "napraw krótką ścieżkę"
+          }
+        },
         "MC_HOC_2017_Ali": {
           "build short bridge": {
             "name": "zbuduj krótki most"
@@ -622,6 +640,14 @@
           }
         },
         "MC_HOC_2017_Ali_2019": {
+          "build short bridge": {
+            "name": "zbuduj krótki most"
+          },
+          "build long bridge": {
+            "name": "zbuduj długi most"
+          }
+        },
+        "MC_HOC_2017_Ali_2020": {
           "build short bridge": {
             "name": "zbuduj krótki most"
           },
@@ -1046,7 +1072,19 @@
             }
           }
         },
+        "courseC_artist_prog3_2020": {
+          "draw flame": {
+            "parameters": {
+              "x": "x"
+            }
+          }
+        },
         "courseC_data wizard": {
+          "do something": {
+            "name": "wykonaj coś"
+          }
+        },
+        "courseC_data wizard_2020": {
           "do something": {
             "name": "wykonaj coś"
           }
@@ -1066,6 +1104,13 @@
           }
         },
         "courseD_artist_binary1_2019": {
+          "draw": {
+            "parameters": {
+              "binary": "binarny"
+            }
+          }
+        },
+        "courseD_artist_binary1_2020": {
           "draw": {
             "parameters": {
               "binary": "binarny"
@@ -1093,6 +1138,13 @@
             }
           }
         },
+        "courseD_artist_binary2_2020": {
+          "draw": {
+            "parameters": {
+              "binary": "binarny"
+            }
+          }
+        },
         "courseD_artist_binary3": {
           "draw": {
             "parameters": {
@@ -1108,6 +1160,13 @@
           }
         },
         "courseD_artist_binary3_2019": {
+          "draw": {
+            "parameters": {
+              "binary": "binarny"
+            }
+          }
+        },
+        "courseD_artist_binary3_2020": {
           "draw": {
             "parameters": {
               "binary": "binarny"
@@ -1135,6 +1194,13 @@
             }
           }
         },
+        "courseD_artist_binary4_2020": {
+          "draw": {
+            "parameters": {
+              "binary": "binarny"
+            }
+          }
+        },
         "courseD_artist_binary5": {
           "draw": {
             "parameters": {
@@ -1150,6 +1216,13 @@
           }
         },
         "courseD_artist_binary5_2019": {
+          "draw": {
+            "parameters": {
+              "binary": "binarny"
+            }
+          }
+        },
+        "courseD_artist_binary5_2020": {
           "draw": {
             "parameters": {
               "binary": "binarny"
@@ -1177,6 +1250,13 @@
             }
           }
         },
+        "courseD_artist_binary6_2020": {
+          "draw": {
+            "parameters": {
+              "binary": "binarny"
+            }
+          }
+        },
         "courseD_artist_binary7": {
           "draw": {
             "parameters": {
@@ -1192,6 +1272,13 @@
           }
         },
         "courseD_artist_binary7_2019": {
+          "draw": {
+            "parameters": {
+              "binary": "binarny"
+            }
+          }
+        },
+        "courseD_artist_binary7_2020": {
           "draw": {
             "parameters": {
               "binary": "binarny"
@@ -1219,6 +1306,13 @@
             }
           }
         },
+        "courseD_artist_binary8_2020": {
+          "draw": {
+            "parameters": {
+              "binary": "binarny"
+            }
+          }
+        },
         "courseD_artist_binary8_predict1": {
           "draw": {
             "parameters": {
@@ -1240,6 +1334,13 @@
             }
           }
         },
+        "courseD_artist_binary8_predict1_2020": {
+          "draw": {
+            "parameters": {
+              "binary": "binarny"
+            }
+          }
+        },
         "courseD_artist_binaryFP_2018": {
           "draw": {
             "parameters": {
@@ -1248,6 +1349,13 @@
           }
         },
         "courseD_artist_binaryFP_2019": {
+          "draw": {
+            "parameters": {
+              "binary": "binarny"
+            }
+          }
+        },
+        "courseD_artist_binaryFP_2020": {
           "draw": {
             "parameters": {
               "binary": "binarny"
@@ -1268,6 +1376,13 @@
             }
           }
         },
+        "courseD_artist_binary_challenge1_2020": {
+          "draw": {
+            "parameters": {
+              "binary": "binarny"
+            }
+          }
+        },
         "courseD_artist_binary_challenge2_2018": {
           "draw": {
             "parameters": {
@@ -1276,6 +1391,13 @@
           }
         },
         "courseD_artist_binary_challenge2_2019": {
+          "draw": {
+            "parameters": {
+              "binary": "binarny"
+            }
+          }
+        },
+        "courseD_artist_binary_challenge2_2020": {
           "draw": {
             "parameters": {
               "binary": "binarny"
@@ -1386,6 +1508,11 @@
             "name": "wykonaj coś"
           }
         },
+        "courseE_artist_functions10_2020": {
+          "do something": {
+            "name": "wykonaj coś"
+          }
+        },
         "courseE_artist_functions2": {
           "draw a square": {
             "name": "narysuj kwadrat"
@@ -1401,6 +1528,11 @@
             "name": "narysuj kwadrat"
           }
         },
+        "courseE_artist_functions2_2020": {
+          "draw a square": {
+            "name": "narysuj kwadrat"
+          }
+        },
         "courseE_artist_functions2_copy": {
           "draw a square": {
             "name": "narysuj kwadrat"
@@ -1412,6 +1544,11 @@
           }
         },
         "courseE_artist_functions3_2019": {
+          "draw a star": {
+            "name": "narysuj gwiazdę"
+          }
+        },
+        "courseE_artist_functions3_2020": {
           "draw a star": {
             "name": "narysuj gwiazdę"
           }
@@ -1441,6 +1578,11 @@
             "name": "narysuj gwiazdę"
           }
         },
+        "courseE_artist_functions5_2020": {
+          "draw a star": {
+            "name": "narysuj gwiazdę"
+          }
+        },
         "courseE_artist_functions5_copy": {
           "draw a star": {
             "name": "narysuj gwiazdę"
@@ -1452,6 +1594,11 @@
           }
         },
         "courseE_artist_functions7_2018": {
+          "draw a house": {
+            "name": "narysuj dom"
+          }
+        },
+        "courseE_artist_functions7_2020": {
           "draw a house": {
             "name": "narysuj dom"
           }
@@ -1480,6 +1627,14 @@
             "name": "narysuj kwadrat"
           }
         },
+        "courseE_artist_functions8_2020": {
+          "do something": {
+            "name": "wykonaj coś"
+          },
+          "draw square": {
+            "name": "narysuj kwadrat"
+          }
+        },
         "courseE_artist_functions8a_2018": {
           "draw a square": {
             "name": "narysuj kwadrat"
@@ -1489,6 +1644,14 @@
           }
         },
         "courseE_artist_functions8a_2019": {
+          "draw a square": {
+            "name": "narysuj kwadrat"
+          },
+          "do something": {
+            "name": "wykonaj coś"
+          }
+        },
+        "courseE_artist_functions8a_2020": {
           "draw a square": {
             "name": "narysuj kwadrat"
           },
@@ -1512,6 +1675,14 @@
             "name": "wykonaj coś"
           }
         },
+        "courseE_artist_functions8b_2020": {
+          "draw square": {
+            "name": "narysuj kwadrat"
+          },
+          "do something": {
+            "name": "wykonaj coś"
+          }
+        },
         "courseE_artist_functions8c_2018": {
           "draw square": {
             "name": "narysuj kwadrat"
@@ -1521,6 +1692,14 @@
           }
         },
         "courseE_artist_functions8c_2019": {
+          "draw square": {
+            "name": "narysuj kwadrat"
+          },
+          "do something": {
+            "name": "wykonaj coś"
+          }
+        },
+        "courseE_artist_functions8c_2020": {
           "draw square": {
             "name": "narysuj kwadrat"
           },
@@ -1552,12 +1731,25 @@
             "name": "narysuj trójkąt"
           }
         },
+        "courseE_artist_functions9_2020": {
+          "do something": {
+            "name": "wykonaj coś"
+          },
+          "draw triangle": {
+            "name": "narysuj trójkąt"
+          }
+        },
         "courseE_artist_functionsProj_2018": {
           "draw square": {
             "name": "narysuj kwadrat"
           }
         },
         "courseE_artist_functionsProj_2019": {
+          "draw square": {
+            "name": "narysuj kwadrat"
+          }
+        },
+        "courseE_artist_functionsProj_2020": {
           "draw square": {
             "name": "narysuj kwadrat"
           }
@@ -1577,6 +1769,11 @@
             "name": "wykonaj coś"
           }
         },
+        "courseE_artist_functions_challenge1_2020": {
+          "do something": {
+            "name": "wykonaj coś"
+          }
+        },
         "courseE_artist_functions_challenge2": {
           "do something": {
             "name": "wykonaj coś"
@@ -1592,6 +1789,11 @@
             "name": "wykonaj coś"
           }
         },
+        "courseE_artist_functions_challenge2_2020": {
+          "do something": {
+            "name": "wykonaj coś"
+          }
+        },
         "courseE_artist_functions_predict1": {
           "draw a square": {
             "name": "narysuj kwadrat"
@@ -1603,6 +1805,11 @@
           }
         },
         "courseE_artist_functions_predict1_2019": {
+          "draw a square": {
+            "name": "narysuj kwadrat"
+          }
+        },
+        "courseE_artist_functions_predict1_2020": {
           "draw a square": {
             "name": "narysuj kwadrat"
           }
@@ -1623,6 +1830,11 @@
           }
         },
         "courseE_artist_functions_predict2_2019": {
+          "do something": {
+            "name": "wykonaj coś"
+          }
+        },
+        "courseE_artist_functions_predict2_2020": {
           "do something": {
             "name": "wykonaj coś"
           }
@@ -2035,12 +2247,22 @@
             "name": "zbierz"
           }
         },
+        "courseF_bee_variables_7_2020": {
+          "collect": {
+            "name": "zbierz"
+          }
+        },
         "courseF_bee_variables_8_2018": {
           "collect": {
             "name": "zbierz"
           }
         },
         "courseF_bee_variables_8_2019": {
+          "collect": {
+            "name": "zbierz"
+          }
+        },
+        "courseF_bee_variables_8_2020": {
           "collect": {
             "name": "zbierz"
           }
