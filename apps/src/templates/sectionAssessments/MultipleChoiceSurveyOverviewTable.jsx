@@ -1,6 +1,5 @@
 import PropTypes from 'prop-types';
 import React, {Component} from 'react';
-import {connect} from 'react-redux';
 import * as Table from 'reactabular-table';
 import * as sort from 'sortabular';
 import {tableLayoutStyles, sortableOptions} from '../tables/tableConstants';
@@ -10,7 +9,8 @@ import orderBy from 'lodash/orderBy';
 import PercentAnsweredCell from './PercentAnsweredCell';
 import styleConstants from '@cdo/apps/styleConstants';
 import color from '@cdo/apps/util/color';
-import {setQuestionIndex} from './sectionAssessmentsRedux';
+import MultipleChoiceSurveyQuestionDialog from './MultipleChoiceSurveyQuestionDialog';
+import {multipleChoiceDataPropType} from './assessmentDataShapes';
 
 export const COLUMNS = {
   QUESTION: 0
@@ -68,18 +68,6 @@ const answerColumnsFormatter = (
   );
 };
 
-const answerDataPropType = PropTypes.shape({
-  multipleChoiceOption: PropTypes.string,
-  percentAnswered: PropTypes.number
-});
-
-export const multipleChoiceSurveyDataPropType = PropTypes.shape({
-  id: PropTypes.number.isRequired,
-  question: PropTypes.string.isRequired,
-  answers: PropTypes.arrayOf(answerDataPropType),
-  notAnswered: PropTypes.number.isRequired
-});
-
 /**
  * A single table that shows students' responses to each multiple choice question for a survey.
  * The table displays the percent of students that select an answer choice and
@@ -87,18 +75,15 @@ export const multipleChoiceSurveyDataPropType = PropTypes.shape({
  */
 class MultipleChoiceSurveyOverviewTable extends Component {
   static propTypes = {
-    multipleChoiceSurveyData: PropTypes.arrayOf(
-      multipleChoiceSurveyDataPropType
-    ),
-    openDialog: PropTypes.func.isRequired,
-    setQuestionIndex: PropTypes.func.isRequired
+    multipleChoiceSurveyData: PropTypes.arrayOf(multipleChoiceDataPropType)
   };
 
   state = {
     [COLUMNS.QUESTION]: {
       direction: 'desc',
       position: 0
-    }
+    },
+    selectedQuestionIndex: -1
   };
 
   getSortingColumns = () => {
@@ -120,10 +105,9 @@ class MultipleChoiceSurveyOverviewTable extends Component {
     });
   };
 
-  selectQuestion = index => {
-    this.props.setQuestionIndex(index);
-    this.props.openDialog();
-  };
+  selectQuestion = index => this.setState({selectedQuestionIndex: index});
+
+  closeDialog = () => this.setState({selectedQuestionIndex: -1});
 
   questionFormatter = (
     question,
@@ -241,22 +225,24 @@ class MultipleChoiceSurveyOverviewTable extends Component {
       sort: orderBy
     })(this.props.multipleChoiceSurveyData);
 
+    const questionIndex = this.state.selectedQuestionIndex;
+    const questionData = this.props.multipleChoiceSurveyData[questionIndex];
     return (
-      <Table.Provider columns={columns} style={tableLayoutStyles.table}>
-        <Table.Header />
-        <Table.Body rows={sortedRows} rowKey="id" />
-      </Table.Provider>
+      <div>
+        {questionIndex >= 0 && (
+          <MultipleChoiceSurveyQuestionDialog
+            isDialogOpen={true}
+            closeDialog={this.closeDialog}
+            questionData={questionData}
+          />
+        )}
+        <Table.Provider columns={columns} style={tableLayoutStyles.table}>
+          <Table.Header />
+          <Table.Body rows={sortedRows} rowKey="id" />
+        </Table.Provider>
+      </div>
     );
   }
 }
 
-export const UnconnectedMultipleChoiceSurveyOverviewTable = MultipleChoiceSurveyOverviewTable;
-
-export default connect(
-  state => ({}),
-  dispatch => ({
-    setQuestionIndex(questionIndex) {
-      dispatch(setQuestionIndex(questionIndex));
-    }
-  })
-)(MultipleChoiceSurveyOverviewTable);
+export default MultipleChoiceSurveyOverviewTable;
